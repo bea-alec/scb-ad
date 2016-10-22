@@ -1,0 +1,40 @@
+CREATE DATABASE bea_scb
+  DEFAULT CHARACTER SET utf8
+  DEFAULT COLLATE utf8_general_ci;
+
+USE bea_scb;
+
+CREATE TABLE articles (
+ID VARCHAR(20),
+Volume INTEGER,
+Issue INTEGER,
+Month VARCHAR(9),
+Year INTEGER,
+Title VARCHAR(1024),
+Author VARCHAR(1024),
+Description VARCHAR(1024),
+URL TEXT,
+Category VARCHAR(255),
+Publication_Date VARCHAR(255),
+Modified_Date VARCHAR(255),
+Supp1_Title VARCHAR(255),
+Supp1_URL TEXT,
+Supp2_Title VARCHAR(255),
+Supp2_URL TEXT,
+Supp3_Title VARCHAR(255),
+Supp3_URL TEXT,
+Supp4_Title VARCHAR(255),
+Supp4_URL TEXT,
+Supp5_Title VARCHAR(255),
+Supp5_URL TEXT,
+Supp6_Title VARCHAR(255),
+Supp6_URL TEXT,
+Supp7_Title VARCHAR(255),
+Supp7_URL TEXT,
+Supp8_Title VARCHAR(255),
+Supp8_URL TEXT,
+Supp9_Title VARCHAR(255),
+Supp9_URL TEXT,
+Supp10_Title VARCHAR(255),
+Supp10_URL TEXT
+);

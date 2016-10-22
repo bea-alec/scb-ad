@@ -1,0 +1,2596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-81-01-D-01</ID>
+        <Volume>81</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2001</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2001/0101dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-01-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-01-D-02</ID>
+        <Volume>81</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2001</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2001/0101dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-01-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-01-D-03</ID>
+        <Volume>81</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2001</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2001/0101dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-01-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-01-D-04</ID>
+        <Volume>81</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2001</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/2001/0101dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-01-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-01-D-05</ID>
+        <Volume>81</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2001/0101dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-01-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-01-D-06</ID>
+        <Volume>81</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2001</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2001/0101dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-01-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-01-D-07</ID>
+        <Volume>81</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2001</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/2001/0101dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-01-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-01-D-08</ID>
+        <Volume>81</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2001</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2001/0101dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-01-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-01-D-09</ID>
+        <Volume>81</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2001/0101dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-01-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-01-D-10</ID>
+        <Volume>81</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2001</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2001/0101dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-01-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-01-D-11</ID>
+        <Volume>81</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2001</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2001/0101dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-01-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-01-D-12</ID>
+        <Volume>81</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2001/0101dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-01-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-81-02-D-01</ID>
+        <Volume>81</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2001</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2001/0201dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-02-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-02-D-02</ID>
+        <Volume>81</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2001</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2001/0201dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-02-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-02-D-03</ID>
+        <Volume>81</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2001</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2001/0201dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-02-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-02-D-04</ID>
+        <Volume>81</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2001</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/2001/0201dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-02-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-02-D-05</ID>
+        <Volume>81</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2001/0201dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-02-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-02-D-06</ID>
+        <Volume>81</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2001</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2001/0201dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-02-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-02-D-07</ID>
+        <Volume>81</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2001</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/2001/0201dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-02-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-02-D-08</ID>
+        <Volume>81</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2001</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2001/0201dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-02-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-02-D-09</ID>
+        <Volume>81</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2001/0201dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-02-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-02-D-10</ID>
+        <Volume>81</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2001</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2001/0201dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-02-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-02-D-11</ID>
+        <Volume>81</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2001</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2001/0201dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-02-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-02-D-12</ID>
+        <Volume>81</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2001/0101dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-02-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-02-D-13</ID>
+        <Volume>81</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2001</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/beawide/2001/0201apxa.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2001-02-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-02-D-14</ID>
+        <Volume>81</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2001</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/beawide/2001/0201apxb.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2001-02-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-81-03-D-01</ID>
+        <Volume>81</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2001</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/national/nipa/2001/0301dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-03-D-02</ID>
+        <Volume>81</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2001</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/national/nipa/2001/0301dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-03-D-03</ID>
+        <Volume>81</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2001</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/national/nipa/2001/0301dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-03-D-04</ID>
+        <Volume>81</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2001</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/national/niparel/2001/0301dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-03-D-05</ID>
+        <Volume>81</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/national/nipa/2001/0301dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-03-D-06</ID>
+        <Volume>81</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2001</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/internat/bpa/2001/0301dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-03-D-07</ID>
+        <Volume>81</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2001</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/internat/fdinvest/2001/0301dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-03-D-08</ID>
+        <Volume>81</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2001</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/internat/bpa/2001/0301dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-03-D-09</ID>
+        <Volume>81</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/internat/bpa/2001/0301dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-03-D-10</ID>
+        <Volume>81</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2001</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/regional/perinc/2001/0301dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-03-D-11</ID>
+        <Volume>81</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2001</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/regional/perinc/2001/0301dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-03-D-12</ID>
+        <Volume>81</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/regional/perinc/2001/0301dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-03-D-13</ID>
+        <Volume>81</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2001</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/beawide/2001/0301apxa.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2001-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-03-D-14</ID>
+        <Volume>81</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2001</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/beawide/2001/0301dapxb.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2001-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-81-04-D-01</ID>
+        <Volume>81</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2001</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/national/nipa/2001/0401dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-04-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-04-D-02</ID>
+        <Volume>81</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2001</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/national/nipa/2001/0401dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-04-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-04-D-03</ID>
+        <Volume>81</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2001</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/national/nipa/2001/0401dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-04-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-04-D-04</ID>
+        <Volume>81</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2001</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/national/niparel/2001/0401dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-04-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-04-D-05</ID>
+        <Volume>81</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/national/nipa/2001/0401dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-04-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-04-D-06</ID>
+        <Volume>81</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2001</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/internat/bpa/2001/0401dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-04-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-04-D-07</ID>
+        <Volume>81</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2001</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/internat/fdinvest/2001/0401dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-04-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-04-D-08</ID>
+        <Volume>81</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2001</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/internat/bpa/2001/0401dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-04-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-04-D-09</ID>
+        <Volume>81</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/internat/bpa/2001/0401dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-04-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-04-D-10</ID>
+        <Volume>81</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2001</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/regional/perinc/2001/0401dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-04-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-04-D-11</ID>
+        <Volume>81</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2001</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/regional/perinc/2001/0401dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-04-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-04-D-12</ID>
+        <Volume>81</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/regional/perinc/2001/0401dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-04-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-04-D-13</ID>
+        <Volume>81</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2001</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/beawide/2001/0401dapxa.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2001-04-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-04-D-14</ID>
+        <Volume>81</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2001</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/beawide/2001/0401dapxb.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2001-04-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-81-05-D-01</ID>
+        <Volume>81</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2001</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/national/nipa/2001/0501dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-05-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-05-D-02</ID>
+        <Volume>81</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2001</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/national/nipa/2001/0501dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-05-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-05-D-03</ID>
+        <Volume>81</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2001</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/national/nipa/2001/0501dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-05-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-05-D-04</ID>
+        <Volume>81</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2001</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/national/niparel/2001/0501dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-05-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-05-D-05</ID>
+        <Volume>81</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/national/nipa/2001/0501dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-05-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-05-D-06</ID>
+        <Volume>81</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2001</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/internat/bpa/2001/0501dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-05-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-05-D-07</ID>
+        <Volume>81</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2001</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/internat/fdinvest/2001/0501dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-05-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-05-D-08</ID>
+        <Volume>81</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2001</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/internat/bpa/2001/0501dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-05-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-05-D-09</ID>
+        <Volume>81</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/internat/bpa/2001/0501dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-05-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-05-D-10</ID>
+        <Volume>81</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2001</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/regional/perinc/2001/0501dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-05-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-05-D-11</ID>
+        <Volume>81</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2001</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/regional/perinc/2001/0501dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-05-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-05-D-12</ID>
+        <Volume>81</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/regional/perinc/2001/0501dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-05-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-05-D-13</ID>
+        <Volume>81</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2001</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/beawide/2001/0501dapxa.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2001-05-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-05-D-14</ID>
+        <Volume>81</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2001</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/beawide/2001/0501dapxb.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2001-05-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-81-06-D-01</ID>
+        <Volume>81</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2001</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/06June/Dpages/0601DpgA.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-06-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-06-D-02</ID>
+        <Volume>81</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2001</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/06June/Dpages/0601DpgB.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-06-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-06-D-03</ID>
+        <Volume>81</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2001</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/06June/Dpages/0601DpgC.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-06-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-06-D-04</ID>
+        <Volume>81</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2001</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/06June/Dpages/0601DpgD.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-06-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-06-D-05</ID>
+        <Volume>81</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/06June/Dpages/0601DpgE.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-06-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-06-D-06</ID>
+        <Volume>81</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2001</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/06June/Dpages/0601DpgF.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-06-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-06-D-07</ID>
+        <Volume>81</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2001</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/06June/Dpages/0601DpgG.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-06-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-06-D-08</ID>
+        <Volume>81</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2001</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/06June/Dpages/0601DpgH.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-06-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-06-D-09</ID>
+        <Volume>81</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/06June/Dpages/0601DpgI.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-06-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-06-D-10</ID>
+        <Volume>81</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2001</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/06June/Dpages/0601DpgJ.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-06-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-06-D-11</ID>
+        <Volume>81</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2001</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/06June/Dpages/0601DpgK.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-06-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-06-D-12</ID>
+        <Volume>81</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/06June/Dpages/0601DpgL.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-06-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-06-D-13</ID>
+        <Volume>81</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2001</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/06June/Dpages/0601Dapxa.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2001-06-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-06-D-14</ID>
+        <Volume>81</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2001</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/06June/Dpages/0601Dapxb.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2001-06-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-81-07-D-01</ID>
+        <Volume>81</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2001</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/07July/Dpages/0701DpgA.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-07-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-07-D-02</ID>
+        <Volume>81</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2001</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/07July/Dpages/0701DpgB.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-07-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-07-D-03</ID>
+        <Volume>81</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2001</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/07July/Dpages/0701DpgC.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-07-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-07-D-04</ID>
+        <Volume>81</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2001</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/07July/Dpages/0701DpgD.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-07-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-07-D-05</ID>
+        <Volume>81</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/07July/Dpages/0701DpgE.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-07-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-07-D-06</ID>
+        <Volume>81</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2001</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/07July/Dpages/0701DpgH.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-07-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-07-D-07</ID>
+        <Volume>81</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2001</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/07July/Dpages/0701DpgJ.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-07-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-07-D-08</ID>
+        <Volume>81</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2001</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/07July/Dpages/0701DpgK.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-07-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-07-D-09</ID>
+        <Volume>81</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/07July/Dpages/0701DpgL.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-07-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-07-D-10</ID>
+        <Volume>81</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2001</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/07July/Dpages/0701Dapxa.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2001-07-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-07-D-11</ID>
+        <Volume>81</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2001</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/07July/Dpages/0701Dapxb.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2001-07-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-81-08-D-01</ID>
+        <Volume>81</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2001</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/08august/DPages/0801DpgD.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-08-D-02</ID>
+        <Volume>81</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/08august/DPages/0801DpgE.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-08-D-03</ID>
+        <Volume>81</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2001</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/08august/DPages/0801DpgF.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-08-D-04</ID>
+        <Volume>81</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2001</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/08august/DPages/0801DpgG.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-08-D-05</ID>
+        <Volume>81</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2001</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/08august/DPages/0801DpgH.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-08-D-06</ID>
+        <Volume>81</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/08august/DPages/0801DpgI.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-08-D-07</ID>
+        <Volume>81</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2001</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/08august/DPages/0801DpgJ.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-08-D-08</ID>
+        <Volume>81</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2001</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/08august/DPages/0801DpgK.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-08-D-09</ID>
+        <Volume>81</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/08august/DPages/0801DpgL.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-08-D-10</ID>
+        <Volume>81</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2001</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/08august/DPages/0801Dapxa.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2001-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-08-D-11</ID>
+        <Volume>81</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2001</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/08august/DPages/0801Dapxb.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2001-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-81-09-D-01</ID>
+        <Volume>81</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2001</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/09september/D-Pages/0901DpgA.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-09-D-02</ID>
+        <Volume>81</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2001</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/09september/D-Pages/0901DpgB.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-09-D-03</ID>
+        <Volume>81</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2001</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/09september/D-Pages/0901DpgC.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-09-D-04</ID>
+        <Volume>81</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2001</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/09september/D-Pages/0901DpgD.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-09-D-05</ID>
+        <Volume>81</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/09september/D-Pages/0901DpgE.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-09-D-06</ID>
+        <Volume>81</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2001</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/09september/D-Pages/0901DpgF.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-09-D-07</ID>
+        <Volume>81</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2001</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/09september/D-Pages/0901DpgG.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-09-D-08</ID>
+        <Volume>81</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2001</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/09september/D-Pages/0901DpgH.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-09-D-09</ID>
+        <Volume>81</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/09september/D-Pages/0901DpgI.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-09-D-10</ID>
+        <Volume>81</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2001</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/09september/D-Pages/0901DpgJ.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-09-D-11</ID>
+        <Volume>81</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2001</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/09september/D-Pages/0901DpgK.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-09-D-12</ID>
+        <Volume>81</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/09september/D-Pages/0901DpgL.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-09-D-13</ID>
+        <Volume>81</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2001</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/09september/D-Pages/0901AppendixA.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2001-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-09-D-14</ID>
+        <Volume>81</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2001</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/09september/D-Pages/0901AppendixB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2001-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-81-10-D-01</ID>
+        <Volume>81</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2001</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/10october/D-Pages/1001DpgA.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-10-D-02</ID>
+        <Volume>81</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2001</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/10october/D-Pages/1001DpgB.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-10-D-03</ID>
+        <Volume>81</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2001</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/10october/D-Pages/1001DpgC.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-10-D-04</ID>
+        <Volume>81</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2001</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/10october/D-Pages/1001DpgD.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-10-D-05</ID>
+        <Volume>81</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/10october/D-Pages/1001DpgE.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-10-D-06</ID>
+        <Volume>81</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2001</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/10october/D-Pages/1001DpgF.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-10-D-07</ID>
+        <Volume>81</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2001</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/10october/D-Pages/1001DpgG.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-10-D-08</ID>
+        <Volume>81</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2001</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/10october/D-Pages/1001DpgH.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-10-D-09</ID>
+        <Volume>81</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/10october/D-Pages/1001DpgI.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-10-D-10</ID>
+        <Volume>81</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2001</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/10october/D-Pages/1001DpgJ.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-10-D-11</ID>
+        <Volume>81</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2001</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/10october/D-Pages/1001DpgK.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-10-D-12</ID>
+        <Volume>81</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/10october/D-Pages/1001DpgL.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-10-D-13</ID>
+        <Volume>81</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2001</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/10october/D-Pages/1001AppendixA.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2001-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-10-D-14</ID>
+        <Volume>81</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2001</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/10october/D-Pages/1001AppendixB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2001-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-81-11-D-01</ID>
+        <Volume>81</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2001</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/11november/D-Pages/1101DpgA.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-11-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-11-D-02</ID>
+        <Volume>81</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2001</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/11november/D-Pages/1101DpgB.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-11-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-11-D-03</ID>
+        <Volume>81</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2001</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/11november/D-Pages/1101DpgC.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-11-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-11-D-04</ID>
+        <Volume>81</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2001</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/11november/D-Pages/1101DpgD.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-11-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-11-D-05</ID>
+        <Volume>81</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/11november/D-Pages/1101DpgE.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-11-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-11-D-06</ID>
+        <Volume>81</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2001</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/11november/D-Pages/1101DpgF.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-11-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-11-D-07</ID>
+        <Volume>81</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2001</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/11november/D-Pages/1101DpgG.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-11-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-11-D-08</ID>
+        <Volume>81</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2001</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/11november/D-Pages/1101DpgH.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-11-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-11-D-09</ID>
+        <Volume>81</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/11november/D-Pages/1101DpgI.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-11-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-11-D-10</ID>
+        <Volume>81</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2001</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/11november/D-Pages/1101DpgJ.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-11-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-11-D-11</ID>
+        <Volume>81</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2001</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/11november/D-Pages/1101DpgK.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-11-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-11-D-12</ID>
+        <Volume>81</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/11november/D-Pages/1101DpgL.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-11-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-11-D-13</ID>
+        <Volume>81</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2001</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/11november/D-Pages/1101AppendixA.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2001-11-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-11-D-14</ID>
+        <Volume>81</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2001</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/11november/D-Pages/1101AppendixB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2001-11-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-81-12-D-01</ID>
+        <Volume>81</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2001</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/12december/D-Pages/1201DpgA.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-12-D-02</ID>
+        <Volume>81</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2001</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/12december/D-Pages/1201DpgB.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-12-D-03</ID>
+        <Volume>81</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2001</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/12december/D-Pages/1201DpgC.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-12-D-04</ID>
+        <Volume>81</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2001</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/12december/D-Pages/1201DpgD.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-12-D-05</ID>
+        <Volume>81</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/12december/D-Pages/1201DpgE.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2001-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-12-D-06</ID>
+        <Volume>81</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2001</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/12december/D-Pages/1201DpgF.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-12-D-07</ID>
+        <Volume>81</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2001</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/12december/D-Pages/1201DpgG.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-12-D-08</ID>
+        <Volume>81</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2001</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/12december/D-Pages/1201DpgH.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-12-D-09</ID>
+        <Volume>81</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/12december/D-Pages/1201DpgI.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2001-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-12-D-10</ID>
+        <Volume>81</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2001</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/12december/D-Pages/1201DpgJ.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-12-D-11</ID>
+        <Volume>81</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2001</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/12december/D-Pages/1201DpgK.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-12-D-12</ID>
+        <Volume>81</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2001</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/12december/D-Pages/1201DpgL.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2001-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-12-D-13</ID>
+        <Volume>81</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2001</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/12december/D-Pages/1201AppendixA.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2001-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-81-12-D-14</ID>
+        <Volume>81</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2001</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2001/12december/D-Pages/1201AppendixB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2001-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>

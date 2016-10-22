@@ -1,0 +1,2148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-80-01-D-01</ID>
+        <Volume>80</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2000</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0100dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-01-D-02</ID>
+        <Volume>80</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2000</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0100dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-01-D-03</ID>
+        <Volume>80</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2000</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0100dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-01-D-04</ID>
+        <Volume>80</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2000</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/2000/0100dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-01-D-05</ID>
+        <Volume>80</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0100dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-01-D-06</ID>
+        <Volume>80</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2000</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0100dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-01-D-07</ID>
+        <Volume>80</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2000</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/2000/0100dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-01-D-08</ID>
+        <Volume>80</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2000</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0100dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-01-D-09</ID>
+        <Volume>80</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0100dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-01-D-10</ID>
+        <Volume>80</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2000</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/0100dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-01-D-11</ID>
+        <Volume>80</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2000</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/0100dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-01-D-12</ID>
+        <Volume>80</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/0100dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-01-D-13</ID>
+        <Volume>80</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2000</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/2000/0100dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>2000-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-80-02-D-01</ID>
+        <Volume>80</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2000</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0200dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-02-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-02-D-02</ID>
+        <Volume>80</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2000</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0200dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-02-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-02-D-03</ID>
+        <Volume>80</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2000</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0200dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-02-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-02-D-04</ID>
+        <Volume>80</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2000</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/2000/0200dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-02-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-02-D-05</ID>
+        <Volume>80</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0200dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-02-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-02-D-06</ID>
+        <Volume>80</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2000</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0200dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-02-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-02-D-07</ID>
+        <Volume>80</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2000</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/2000/0200dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-02-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-02-D-08</ID>
+        <Volume>80</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2000</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0200dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-02-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-02-D-09</ID>
+        <Volume>80</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0200dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-02-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-02-D-10</ID>
+        <Volume>80</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2000</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/0200dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-02-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-02-D-11</ID>
+        <Volume>80</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2000</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/0200dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-02-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-02-D-12</ID>
+        <Volume>80</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/0200dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-02-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-02-D-13</ID>
+        <Volume>80</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2000</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/2000/0200dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>2000-02-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-80-03-D-01</ID>
+        <Volume>80</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2000</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0300dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-03-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-03-D-02</ID>
+        <Volume>80</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2000</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0300dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-03-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-03-D-03</ID>
+        <Volume>80</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2000</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0300dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-03-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-03-D-04</ID>
+        <Volume>80</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2000</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/2000/0300dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-03-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-03-D-05</ID>
+        <Volume>80</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/2000/0300dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-03-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-03-D-06</ID>
+        <Volume>80</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2000</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0300dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-03-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-03-D-07</ID>
+        <Volume>80</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2000</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/2000/0300dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-03-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-03-D-08</ID>
+        <Volume>80</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2000</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0300dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-03-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-03-D-09</ID>
+        <Volume>80</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0300dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-03-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-03-D-10</ID>
+        <Volume>80</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2000</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/0300dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-03-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-03-D-11</ID>
+        <Volume>80</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2000</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/0300dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-03-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-03-D-12</ID>
+        <Volume>80</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/0300dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-03-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-03-D-13</ID>
+        <Volume>80</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2000</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/2000/0300dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>2000-03-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-80-04-D-01</ID>
+        <Volume>80</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2000</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/2000/0400dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-04-26</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-04-D-02</ID>
+        <Volume>80</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0400dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-04-26</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-04-D-03</ID>
+        <Volume>80</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2000</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0400dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-04-26</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-04-D-04</ID>
+        <Volume>80</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2000</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/2000/0400dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-04-26</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-04-D-05</ID>
+        <Volume>80</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2000</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0400dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-04-26</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-04-D-06</ID>
+        <Volume>80</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0400dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-04-26</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-04-D-07</ID>
+        <Volume>80</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2000</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/0400dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-04-26</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-04-D-08</ID>
+        <Volume>80</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2000</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/0400dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-04-26</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-04-D-09</ID>
+        <Volume>80</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/0400dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-04-26</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-04-D-10</ID>
+        <Volume>80</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2000</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/2000/0400dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>2000-04-26</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-80-05-D-01</ID>
+        <Volume>80</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2000</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0500dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-05-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-05-D-02</ID>
+        <Volume>80</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2000</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0500dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-05-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-05-D-03</ID>
+        <Volume>80</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2000</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0500dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-05-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-05-D-04</ID>
+        <Volume>80</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2000</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/2000/0500dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-05-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-05-D-05</ID>
+        <Volume>80</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/2000/0500dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-05-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-05-D-06</ID>
+        <Volume>80</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2000</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0500dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-05-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-05-D-07</ID>
+        <Volume>80</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2000</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/2000/0500dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-05-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-05-D-08</ID>
+        <Volume>80</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2000</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0500dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-05-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-05-D-09</ID>
+        <Volume>80</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0500dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-05-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-05-D-10</ID>
+        <Volume>80</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2000</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/2000/0500apx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>2000-05-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-80-06-D-01</ID>
+        <Volume>80</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2000</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0600dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-06-23</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-06-D-02</ID>
+        <Volume>80</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2000</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0600dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-06-23</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-06-D-03</ID>
+        <Volume>80</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2000</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0600dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-06-23</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-06-D-04</ID>
+        <Volume>80</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2000</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/2000/0600dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-06-23</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-06-D-05</ID>
+        <Volume>80</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0600dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-06-23</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-06-D-06</ID>
+        <Volume>80</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2000</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0600dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-06-23</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-06-D-07</ID>
+        <Volume>80</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2000</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/2000/0600dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-06-23</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-06-D-08</ID>
+        <Volume>80</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2000</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0500dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-06-23</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-06-D-09</ID>
+        <Volume>80</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0600dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-06-23</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-06-D-10</ID>
+        <Volume>80</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2000</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/2000/0600apx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>2000-06-23</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-80-07-D-01</ID>
+        <Volume>80</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2000</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0700dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-07-27</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-07-D-02</ID>
+        <Volume>80</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2000</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0700dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-07-27</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-07-D-03</ID>
+        <Volume>80</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2000</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0700dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-07-27</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-07-D-04</ID>
+        <Volume>80</Volume>
+        <Issue>9</Issue>
+        <Month>July</Month>
+        <Year>2000</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/2000/0700dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-07-27</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-07-D-05</ID>
+        <Volume>80</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0700dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-07-27</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-07-D-06</ID>
+        <Volume>80</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2000</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0700dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-07-27</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-07-D-07</ID>
+        <Volume>80</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2000</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/0700dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-07-27</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-07-D-08</ID>
+        <Volume>80</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2000</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/2000/0700apx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>2000-07-27</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-80-08-D-01</ID>
+        <Volume>80</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2000</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/2000/0800dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-08-D-02</ID>
+        <Volume>80</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0800dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-08-D-03</ID>
+        <Volume>80</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2000</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0800dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-08-D-04</ID>
+        <Volume>80</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2000</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/fdinvest/2000/0800dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-08-D-05</ID>
+        <Volume>80</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2000</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0800dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-08-D-06</ID>
+        <Volume>80</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0800dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-08-D-07</ID>
+        <Volume>80</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2000</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/0800dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-08-D-08</ID>
+        <Volume>80</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2000</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/0800dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-08-D-09</ID>
+        <Volume>80</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/0800dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-08-D-10</ID>
+        <Volume>80</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2000</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/beawide/2000/08apxa.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2000-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-08-D-11</ID>
+        <Volume>80</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2000</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/beawide/2000/08apxb.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2000-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-80-09-D-01</ID>
+        <Volume>80</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2000</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0900dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-09-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-09-D-02</ID>
+        <Volume>80</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2000</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0900dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-09-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-09-D-03</ID>
+        <Volume>80</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2000</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0900dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-09-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-09-D-04</ID>
+        <Volume>80</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2000</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/2000/0900dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-09-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-09-D-05</ID>
+        <Volume>80</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/0900dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-09-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-09-D-06</ID>
+        <Volume>80</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2000</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0900dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-09-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-09-D-07</ID>
+        <Volume>80</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2000</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/2000/0900dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-09-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-09-D-08</ID>
+        <Volume>80</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2000</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0900dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-09-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-09-D-09</ID>
+        <Volume>80</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/0900dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-09-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-09-D-10</ID>
+        <Volume>80</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2000</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/0900dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-09-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-09-D-11</ID>
+        <Volume>80</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2000</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/0900dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-09-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-09-D-12</ID>
+        <Volume>80</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/0900dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-09-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-09-D-13</ID>
+        <Volume>80</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2000</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/2000/0900apx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>2000-09-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-80-10-D-01</ID>
+        <Volume>80</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2000</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/1000dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-10-D-02</ID>
+        <Volume>80</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2000</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/1000dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-10-D-03</ID>
+        <Volume>80</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2000</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/1000dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-10-D-04</ID>
+        <Volume>80</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2000</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/2000/1000dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-10-D-05</ID>
+        <Volume>80</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/1000dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-10-D-06</ID>
+        <Volume>80</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2000</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/2000/1000apx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>2000-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-80-11-D-01</ID>
+        <Volume>80</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2000</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/1100dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-11-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-11-D-02</ID>
+        <Volume>80</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2000</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/1100dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-11-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-11-D-03</ID>
+        <Volume>80</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2000</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/1100dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-11-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-11-D-04</ID>
+        <Volume>80</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2000</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/2000/1100dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-11-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-11-D-05</ID>
+        <Volume>80</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/1100dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-11-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-11-D-06</ID>
+        <Volume>80</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2000</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/1100dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-11-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-11-D-07</ID>
+        <Volume>80</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2000</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/2000/1100dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-11-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-11-D-08</ID>
+        <Volume>80</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2000</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/1100dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-11-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-11-D-09</ID>
+        <Volume>80</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/1100dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-11-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-11-D-10</ID>
+        <Volume>80</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2000</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/1100dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-11-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-11-D-11</ID>
+        <Volume>80</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2000</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/1100dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-11-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-11-D-12</ID>
+        <Volume>80</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/1100dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-11-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-11-D-13</ID>
+        <Volume>80</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2000</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/2000/1100apx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>2000-11-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-80-12-D-01</ID>
+        <Volume>80</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2000</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/1200dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-12-D-02</ID>
+        <Volume>80</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2000</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/1200dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-12-D-03</ID>
+        <Volume>80</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2000</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/1200dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-12-D-05</ID>
+        <Volume>80</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/1200dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2000-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-12-D-06</ID>
+        <Volume>80</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2000</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/2000/1200dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-12-D-07</ID>
+        <Volume>80</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2000</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/2000/1200dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-12-D-08</ID>
+        <Volume>80</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2000</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/1200dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-12-D-09</ID>
+        <Volume>80</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/2000/1200dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2000-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-12-D-10</ID>
+        <Volume>80</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2000</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/1200dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-12-D-11</ID>
+        <Volume>80</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2000</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/1200dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-12-D-12</ID>
+        <Volume>80</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2000</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/2000/1200dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2000-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-80-12-D-13</ID>
+        <Volume>80</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2000</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/2000/1200apx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>2000-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>

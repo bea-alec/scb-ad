@@ -1,0 +1,2420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-79-01-D-01</ID>
+        <Volume>79</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1999</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0199dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-01-D-02</ID>
+        <Volume>79</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1999</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0199dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-01-D-03</ID>
+        <Volume>79</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1999</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0199dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-01-D-04</ID>
+        <Volume>79</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1999</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1999/0199dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-01-D-05</ID>
+        <Volume>79</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0199dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-01-D-06</ID>
+        <Volume>79</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1999</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0199dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-01-D-07</ID>
+        <Volume>79</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1999</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1999/0199dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-01-D-08</ID>
+        <Volume>79</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1999</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0199dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-01-D-09</ID>
+        <Volume>79</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0199dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-01-D-10</ID>
+        <Volume>79</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1999</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0199dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-01-D-11</ID>
+        <Volume>79</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1999</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0199dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-01-D-12</ID>
+        <Volume>79</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0199dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-01-D-13</ID>
+        <Volume>79</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1999</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/1999/0199dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1999-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-79-02-D-01</ID>
+        <Volume>79</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1999</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0299dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-02-D-02</ID>
+        <Volume>79</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1999</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0299dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-02-D-03</ID>
+        <Volume>79</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1999</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0299dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-02-D-04</ID>
+        <Volume>79</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1999</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1999/0299dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-02-D-05</ID>
+        <Volume>79</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0299dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-02-D-06</ID>
+        <Volume>79</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1999</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0299dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-02-D-07</ID>
+        <Volume>79</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1999</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1999/0299dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-02-D-08</ID>
+        <Volume>79</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1999</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0299dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-02-D-09</ID>
+        <Volume>79</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0299dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-02-D-10</ID>
+        <Volume>79</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1999</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0299dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-02-D-11</ID>
+        <Volume>79</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1999</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0299dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-02-D-12</ID>
+        <Volume>79</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0299dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-02-D-13</ID>
+        <Volume>79</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1999</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/1999/0299dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1999-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-79-03-D-01</ID>
+        <Volume>79</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1999</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0399dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-03-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-03-D-02</ID>
+        <Volume>79</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1999</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0399dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-03-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-03-D-03</ID>
+        <Volume>79</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1999</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0399dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-03-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-03-D-04</ID>
+        <Volume>79</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1999</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1999/0399dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-03-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-03-D-05</ID>
+        <Volume>79</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0399dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-03-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-03-D-06</ID>
+        <Volume>79</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1999</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0399dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-03-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-03-D-07</ID>
+        <Volume>79</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1999</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1999/0399dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-03-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-03-D-08</ID>
+        <Volume>79</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1999</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0399dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-03-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-03-D-09</ID>
+        <Volume>79</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0399dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-03-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-03-D-10</ID>
+        <Volume>79</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1999</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0399dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-03-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-03-D-11</ID>
+        <Volume>79</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1999</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0399dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-03-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-03-D-12</ID>
+        <Volume>79</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0399dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-03-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-03-D-13</ID>
+        <Volume>79</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1999</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/1999/0399dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1999-03-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-79-04-D-01</ID>
+        <Volume>79</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1999</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0499dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-04-D-02</ID>
+        <Volume>79</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1999</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0499dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-04-D-03</ID>
+        <Volume>79</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1999</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0499dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-04-D-04</ID>
+        <Volume>79</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1999</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1999/0499dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-04-D-05</ID>
+        <Volume>79</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0499dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-04-D-06</ID>
+        <Volume>79</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1999</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0499dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-04-D-07</ID>
+        <Volume>79</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1999</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1999/0499dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-04-D-08</ID>
+        <Volume>79</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1999</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0499dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-04-D-09</ID>
+        <Volume>79</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0499dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-04-D-10</ID>
+        <Volume>79</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1999</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0499dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-04-D-11</ID>
+        <Volume>79</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1999</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0499dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-04-D-12</ID>
+        <Volume>79</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0499dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-04-D-13</ID>
+        <Volume>79</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1999</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/1999/0499dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1999-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-79-05-D-01</ID>
+        <Volume>79</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1999</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0599dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-05-D-02</ID>
+        <Volume>79</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1999</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0599dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-05-D-03</ID>
+        <Volume>79</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1999</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0599dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-05-D-04</ID>
+        <Volume>79</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1999</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1999/0599dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-05-D-05</ID>
+        <Volume>79</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0599dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-05-D-06</ID>
+        <Volume>79</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1999</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0599dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-05-D-07</ID>
+        <Volume>79</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1999</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1999/0599dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-05-D-08</ID>
+        <Volume>79</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1999</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0599dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-05-D-09</ID>
+        <Volume>79</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0599dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-05-D-10</ID>
+        <Volume>79</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1999</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0599dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-05-D-11</ID>
+        <Volume>79</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1999</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0599dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-05-D-12</ID>
+        <Volume>79</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0599dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-05-D-13</ID>
+        <Volume>79</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1999</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/1999/0599dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1999-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-79-06-D-01</ID>
+        <Volume>79</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1999</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0699dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-06-D-02</ID>
+        <Volume>79</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1999</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0699dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-06-D-03</ID>
+        <Volume>79</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1999</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0699dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-06-D-04</ID>
+        <Volume>79</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1999</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1999/0699dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-06-D-05</ID>
+        <Volume>79</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0699dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-06-D-06</ID>
+        <Volume>79</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1999</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0699dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-06-D-07</ID>
+        <Volume>79</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1999</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1999/0699dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-06-D-08</ID>
+        <Volume>79</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1999</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0699dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-06-D-09</ID>
+        <Volume>79</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0699dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-06-D-10</ID>
+        <Volume>79</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1999</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0699dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-06-D-11</ID>
+        <Volume>79</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1999</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0699dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-06-D-12</ID>
+        <Volume>79</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0699dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-06-D-13</ID>
+        <Volume>79</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1999</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/1999/0699dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1999-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-79-07-D-01</ID>
+        <Volume>79</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>1999</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0799dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-07-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-07-D-02</ID>
+        <Volume>79</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>1999</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0799dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-07-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-07-D-03</ID>
+        <Volume>79</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>1999</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0799dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-07-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-07-D-04</ID>
+        <Volume>79</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>1999</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1999/0799dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-07-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-07-D-05</ID>
+        <Volume>79</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0799dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-07-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-07-D-06</ID>
+        <Volume>79</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>1999</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0799dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-07-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-07-D-07</ID>
+        <Volume>79</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>1999</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1999/0799dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-07-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-07-D-08</ID>
+        <Volume>79</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>1999</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0799dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-07-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-07-D-09</ID>
+        <Volume>79</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>1999</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0799dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-07-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-07-D-10</ID>
+        <Volume>79</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>1999</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0799dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-07-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-07-D-11</ID>
+        <Volume>79</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0799dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-07-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-07-D-12</ID>
+        <Volume>79</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>1999</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/1999/0799dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1999-07-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-79-08-D-01</ID>
+        <Volume>79</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>1999</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0899dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-08-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-08-D-02</ID>
+        <Volume>79</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>1999</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0899dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-08-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-08-D-03</ID>
+        <Volume>79</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>1999</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0899dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-08-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-08-D-04</ID>
+        <Volume>79</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>1999</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1999/0899dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-08-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-08-D-05</ID>
+        <Volume>79</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0899dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-08-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-08-D-06</ID>
+        <Volume>79</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>1999</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0899dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-08-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-08-D-07</ID>
+        <Volume>79</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>1999</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1999/0899dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-08-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-08-D-08</ID>
+        <Volume>79</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>1999</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0899dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-08-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-08-D-09</ID>
+        <Volume>79</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0899dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-08-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-08-D-10</ID>
+        <Volume>79</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>1999</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0899dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-08-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-08-D-11</ID>
+        <Volume>79</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>1999</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0899dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-08-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-08-D-12</ID>
+        <Volume>79</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0899dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-08-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-08-D-13</ID>
+        <Volume>79</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>1999</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/1999/0899dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1999-08-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-79-09-D-01</ID>
+        <Volume>79</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1999</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0999dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-09-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-09-D-02</ID>
+        <Volume>79</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1999</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0999dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-09-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-09-D-03</ID>
+        <Volume>79</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1999</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0999dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-09-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-09-D-04</ID>
+        <Volume>79</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1999</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1999/0999dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-09-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-09-D-05</ID>
+        <Volume>79</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/0999dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-09-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-09-D-06</ID>
+        <Volume>79</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1999</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0999dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-09-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-09-D-07</ID>
+        <Volume>79</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1999</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1999/0999dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-09-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-09-D-08</ID>
+        <Volume>79</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1999</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0999dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-09-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-09-D-09</ID>
+        <Volume>79</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/0999dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-09-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-09-D-10</ID>
+        <Volume>79</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1999</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0999dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-09-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-09-D-11</ID>
+        <Volume>79</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1999</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0999dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-09-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-09-D-12</ID>
+        <Volume>79</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/0999dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-09-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-09-D-13</ID>
+        <Volume>79</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1999</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/1999/0999dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1999-09-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-79-10-D-01</ID>
+        <Volume>79</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1999</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/1099dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-10-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-10-D-02</ID>
+        <Volume>79</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1999</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/1099dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-10-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-10-D-03</ID>
+        <Volume>79</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1999</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/1099dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-10-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-10-D-04</ID>
+        <Volume>79</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1999</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1999/1099dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-10-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-10-D-05</ID>
+        <Volume>79</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/1099dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-10-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-10-D-06</ID>
+        <Volume>79</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1999</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/1099dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-10-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-10-D-07</ID>
+        <Volume>79</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1999</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1999/1099dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-10-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-10-D-08</ID>
+        <Volume>79</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1999</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/1099dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-10-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-10-D-09</ID>
+        <Volume>79</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/1099dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-10-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-10-D-10</ID>
+        <Volume>79</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1999</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/1099dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-10-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-10-D-11</ID>
+        <Volume>79</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1999</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/1099dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-10-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-10-D-12</ID>
+        <Volume>79</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/1099dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-10-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-10-D-13</ID>
+        <Volume>79</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1999</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/1999/1099dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1999-10-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-79-11-D-01</ID>
+        <Volume>79</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>1999</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1999/1199dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-11-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-11-D-02</ID>
+        <Volume>79</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/1199dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-11-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-11-D-03</ID>
+        <Volume>79</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>1999</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/1199dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-11-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-11-D-04</ID>
+        <Volume>79</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>1999</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1999/1199dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-11-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-11-D-05</ID>
+        <Volume>79</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>1999</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/1199dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-11-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-11-D-06</ID>
+        <Volume>79</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/1199dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-11-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-11-D-07</ID>
+        <Volume>79</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>1999</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/1199dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-11-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-11-D-08</ID>
+        <Volume>79</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>1999</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/1199dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-11-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-11-D-09</ID>
+        <Volume>79</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/1199dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-11-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-11-D-10</ID>
+        <Volume>79</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>1999</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/1999/1199dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1999-11-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-79-12-D-01</ID>
+        <Volume>79</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>1999</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1999/1299dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-12-D-02</ID>
+        <Volume>79</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1999/1299dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1999-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-12-D-03</ID>
+        <Volume>79</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>1999</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/1299dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-12-D-04</ID>
+        <Volume>79</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>1999</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1999/1299dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-12-D-05</ID>
+        <Volume>79</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>1999</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/1299dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-12-D-06</ID>
+        <Volume>79</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1999/1299dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1999-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-12-D-07</ID>
+        <Volume>79</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>1999</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/1299dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-12-D-08</ID>
+        <Volume>79</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>1999</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/1299dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-12-D-09</ID>
+        <Volume>79</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>1999</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1999/1299dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1999-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-79-12-D-10</ID>
+        <Volume>79</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>1999</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/1999/1299dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1999-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>

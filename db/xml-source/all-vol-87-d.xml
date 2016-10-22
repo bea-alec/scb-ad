@@ -1,0 +1,2420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-87-01-D-01</ID>
+        <Volume>87</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2007</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/01%20January/D-Pages/0107dpg_a.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-01-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-01-D-02</ID>
+        <Volume>87</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2007</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/01%20January/D-Pages/0107dpg_b.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-01-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-01-D-03</ID>
+        <Volume>87</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2007</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/01%20January/D-Pages/0107dpg_c.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-01-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-01-D-04</ID>
+        <Volume>87</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/01%20January/D-Pages/0107dpg_d.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-01-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-01-D-05</ID>
+        <Volume>87</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2007</Year>
+        <Title>Industry Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/01%20January/D-Pages/0107dpg_e.pdf</URL>
+        <Category>D-Pages, Industry Data</Category>
+        <Publication_Date>2007-01-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-01-D-06</ID>
+        <Volume>87</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2007</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/01%20January/D-Pages/0107dpg_f.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-01-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-01-D-07</ID>
+        <Volume>87</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2007</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/01%20January/D-Pages/0107dpg_g.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-01-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-01-D-08</ID>
+        <Volume>87</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/01%20January/D-Pages/0107dpg_h.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-01-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-01-D-09</ID>
+        <Volume>87</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2007</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/01%20January/D-Pages/0107dpg_i.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-01-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-01-D-10</ID>
+        <Volume>87</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2007</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/01%20January/D-Pages/0107dpg_j.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-01-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-01-D-11</ID>
+        <Volume>87</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/01%20January/D-Pages/0107dpg_k.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-01-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-01-D-12</ID>
+        <Volume>87</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2007</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/01%20January/D-Pages/0107appendix_a.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-01-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-01-D-13</ID>
+        <Volume>87</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2007</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/01%20January/D-Pages/0107appendix_b.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-01-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-87-02-D-01</ID>
+        <Volume>87</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2007</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/02%20February/D-Pages/0207dpg_a.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-02-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-02-D-02</ID>
+        <Volume>87</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2007</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/02%20February/D-Pages/0207dpg_b.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-02-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-02-D-03</ID>
+        <Volume>87</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2007</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/02%20February/D-Pages/0207dpg_c.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-02-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-02-D-04</ID>
+        <Volume>87</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/02%20February/D-Pages/0207dpg_d.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-02-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-02-D-05</ID>
+        <Volume>87</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2007</Year>
+        <Title>Industry Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/02%20February/D-Pages/0207dpg_e.pdf</URL>
+        <Category>D-Pages, Industry Data</Category>
+        <Publication_Date>2007-02-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-02-D-06</ID>
+        <Volume>87</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2007</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/02%20February/D-Pages/0207dpg_f.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-02-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-02-D-07</ID>
+        <Volume>87</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2007</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/02%20February/D-Pages/0207dpg_g.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-02-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-02-D-08</ID>
+        <Volume>87</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/02%20February/D-Pages/0207dpg_h.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-02-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-02-D-09</ID>
+        <Volume>87</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2007</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/02%20February/D-Pages/0207dpg_i.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-02-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-02-D-10</ID>
+        <Volume>87</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2007</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/02%20February/D-Pages/0207dpg_j.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-02-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-02-D-11</ID>
+        <Volume>87</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/02%20February/D-Pages/0207dpg_k.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-02-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-02-D-12</ID>
+        <Volume>87</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2007</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/02%20February/D-Pages/0207appendix_a.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-02-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-02-D-13</ID>
+        <Volume>87</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2007</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/02%20February/D-Pages/0207appendix_b.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-02-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-87-03-D-01</ID>
+        <Volume>87</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2007</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/03March/D-Pages/0307Dpg_A.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-03-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-03-D-02</ID>
+        <Volume>87</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2007</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/03March/D-Pages/0307Dpg_B.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-03-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-03-D-03</ID>
+        <Volume>87</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2007</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/03March/D-Pages/0307Dpg_C.pdf#page=1</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-03-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-03-D-04</ID>
+        <Volume>87</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/03March/D-Pages/0307Dpg_D.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-03-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-03-D-05</ID>
+        <Volume>87</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2007</Year>
+        <Title>Industry Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/03March/D-Pages/0307Dpg_E.pdf</URL>
+        <Category>D-Pages, Industry Data</Category>
+        <Publication_Date>2007-03-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-03-D-06</ID>
+        <Volume>87</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2007</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/03March/D-Pages/0307Dpg_F.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-03-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-03-D-07</ID>
+        <Volume>87</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2007</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/03March/D-Pages/0307Dpg_G.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-03-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-03-D-08</ID>
+        <Volume>87</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/03March/D-Pages/0307Dpg_H.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-03-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-03-D-09</ID>
+        <Volume>87</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2007</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/03March/D-Pages/0307Dpg_I.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-03-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-03-D-10</ID>
+        <Volume>87</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2007</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/03March/D-Pages/0307Dpg_J.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-03-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-03-D-11</ID>
+        <Volume>87</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/03March/D-Pages/0307Dpg_K.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-03-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-03-D-12</ID>
+        <Volume>87</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2007</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/03March/D-Pages/0307AppendixA.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-03-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-03-D-13</ID>
+        <Volume>87</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2007</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/03March/D-Pages/0307AppendixB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-03-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-87-04-D-01</ID>
+        <Volume>87</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2007</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/04%20April/D-pages/0407Dpg_A.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-04-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-04-D-02</ID>
+        <Volume>87</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2007</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/04%20April/D-pages/0407Dpg_B.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-04-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-04-D-03</ID>
+        <Volume>87</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2007</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/04%20April/D-pages/0407Dpg_C.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-04-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-04-D-04</ID>
+        <Volume>87</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/04%20April/D-pages/0407Dpg_D.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-04-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-04-D-05</ID>
+        <Volume>87</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2007</Year>
+        <Title>Industry Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/04%20April/D-pages/0407Dpg_E.pdf</URL>
+        <Category>D-Pages, Industry Data</Category>
+        <Publication_Date>2007-04-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-04-D-06</ID>
+        <Volume>87</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2007</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/04%20April/D-pages/0407Dpg_F.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-04-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-04-D-07</ID>
+        <Volume>87</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2007</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/04%20April/D-pages/0407Dpg_G.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-04-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-04-D-08</ID>
+        <Volume>87</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/04%20April/D-pages/0407Dpg_H.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-04-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-04-D-09</ID>
+        <Volume>87</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2007</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/04%20April/D-pages/0407Dpg_I.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-04-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-04-D-10</ID>
+        <Volume>87</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2007</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/04%20April/D-pages/0407Dpg_J.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-04-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-04-D-11</ID>
+        <Volume>87</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/04%20April/D-pages/0407Dpg_K.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-04-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-04-D-12</ID>
+        <Volume>87</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2007</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/04%20April/D-pages/0407AppendixA.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-04-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-04-D-13</ID>
+        <Volume>87</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2007</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/04%20April/D-pages/0407AppendixB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-04-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-87-05-D-01</ID>
+        <Volume>87</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2007</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/05%20May/D-Pages/0507Dpg_A.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-05-D-02</ID>
+        <Volume>87</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2007</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/05%20May/D-Pages/0507Dpg_B.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-05-D-03</ID>
+        <Volume>87</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2007</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/05%20May/D-Pages/0507Dpg_C.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-05-D-04</ID>
+        <Volume>87</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/05%20May/D-Pages/0507Dpg_D.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-05-D-05</ID>
+        <Volume>87</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2007</Year>
+        <Title>Industry Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/05%20May/D-Pages/0507Dpg_E.pdf</URL>
+        <Category>D-Pages, Industry Data</Category>
+        <Publication_Date>2007-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-05-D-06</ID>
+        <Volume>87</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2007</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/05%20May/D-Pages/0507Dpg_F.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-05-D-07</ID>
+        <Volume>87</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2007</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/05%20May/D-Pages/0507Dpg_G.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-05-D-08</ID>
+        <Volume>87</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/05%20May/D-Pages/0507Dpg_H.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-05-D-09</ID>
+        <Volume>87</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2007</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/05%20May/D-Pages/0507Dpg_I.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-05-D-10</ID>
+        <Volume>87</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2007</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/05%20May/D-Pages/0507Dpg_J.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-05-D-11</ID>
+        <Volume>87</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/05%20May/D-Pages/0507Dpg_K.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-05-D-12</ID>
+        <Volume>87</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2007</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/05%20May/D-Pages/0507AppendixA.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-05-D-13</ID>
+        <Volume>87</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2007</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/05%20May/D-Pages/0507AppendixB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-87-06-D-01</ID>
+        <Volume>87</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2007</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/06%20June/D-Pages/0607Dpg_A.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-06-D-02</ID>
+        <Volume>87</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2007</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/06%20June/D-Pages/0607Dpg_B.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-06-D-03</ID>
+        <Volume>87</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2007</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/06%20June/D-Pages/0607Dpg_C.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-06-D-04</ID>
+        <Volume>87</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/06%20June/D-Pages/0607Dpg_D.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-06-D-05</ID>
+        <Volume>87</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2007</Year>
+        <Title>Industry Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/06%20June/D-Pages/0607Dpg_E.pdf</URL>
+        <Category>D-Pages, Industry Data</Category>
+        <Publication_Date>2007-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-06-D-06</ID>
+        <Volume>87</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2007</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/06%20June/D-Pages/0607Dpg_F.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-06-D-07</ID>
+        <Volume>87</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2007</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/06%20June/D-Pages/0607Dpg_G.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-06-D-08</ID>
+        <Volume>87</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/06%20June/D-Pages/0607Dpg_H.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-06-D-09</ID>
+        <Volume>87</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2007</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/06%20June/D-Pages/0607Dpg_I.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-06-D-10</ID>
+        <Volume>87</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2007</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/06%20June/D-Pages/0607Dpg_J.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-06-D-11</ID>
+        <Volume>87</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/06%20June/D-Pages/0607Dpg_K.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-06-D-12</ID>
+        <Volume>87</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2007</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/06%20June/D-Pages/0607AppendixA.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-06-D-13</ID>
+        <Volume>87</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2007</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/06%20June/D-Pages/0607AppendixB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-87-07-D-01</ID>
+        <Volume>87</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2007</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/07%20July/D-Pages/0707_DpgA.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-07-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-07-D-02</ID>
+        <Volume>87</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2007</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/07%20July/D-Pages/0707Dpg_B.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-07-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-07-D-03</ID>
+        <Volume>87</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2007</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/07%20July/D-Pages/0707Dpg_C.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-07-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-07-D-04</ID>
+        <Volume>87</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/07%20July/D-Pages/0707Dpg_D.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-07-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-07-D-05</ID>
+        <Volume>87</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2007</Year>
+        <Title>Industry Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/07%20July/D-Pages/0707Dpg_E.pdf</URL>
+        <Category>D-Pages, Industry Data</Category>
+        <Publication_Date>2007-07-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-07-D-06</ID>
+        <Volume>87</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2007</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/07%20July/D-Pages/0707Dpg_F.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-07-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-07-D-07</ID>
+        <Volume>87</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2007</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/07%20July/D-Pages/0707Dpg_I.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-07-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-07-D-08</ID>
+        <Volume>87</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2007</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/07%20July/D-Pages/0707Dpg_J.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-07-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-07-D-09</ID>
+        <Volume>87</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/07%20July/D-Pages/0707Dpg_K.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-07-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-07-D-10</ID>
+        <Volume>87</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2007</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/07%20July/D-Pages/0707AppendixA.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-07-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-07-D-11</ID>
+        <Volume>87</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2007</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/07%20July/D-Pages/0707AppendixB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-07-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-87-08-D-01</ID>
+        <Volume>87</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2007</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/08%20August/D-pages/0807Dpg_F.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-08-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-08-D-02</ID>
+        <Volume>87</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2007</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/08%20August/D-pages/0807Dpg_G.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-08-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-08-D-03</ID>
+        <Volume>87</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/08%20August/D-pages/0807Dpg_H.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-08-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-08-D-04</ID>
+        <Volume>87</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2007</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/08%20August/D-pages/0807Dpg_I.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-08-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-08-D-05</ID>
+        <Volume>87</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2007</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/08%20August/D-pages/0807Dpg_J.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-08-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-08-D-06</ID>
+        <Volume>87</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/08%20August/D-pages/0807Dpg_K.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-08-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-08-D-07</ID>
+        <Volume>87</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2007</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/08%20August/D-pages/0807AppendixA.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-08-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-08-D-08</ID>
+        <Volume>87</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2007</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/08%20August/D-pages/0807AppendixB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-08-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-87-09-D-01</ID>
+        <Volume>87</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2007</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/09%20September/D-Pages/0907Dpg_A.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-09-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-09-D-02</ID>
+        <Volume>87</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2007</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/09%20September/D-Pages/0907Dpg_B.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-09-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-09-D-03</ID>
+        <Volume>87</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2007</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/09%20September/D-Pages/0907Dpg_C.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-09-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-09-D-04</ID>
+        <Volume>87</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/09%20September/D-Pages/0907Dpg_D.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-09-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-09-D-05</ID>
+        <Volume>87</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2007</Year>
+        <Title>Industry Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/09%20September/D-Pages/0907Dpg_E.pdf</URL>
+        <Category>D-Pages, Industry Data</Category>
+        <Publication_Date>2007-09-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-09-D-06</ID>
+        <Volume>87</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2007</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/09%20September/D-Pages/0907Dpg_F.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-09-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-09-D-07</ID>
+        <Volume>87</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2007</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/09%20September/D-Pages/0907Dpg_G.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-09-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-09-D-08</ID>
+        <Volume>87</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/09%20September/D-Pages/0907Dpg_H.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-09-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-09-D-09</ID>
+        <Volume>87</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2007</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/09%20September/D-Pages/0907Dpg_I.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-09-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-09-D-10</ID>
+        <Volume>87</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2007</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/09%20September/D-Pages/0907Dpg_J.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-09-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-09-D-11</ID>
+        <Volume>87</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/09%20September/D-Pages/0907Dpg_K.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-09-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-09-D-12</ID>
+        <Volume>87</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2007</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/09%20September/D-Pages/0907AppendixA.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-09-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-09-D-13</ID>
+        <Volume>87</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2007</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/09%20September/D-Pages/0907AppendixB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-09-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-87-10-D-01</ID>
+        <Volume>87</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2007</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/10%20October/D-Pages/1007Dpg_A.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-10-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-10-D-02</ID>
+        <Volume>87</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2007</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/10%20October/D-Pages/1007Dpg_B.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-10-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-10-D-03</ID>
+        <Volume>87</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2007</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/10%20October/D-Pages/1007Dpg_C.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-10-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-10-D-04</ID>
+        <Volume>87</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/10%20October/D-Pages/1007Dpg_D.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-10-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-10-D-05</ID>
+        <Volume>87</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2007</Year>
+        <Title>Industry Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/10%20October/D-Pages/1007Dpg_E.pdf</URL>
+        <Category>D-Pages, Industry Data</Category>
+        <Publication_Date>2007-10-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-10-D-06</ID>
+        <Volume>87</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2007</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/10%20October/D-Pages/1007Dpg_F.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-10-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-10-D-07</ID>
+        <Volume>87</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2007</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/10%20October/D-Pages/1007Dpg_G.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-10-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-10-D-08</ID>
+        <Volume>87</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/10%20October/D-Pages/1007Dpg_H.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-10-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-10-D-09</ID>
+        <Volume>87</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2007</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/10%20October/D-Pages/1007Dpg_I.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-10-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-10-D-10</ID>
+        <Volume>87</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2007</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/10%20October/D-Pages/1007Dpg_J.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-10-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-10-D-11</ID>
+        <Volume>87</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/10%20October/D-Pages/1007Dpg_K.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-10-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-10-D-12</ID>
+        <Volume>87</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2007</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/10%20October/D-Pages/1007AppendixA.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-10-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-10-D-13</ID>
+        <Volume>87</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2007</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/10%20October/D-Pages/1007AppendixB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-10-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-87-11-D-01</ID>
+        <Volume>87</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2007</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/11%20November/D_pages/1107dpg_a.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-11-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-11-D-02</ID>
+        <Volume>87</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2007</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/11%20November/D_pages/1107dpg_b.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-11-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-11-D-03</ID>
+        <Volume>87</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2007</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/11%20November/D_pages/1107dpg_c.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-11-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-11-D-04</ID>
+        <Volume>87</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/11%20November/D_pages/1107dpg_d.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-11-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-11-D-05</ID>
+        <Volume>87</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2007</Year>
+        <Title>Industry Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/11%20November/D_pages/1107dpg_e.pdf</URL>
+        <Category>D-Pages, Industry Data</Category>
+        <Publication_Date>2007-11-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-11-D-06</ID>
+        <Volume>87</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2007</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/11%20November/D_pages/1107dpg_f.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-11-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-11-D-07</ID>
+        <Volume>87</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2007</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/11%20November/D_pages/1107dpg_g.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-11-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-11-D-08</ID>
+        <Volume>87</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/11%20November/D_pages/1107dpg_h.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-11-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-11-D-09</ID>
+        <Volume>87</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2007</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/11%20November/D_pages/1107dpg_i.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-11-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-11-D-10</ID>
+        <Volume>87</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2007</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/11%20November/D_pages/1107dpg_j.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-11-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-11-D-11</ID>
+        <Volume>87</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/11%20November/D_pages/1107dpg_k.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-11-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-11-D-12</ID>
+        <Volume>87</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2007</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/11%20November/D_pages/1107_appendixa.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-11-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-11-D-13</ID>
+        <Volume>87</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2007</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/11%20November/D_pages/1107_appendixb.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-11-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-87-12-D-01</ID>
+        <Volume>87</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2007</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/12%20December/D_Pages/1207dpg_a.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-12-D-02</ID>
+        <Volume>87</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2007</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/12%20December/D_Pages/1207dpg_b.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-12-D-03</ID>
+        <Volume>87</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2007</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/12%20December/D_Pages/1207dpg_c.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-12-D-04</ID>
+        <Volume>87</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/12%20December/D_Pages/1207dpg_d.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2007-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-12-D-05</ID>
+        <Volume>87</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2007</Year>
+        <Title>Industry Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/12%20December/D_Pages/1207dpg_e.pdf</URL>
+        <Category>D-Pages, Industry Data</Category>
+        <Publication_Date>2007-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-12-D-06</ID>
+        <Volume>87</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2007</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/12%20December/D_pages/1207dpg_f.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-12-D-07</ID>
+        <Volume>87</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2007</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/12%20December/D_pages/1207dpg_g.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-12-D-08</ID>
+        <Volume>87</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/12%20December/D_Pages/1207dpg_h.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2007-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-12-D-09</ID>
+        <Volume>87</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2007</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/12%20December/D_Pages/1207dpg_i.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-12-D-10</ID>
+        <Volume>87</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2007</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/12%20December/D_Pages/1207dpg_j.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-12-D-11</ID>
+        <Volume>87</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2007</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/12%20December/D_Pages/1207dpg_k.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2007-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-12-D-12</ID>
+        <Volume>87</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2007</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/12%20December/D_Pages/1207appendixa.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-87-12-D-13</ID>
+        <Volume>87</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2007</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2007/12%20December/D_Pages/1207appendixb.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2007-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>

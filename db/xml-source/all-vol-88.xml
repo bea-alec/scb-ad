@@ -1,0 +1,1740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-88-01-01</ID>
+        <Volume>88</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2008</Year>
+        <Title>Director's Message</Title>
+        <Author>J. Steven Landefeld</Author>
+        <Description>Monthly message from BEA Director Steve Landefeld</Description>
+        <URL>http://bea.gov/scb/pdf/2008/01%20January/0108_directmessage.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2008-01-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-01-02</ID>
+        <Volume>88</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2008</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2008/01%20January/0108_takingaccount.pdf</URL>
+        <Category>Taking Account - Economic Studies</Category>
+        <Publication_Date>2008-01-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-01-03</ID>
+        <Volume>88</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2008</Year>
+        <Title>GDP and the Economy: Final Estimates for the Third Quarter of 2007</Title>
+        <Author>Christopher Swann</Author>
+        <Description>Real GDP increased 4.9 percent after increasing 3.8 percent in the second quarter. Exports, consumer spending, and inventory investment all accelerated. Corporate profits turned down.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/01%20January/0108_gdpecon.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-01-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-01-04</ID>
+        <Volume>88</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2008</Year>
+        <Title>Real Inventories, Sales, and Inventory-Sales Ratios for Manufacturing and Trade for the Third Quarter of 2007</Title>
+        <Author></Author>
+        <Description>These statistics, including the estimates of inventories for manufacturing by stage of fabrication, have been updated.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/01%20January/0108_isr.pdf</URL>
+        <Category>National, Inventories, sales, and inventory-sales ratios for manufacturing and trade</Category>
+        <Publication_Date>2008-01-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-01-05</ID>
+        <Volume>88</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2008</Year>
+        <Title>Errata: U.S. Benchmark Input-Output Accounts, 2002</Title>
+        <Author></Author>
+        <Description>Various tables that were published in the October 2007 Survey have been revised: the make and use of commodities before redefinitions, the list of industries in the 2002 benchmark accounts, and the input-output commodity composition of NIPA personal consumption expenditure categories.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/01%20January/0108_errata.pdf</URL>
+        <Category>Industry, Benchmark input-output accounts</Category>
+        <Publication_Date>2008-01-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-01-06</ID>
+        <Volume>88</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2008</Year>
+        <Title>U.S. International Transactions: Third Quarter of 2007</Title>
+        <Author>Douglas B. Weinberg, Jessica Melton Hanson, Kristy L. Howell</Author>
+        <Description>The U.S. current-account deficit decreased $10.5 billion to $178.5 billion from $188.9 billion in the second quarter; the surpluses on income and services increased, while the deficit on goods decreased.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/01%20January/0108_itaqtext.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2008-01-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2008/01%20January/0108_itaqtables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-01-07</ID>
+        <Volume>88</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2008</Year>
+        <Title>An Ownership-Based Framework of the U.S. Current Account, 1997–2006</Title>
+        <Author>Jeffrey H. Lowe</Author>
+        <Description>This annual supplement to the international transactions accounts presents current-account statistics that combine cross-border trade and net receipts of affiliates from sales by multinational companies.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/01%20January/0108_currentacct.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2008-01-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-01-08</ID>
+        <Volume>88</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2008</Year>
+        <Title>State Personal Income: Third Quarter of 2007</Title>
+        <Author>David G. Lenze</Author>
+        <Description>Personal income growth for the nation accelerated, increasing 1.4 percent after increasing 0.9 percent. State personal income growth ranged from 0.8 percent to 3.6 percent. Growth accelerated or held steady in all but 11 states.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/01%20January/0108%20_spi_text.pdf</URL>
+        <Category>Regional, State personal income</Category>
+        <Publication_Date>2008-01-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2008/01%20January/0108%20_spi_tables.pdf</Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-88-02-01</ID>
+        <Volume>88</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2008</Year>
+        <Title>Director's Message</Title>
+        <Author>J. Steven Landefeld</Author>
+        <Description>Monthly message from BEA Director Steve Landefeld</Description>
+        <URL>http://bea.gov/scb/pdf/2008/02%20February/0208_directorsmsg.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2008-02-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-02-02</ID>
+        <Volume>88</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2008</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2008/02%20February/0208_takingacct.pdf</URL>
+        <Category>Taking Account - Economic Studies</Category>
+        <Publication_Date>2008-02-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-02-03</ID>
+        <Volume>88</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2008</Year>
+        <Title>GDP and the Economy: Advance Estimates for the Fourth Quarter of 2007</Title>
+        <Author>Christopher Swann</Author>
+        <Description>Real GDP grew 0.6 percent after growing 4.9 percent in the third quarter. Inventory investment turned down, while exports, consumer spending, and federal government decelerated. In 2007, real GDP increased 2.2 percent after increasing 2.9 percent in 2006.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/02%20February/0208_gdp_and_econ.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-02-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-02-04</ID>
+        <Volume>88</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2008</Year>
+        <Title>Employee Stock Options and the National Economic Accounts</Title>
+        <Author>Carol E. Moylan</Author>
+        <Description>Stock options have become common as part of employee pay packages. This BEA Briefing discusses the national economic accounts' treatment of these options and plans for improvements.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/02%20February/0208_stockoption.pdf</URL>
+        <Category>BEA Briefing</Category>
+        <Publication_Date>2008-02-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-02-05</ID>
+        <Volume>88</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2008</Year>
+        <Title>The Reliability of the GDP and GDI Estimates</Title>
+        <Author>Dennis J. Fixler, Bruce T. Grimm</Author>
+        <Description>This analysis confirms that BEA's estimates provide an accurate picture of the economy, indicating among other things whether growth was positive or negative and whether it was accelerating or decelerating.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/02%20February/0208_reliable.pdf</URL>
+        <Category>National, Gross domestic product and gross domestic income</Category>
+        <Publication_Date>2008-02-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-02-06</ID>
+        <Volume>88</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2008</Year>
+        <Title>Annual Industry Accounts: Revised Statistics for 2004–2006</Title>
+        <Author>Robert J. McCahill, Kevin B. Barefoot, Robert J. Corea</Author>
+        <Description>The services sector once again powered economic growth in 2006. Finance and insurance industries accounted for about 25 percent of economic growth; professional, scientific, and technical services industries accounted for 14 percent of growth.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/02%20February/0208_indyacct.pdf</URL>
+        <Category>Industry, Industry accounts</Category>
+        <Publication_Date>2008-02-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2008/02%20February/0208_indyacctTables.pdf</Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-88-03-01</ID>
+        <Volume>88</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2008</Year>
+        <Title>Director's Message</Title>
+        <Author>J. Steven Landefeld</Author>
+        <Description>Monthly message from BEA Director Steve Landefeld</Description>
+        <URL>http://bea.gov/scb/pdf/2008/03%20March/0308_directorsmessage.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2008-03-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-03-02</ID>
+        <Volume>88</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2008</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2008/03%20March/0308_takingaccount.pdf</URL>
+        <Category>Taking Account - Economic Studies</Category>
+        <Publication_Date>2008-03-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-03-03</ID>
+        <Volume>88</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2008</Year>
+        <Title>GDP and the Economy: Preliminary Estimates for the Fourth Quarter of 2007</Title>
+        <Author>Christopher Swann</Author>
+        <Description>Real GDP grew 0.6 percent after growing 4.9 percent in the third quarter. Inventory investment turned down; exports, consumer spending, and federal government spending decelerated. Motor vehicle output turned down.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/03%20March/0308_gdpecon.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-03-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-03-04</ID>
+        <Volume>88</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2008</Year>
+        <Title>Preview of Revised NIPA Estimates for 2002: Effects of Incorporating the 2002 Benchmark I-O Accounts and Proposed Definition and Statistical Changes</Title>
+        <Author>Kurt Kunze, Stephanie H. McCulla</Author>
+        <Description>This article presents preliminary estimates of gross domestic product based on the newly available benchmark input-output accounts, which will be formally incorporated into the national accounts as part of next year's comprehensive revision.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/03%20March/0308_preview.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-03-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>NIPA Revision Cycle</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2008/03%20March/0308_preview.pdf#page=3</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-03-05</ID>
+        <Volume>88</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2008</Year>
+        <Title>NIPA Translation of the Fiscal Year 2009 Federal Budget</Title>
+        <Author>Benjamin A. Mandel, Andrew E. Vargo</Author>
+        <Description>Every year, BEA prepares federal government estimates that are based on the proposed budget of the U.S. government. This analysis is often used to gauge the effects of the federal budget on U.S. economic activity.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/03%20March/0308_fedbudget.pdf</URL>
+        <Category>National, NIPA translation of the federal budget</Category>
+        <Publication_Date>2008-03-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Economic Growth Package</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2008/03%20March/0308_fedbudget.pdf#page=4</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-03-06</ID>
+        <Volume>88</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2008</Year>
+        <Title>A Primer on BEA's Government Accounts</Title>
+        <Author>Bruce E. Baker, Pamela A. Kelly</Author>
+        <Description>Government activity is a key component of the economy. This article offers an introduction to BEA's government accounts—their structure, concepts, and production.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/03%20March/0308_primer.pdf</URL>
+        <Category>BEA Briefing</Category>
+        <Publication_Date>2008-03-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-03-07</ID>
+        <Volume>88</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2008</Year>
+        <Title>Foreign Location Choices by U.S. Multinational Companies</Title>
+        <Author>Raymond J. Mataloni Jr.</Author>
+        <Description>This article takes a look at the process by which U.S. multinational companies decide where to locate their investments abroad.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/03%20March/0308_locations.pdf</URL>
+        <Category>Research Spotlight</Category>
+        <Publication_Date>2008-03-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-88-04-01</ID>
+        <Volume>88</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2008</Year>
+        <Title>Director's Message</Title>
+        <Author>J. Steven Landefeld</Author>
+        <Description>Monthly message from BEA Director Steve Landefeld</Description>
+        <URL>http://bea.gov/scb/pdf/2008/04%20April/0408_dm.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2008-04-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-04-02</ID>
+        <Volume>88</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2008</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2008/04%20April/0408_takingacct.pdf</URL>
+        <Category>Taking Account - Economic Studies</Category>
+        <Publication_Date>2008-04-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-04-03</ID>
+        <Volume>88</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2008</Year>
+        <Title>GDP and the Economy: Final Estimates for the Fourth Quarter of 2007</Title>
+        <Author>Christopher Swann</Author>
+        <Description>Real GDP grew 0.6 percent after growing 4.9 percent in the third quarter. Inventory investment turned down; exports, consumer spending, and federal government spending decelerated. Motor vehicle output turned down.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/04%20April/0408_gdpecon.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-04-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-04-04</ID>
+        <Volume>88</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2008</Year>
+        <Title>Government Receipts and Expenditures: Fourth Quarter of 2007</Title>
+        <Author>Debasis Chaudhuri</Author>
+        <Description>Net government saving decreased $25.3 billion to –$268.5 billion. Net federal government saving increased $3.6 billion to –$226.7 billion. Net state and local government saving decreased $28.9 billion to –$41.9 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/04%20April/0408_gre.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-04-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-04-05</ID>
+        <Volume>88</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2008</Year>
+        <Title>Real Inventories, Sales, and Inventory-Sales Ratios for Manufacturing and Trade for the Fourth Quarter of 2007</Title>
+        <Author></Author>
+        <Description>These estimates, including estimates of inventories for manufacturing by stage of fabrication, have been updated.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/04%20April/0408_isr.pdf</URL>
+        <Category>National, Inventories, sales, and inventory-sales ratios for manufacturing and trade</Category>
+        <Publication_Date>2008-04-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-04-06</ID>
+        <Volume>88</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2008</Year>
+        <Title>U.S. International Transactions: Fourth Quarter of 2007</Title>
+        <Author>Elena L. Nguyen, Jessica Melton Hanson</Author>
+        <Description>The current-account deficit decreased $4.5 billion to $172.9 billion as a result of increases in the surpluses on income and services. In the financial account, net financial inflows increased $119.0 billion to $230.1 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/04%20April/0408_itaq.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2008-04-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-04-07</ID>
+        <Volume>88</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2008</Year>
+        <Title>U.S. International Transactions in 2007</Title>
+        <Author>Christopher L. Bach</Author>
+        <Description>The current-account deficit decreased $72.8 billion to $738.6 billion as a result of increases in the surpluses on income and services and a decrease in the deficit on goods. In the financial account, net financial inflows decreased $175.8 billion to $657.4 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/04%20April/0408_ita-text.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2008-04-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2008/04%20April/0408_ita-tables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-04-08</ID>
+        <Volume>88</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2008</Year>
+        <Title>State Personal Income: Fourth Quarter of 2007 and Annual Estimates for 2007</Title>
+        <Author>David G. Lenze</Author>
+        <Description>Fourth-quarter personal income growth ranged from 1.4 percent in South Dakota to 0.6 percent in Tennessee. For 2007, growth slowed in the Mideast, Southeast, Southwest, Rocky Mountain, and Far West regions and accelerated in the New England and Plains regions.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/04%20April/0408_spi_text.pdf</URL>
+        <Category>Regional, State personal income</Category>
+        <Publication_Date>2008-04-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2008/04%20April/0408_spi_tables.pdf</Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-88-05-01</ID>
+        <Volume>88</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2008</Year>
+        <Title>Director's Message</Title>
+        <Author>J. Steven Landefeld</Author>
+        <Description>Monthly message from BEA Director Steve Landefeld</Description>
+        <URL>http://bea.gov/scb/pdf/2008/05%20May/0508_directorsmessage.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2008-05-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-05-02</ID>
+        <Volume>88</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2008</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2008/05%20May/0508_takingaccount.pdf</URL>
+        <Category>Taking Account - Economic Studies</Category>
+        <Publication_Date>2008-05-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-05-03</ID>
+        <Volume>88</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2008</Year>
+        <Title>GDP and the Economy: Advance Estimates for the First Quarter of 2008</Title>
+        <Author>Christopher Swann</Author>
+        <Description>Real GDP grew 0.6 percent after growing 0.6 percent in the fourth quarter of 2007. Consumer spending for services, inventory investment, and exports increased. In contrast, housing investment and consumer spending for durable goods decreased.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/05%20May/0508_gdp.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-05-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-05-04</ID>
+        <Volume>88</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2008</Year>
+        <Title>Preview of the 2009 Comprehensive Revision of the National Income and Product Accounts: New Classifications for Personal Consumption Expenditures</Title>
+        <Author>Clinton P. McCully, Teresita D. Teensma</Author>
+        <Description>The new classification system for personal consumption expenditures defines new categories of expenditures by type of expenditure and type of product. In addition, the new system will make the national income and product accounts more consistent with international guidelines.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/05%20May/0508_nipa_pce.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-05-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-05-05</ID>
+        <Volume>88</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2008</Year>
+        <Title>Returns for Domestic Nonfinancial Business</Title>
+        <Author>Paul R. Lally, Andrew W. Hodge, Robert J. Corea</Author>
+        <Description>BEA publishes aggregate rates of returns and Q ratios annually. In 2007, the profitability of nonfinancial corporations decreased for the third time since 2000.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/05%20May/0508_domestic.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-05-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-05-06</ID>
+        <Volume>88</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2008</Year>
+        <Title>Toward a Health Care Satellite Account</Title>
+        <Author>Ana M. Aizcorbe, Bonnie A. Retus, Shelly Smith</Author>
+        <Description>As the economic importance of health care spending grows, BEA plans to construct a satellite account for health care spending that would allow analysts to better assess the returns to treatments of disease and the sources of changes in health care costs.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/05%20May/0508_healthcare.pdf</URL>
+        <Category>BEA Briefing</Category>
+        <Publication_Date>2008-05-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-05-07</ID>
+        <Volume>88</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2008</Year>
+        <Title>A Empirical Review of Methods for Temporal Distribution and Interpolation in the National Accounts</Title>
+        <Author>Baoline Chen, Stephen H. Andrews</Author>
+        <Description>This article summarizes research by BEA economists that assessed the relative strengths and weaknesses of various methods of interpolation used in economic accounting.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/05%20May/0508_methods.pdf</URL>
+        <Category>Research Spotlight</Category>
+        <Publication_Date>2008-05-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-05-08</ID>
+        <Volume>88</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2008</Year>
+        <Title>Annual Industry Accounts: Advance Statistics on GDP by Industry for 2007</Title>
+        <Author>Brian M. Lindberg, Justin M. Monaldo</Author>
+        <Description>In 2007, slowing economic growth was mainly accounted for by four industry groups—finance and insurance, construction, real estate and rental and leasing, and mining. The finance and insurance industry group accounted for nearly half of the slowdown.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/05%20May/0508_indy_acct.pdf</URL>
+        <Category>Industry, Industry accounts</Category>
+        <Publication_Date>2008-05-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-05-09</ID>
+        <Volume>88</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2008</Year>
+        <Title>Local Area Personal Income for 2006</Title>
+        <Author>David G. Lenze</Author>
+        <Description>County personal income growth in 2006 ranged from 648 percent in St. Bernard, Louisiana, to –43 percent in Slope, North Dakota. For the nation, personal income grew 6.7 percent.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/05%20May/0508_lapi.pdf</URL>
+        <Category>Regional, Local area personal income</Category>
+        <Publication_Date>2008-05-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-88-06-01</ID>
+        <Volume>88</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2008</Year>
+        <Title>Director's Message</Title>
+        <Author>J. Steven Landefeld</Author>
+        <Description>Monthly message from BEA Director Steve Landefeld</Description>
+        <URL>http://bea.gov/scb/pdf/2008/06%20June/0608_directmessage.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2008-06-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-06-02</ID>
+        <Volume>88</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2008</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2008/06%20June/0608_takingacct.pdf</URL>
+        <Category>Taking Account - Economic Studies</Category>
+        <Publication_Date>2008-06-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-06-03</ID>
+        <Volume>88</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2008</Year>
+        <Title>GDP and the Economy: Preliminary Estimates for the First Quarter of 2008</Title>
+        <Author>Christopher Swann</Author>
+        <Description>Real GDP increased 0.9 percent after increasing 0.6 percent in the fourth quarter. Consumer spending for services, exports, federal government spending, and inventory investment increased. In contrast, consumer spending for durable goods and housing investment decreased.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/06%20June/0608_gdpecon.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-06-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>The Effect of the Economic Stimulus Act of 2008 on Corporate Profits</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2008/06%20June/0608_gdpecon.pdf#page=10</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-06-04</ID>
+        <Volume>88</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2008</Year>
+        <Title>Government Receipts and Expenditures: First Quarter of 2008</Title>
+        <Author>Debasis Chaudhuri</Author>
+        <Description>Net government saving decreased $115.3 billion to –$375.6 billion. Net federal government saving decreased $93.4 billion to –$311.9 billion. State and local government saving decreased $21.8 billion to –$63.7 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/06%20June/0608_gre.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-06-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-06-05</ID>
+        <Volume>88</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2008</Year>
+        <Title>U.S. Travel and Tourism Satellite Accounts for 2004–2007</Title>
+        <Author>Sarah R. Mattingly, Eric S. Griffith</Author>
+        <Description>The travel and tourism industry grew for the sixth consecutive year in 2007. Revised estimates show that the industry grew 1.9 percent in 2007, compared with 3.1 percent in 2006 and 2.9 percent in 2005.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/06%20June/0608_travel.pdf</URL>
+        <Category>Industry, Travel and tourism satellite accounts</Category>
+        <Publication_Date>2008-06-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-06-06</ID>
+        <Volume>88</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2008</Year>
+        <Title>Improving BEA's Accounts Through Flexible Annual Revisions</Title>
+        <Author>Robert J. Kornfeld, Brian C. Moyer, George M. Smith, David F. Sullivan, Robert E. Yuskavage</Author>
+        <Description>The Bureau of Economic Analysis will take a new approach to annual revisions of its economic accounts beginning in 2010. This article discusses the benefits of the new approach.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/06%20June/0608_flexible.pdf</URL>
+        <Category>BEA Briefing</Category>
+        <Publication_Date>2008-06-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-06-07</ID>
+        <Volume>88</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2008</Year>
+        <Title>Foreign Direct Investment in the United States: New Investment in 2007</Title>
+        <Author>Y. Louise Ku-Graf</Author>
+        <Description>Outlays by foreign investors to acquire or establish U.S. businesses increased $111.2 billion to $276.8 billion, the second largest outlays on record and the highest level since the peak in 2000.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/06%20June/0608_fdius.pdf</URL>
+        <Category>International, Foreign direct investment in the United States</Category>
+        <Publication_Date>2008-06-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-88-07-01</ID>
+        <Volume>88</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2008</Year>
+        <Title>Director's Message</Title>
+        <Author>J. Steven Landefeld</Author>
+        <Description>Monthly message from BEA Director Steve Landefeld</Description>
+        <URL>http://bea.gov/scb/pdf/2008/07%20July/0708_directmsg.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2008-07-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-07-02</ID>
+        <Volume>88</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2008</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description>Real GDP increased 1.0 percent after increasing 0.6 percent in the fourth quarter. Consumer spending for services, exports, federal government spending, and inventory investment increased. In contrast, consumer spending for durable goods and housing investment decreased.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/07%20July/0708_takingacct.pdf</URL>
+        <Category>Taking Account - Economic Studies</Category>
+        <Publication_Date>2008-07-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-07-03</ID>
+        <Volume>88</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2008</Year>
+        <Title>GDP and the Economy: Final Estimates for the First Quarter of 2008</Title>
+        <Author>Christopher Swann</Author>
+        <Description>These estimates, including estimates of inventories for manufacturing by stage of fabrication, have been updated.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/07%20July/0708_gdp_econ.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-07-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-07-04</ID>
+        <Volume>88</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2008</Year>
+        <Title>Real Inventories, Sales, and Inventory-Sales Ratios for Manufacturing and Trade for the First Quarter of 2008</Title>
+        <Author></Author>
+        <Description>These estimates, including estimates of inventories for manufacturing by stage of fabrication, have been updated.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/07%20July/0708_isr.pdf</URL>
+        <Category>National, Inventories, sales, and inventory-sales ratios for manufacturing and trade</Category>
+        <Publication_Date>2008-07-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-07-05</ID>
+        <Volume>88</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2008</Year>
+        <Title>The International Investment Position of the United States at Yearend 2007</Title>
+        <Author>Elena L. Nguyen</Author>
+        <Description>The net international investment position was –$2,441.8 billion; it was –$2,225.8 billion at yearend 2006. The change was mainly due to strong foreign acquisitions of U.S. financial assets.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/07%20July/0708_iip.pdf</URL>
+        <Category>International, U.S. international investment position</Category>
+        <Publication_Date>2008-07-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-07-06</ID>
+        <Volume>88</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2008</Year>
+        <Title>Direct Investment Positions for 2007: Country and Industry Detail</Title>
+        <Author>Marilyn Ibarra, Jennifer Koncz</Author>
+        <Description>The historical-cost positions of both U.S. direct investment abroad and foreign direct investment in the United States increased 14 percent. In 2006, U.S. direct investment abroad increased 10 percent, and foreign direct investment in the United States increased 13 percent.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/07%20July/0708_dip.pdf</URL>
+        <Category>International, Direct investment positions: Country and industry detail</Category>
+        <Publication_Date>2008-07-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-07-07</ID>
+        <Volume>88</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2008</Year>
+        <Title>Annual Revision of the U.S. International Accounts, 1974–2007</Title>
+        <Author>Christopher L. Bach</Author>
+        <Description>Once a year, U.S. transactions and international investment position statistics are revised to incorporate updated data and various statistical improvements. The main improvements this year were in services and securities.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/07%20July/0708_international.pdf</URL>
+        <Category>International, U.S. international accounts</Category>
+        <Publication_Date>2008-07-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-07-08</ID>
+        <Volume>88</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2008</Year>
+        <Title>How BEA Aligns and Augments Source Data From the U.S. Treasury Department for Inclusion in the International Transactions Accounts</Title>
+        <Author></Author>
+        <Description>Once a year, estimates of financial-account flows in the international transactions accounts, which are based on Treasury Department data, are adjusted to align the estimates with balance-of-payments concepts and to close gaps in coverage.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/07%20July/0708_treasury.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2008-07-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-07-09</ID>
+        <Volume>88</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2008</Year>
+        <Title>U.S. International Transactions: First Quarter of 2008</Title>
+        <Author>Renee M. Sauers, Kristy L. Howell</Author>
+        <Description>The U.S. current-account deficit increased $9.1 billion to $176.4 billion, mainly reflecting a decrease in the surplus on income. In the financial account, net financial inflows decreased $89.1 billion to $124.3 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/07%20July/0708_itaq_text.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2008-07-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2008/07%20July/0708_itaq_tables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-07-10</ID>
+        <Volume>88</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2008</Year>
+        <Title>Gross Domestic Product by State: Advance Estimates for 2007 and Revised Estimates for 2004–2006</Title>
+        <Author>John E. Broda, Caitlin E. Coakley</Author>
+        <Description>Economic growth slowed in 36 states in 2007. Contractions in construction and in finance and insurance restrained growth in many states.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/07%20July/0708_gdp_state_text.pdf</URL>
+        <Category>Regional, Gross domestic product by state</Category>
+        <Publication_Date>2008-07-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2008/07%20July/0708_gdp_state_tables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-07-11</ID>
+        <Volume>88</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2008</Year>
+        <Title>State Personal Income: First Quarter of 2008</Title>
+        <Author></Author>
+        <Description>Growth ranged from 7.6 percent in North Dakota to –1.9 percent in Arkansas. Nationally, personal income grew 1.1 percent, compared with 1.2 percent in the fourth quarter.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/07%20July/0708_spi.pdf</URL>
+        <Category>Regional, State personal income</Category>
+        <Publication_Date>2008-07-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-88-08-01</ID>
+        <Volume>88</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2008</Year>
+        <Title>Director's Message</Title>
+        <Author>J. Steven Landefeld</Author>
+        <Description>Monthly message from BEA Director Steve Landefeld</Description>
+        <URL>http://bea.gov/scb/pdf/2008/08%20August/0808_directmsg.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2008-08-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+        <Supp3_Title></Supp3_Title>
+        <Supp3_URL></Supp3_URL>
+        <Supp4_Title></Supp4_Title>
+        <Supp4_URL></Supp4_URL>
+        <Supp5_Title></Supp5_Title>
+        <Supp5_URL></Supp5_URL>
+        <Supp6_Title></Supp6_Title>
+        <Supp6_URL></Supp6_URL>
+        <Supp7_Title></Supp7_Title>
+        <Supp7_URL></Supp7_URL>
+        <Supp7_Title></Supp7_Title>
+        <Supp7_URL></Supp7_URL>
+    </row>
+    <row>
+        <ID>SCB-88-08-02</ID>
+        <Volume>88</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2008</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2008/08%20August/0808_takingacct.pdf</URL>
+        <Category>Taking Account - Economic Studies</Category>
+        <Publication_Date>2008-08-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+        <Supp3_Title></Supp3_Title>
+        <Supp3_URL></Supp3_URL>
+        <Supp4_Title></Supp4_Title>
+        <Supp4_URL></Supp4_URL>
+        <Supp5_Title></Supp5_Title>
+        <Supp5_URL></Supp5_URL>
+        <Supp6_Title></Supp6_Title>
+        <Supp6_URL></Supp6_URL>
+        <Supp7_Title></Supp7_Title>
+        <Supp7_URL></Supp7_URL>
+        <Supp7_Title></Supp7_Title>
+        <Supp7_URL></Supp7_URL>
+    </row>
+    <row>
+        <ID>SCB-88-08-03</ID>
+        <Volume>88</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2008</Year>
+        <Title>GDP and the Economy: Advance Estimates for the Second Quarter of 2008</Title>
+        <Author>Christopher Swann</Author>
+        <Description>Real GDP increased 1.9 percent after increasing 0.9 percent in the first quarter. Prices of goods and services purchased by U.S. residents rose 4.2 percent after rising 3.5 percent, reflecting accelerating energy and food prices.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/08%20August/0808_gdp.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-08-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+        <Supp3_Title></Supp3_Title>
+        <Supp3_URL></Supp3_URL>
+        <Supp4_Title></Supp4_Title>
+        <Supp4_URL></Supp4_URL>
+        <Supp5_Title></Supp5_Title>
+        <Supp5_URL></Supp5_URL>
+        <Supp6_Title></Supp6_Title>
+        <Supp6_URL></Supp6_URL>
+        <Supp7_Title></Supp7_Title>
+        <Supp7_URL></Supp7_URL>
+        <Supp7_Title></Supp7_Title>
+        <Supp7_URL></Supp7_URL>
+    </row>
+    <row>
+        <ID>SCB-88-08-04</ID>
+        <Volume>88</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2008</Year>
+        <Title>Annual Revision of the National Income and Product Accounts: Annual Estimates for 2005–2007 and Quarterly Estimates for the First Quarter of 2005 to the First Quarter of 2008</Title>
+        <Author>Eugene P. Seskin, Shelly Smith</Author>
+        <Description>Annual revisions update the accounts by incorporating new data and various methodological improvements. From 2004 to 2007, real GDP growth was revised to 2.6 percent from 2.7 percent. This annual revision did not change the general picture of the economy over the past few years.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/08%20August/0808_nipa_annrev.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-08-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+        <Supp3_Title></Supp3_Title>
+        <Supp3_URL></Supp3_URL>
+        <Supp4_Title></Supp4_Title>
+        <Supp4_URL></Supp4_URL>
+        <Supp5_Title></Supp5_Title>
+        <Supp5_URL></Supp5_URL>
+        <Supp6_Title></Supp6_Title>
+        <Supp6_URL></Supp6_URL>
+        <Supp7_Title></Supp7_Title>
+        <Supp7_URL></Supp7_URL>
+        <Supp7_Title></Supp7_Title>
+        <Supp7_URL></Supp7_URL>
+    </row>
+    <row>
+        <ID>SCB-88-08-05</ID>
+        <Volume>88</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2008</Year>
+        <Title>National Income and Product Accounts Tables</Title>
+        <Author></Author>
+        <Description>The revised annual, quarterly, and monthly statistics from the annual NIPA revision, including advance estimates for the second quarter of 2008 and June 2008.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/08%20August/NIPA%20Tables/0808_overview.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-08-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Overview</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2008/08%20August/NIPA%20Tables/0808_overview.pdf</Supp1_URL>
+        <Supp2_Title>Summary Tables</Supp2_Title>
+        <Supp2_URL>http://bea.gov/scb/pdf/2008/08%20August/NIPA%20Tables/0808nipas_summary.pdf</Supp2_URL>
+        <Supp3_Title>Domestic Product and Income</Supp3_Title>
+        <Supp3_URL>http://bea.gov/scb/pdf/2008/08%20August/NIPA%20Tables/account_1.pdf</Supp3_URL>
+        <Supp4_Title>Personal Income and Outlays</Supp4_Title>
+        <Supp4_URL>http://bea.gov/scb/pdf/2008/08%20August/NIPA%20Tables/account_2.pdf</Supp4_URL>
+        <Supp5_Title>Government Current Receipts and Expenditures</Supp5_Title>
+        <Supp5_URL>http://bea.gov/scb/pdf/2008/08%20August/NIPA%20Tables/account_3.pdf</Supp5_URL>
+        <Supp6_Title>Foreign Transactions</Supp6_Title>
+        <Supp6_URL>http://bea.gov/scb/pdf/2008/08%20August/NIPA%20Tables/account_4.pdf</Supp6_URL>
+        <Supp7_Title>Saving and Investment</Supp7_Title>
+        <Supp7_URL>http://bea.gov/scb/pdf/2008/08%20August/NIPA%20Tables/account_5.pdf</Supp7_URL>
+        <Supp8_Title>Income and Employment by Industry</Supp8_Title>
+        <Supp8_URL>http://bea.gov/scb/pdf/2008/08%20August/NIPA%20Tables/account_6.pdf</Supp8_URL>
+        <Supp9_Title>Supplemental Tables</Supp9_Title>
+        <Supp9_URL>http://bea.gov/scb/pdf/2008/08%20August/NIPA%20Tables/account_7.pdf</Supp9_URL>
+    </row>
+    <row>
+        <ID>SCB-88-08-06</ID>
+        <Volume>88</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2008</Year>
+        <Title>GDP and Other Major NIPA Series for 1929–the Second Quarter of 2008</Title>
+        <Author></Author>
+        <Description>Historical statistics of GDP and its components in current dollars, chained dollars, and chain-type quantity and price indexes, including statistics on national income and personal income.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/08%20August/0808_gdp_nipas.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-08-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+        <Supp3_Title></Supp3_Title>
+        <Supp3_URL></Supp3_URL>
+        <Supp4_Title></Supp4_Title>
+        <Supp4_URL></Supp4_URL>
+        <Supp5_Title></Supp5_Title>
+        <Supp5_URL></Supp5_URL>
+        <Supp6_Title></Supp6_Title>
+        <Supp6_URL></Supp6_URL>
+        <Supp7_Title></Supp7_Title>
+        <Supp7_URL></Supp7_URL>
+        <Supp7_Title></Supp7_Title>
+        <Supp7_URL></Supp7_URL>
+    </row>
+    <row>
+        <ID>SCB-88-08-07</ID>
+        <Volume>88</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2008</Year>
+        <Title>U.S. Affiliates of Foreign Companies: Operations in 2006</Title>
+        <Author>Thomas Anderson</Author>
+        <Description>Growth in current-dollar value added of U.S. affiliates picked up in 2006, as existing affiliate operations expanded. Employment by affiliates also picked up.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/08%20August/0808_affiliate.pdf</URL>
+        <Category>International, Foreign direct investment in the United States</Category>
+        <Publication_Date>2008-08-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+        <Supp3_Title></Supp3_Title>
+        <Supp3_URL></Supp3_URL>
+        <Supp4_Title></Supp4_Title>
+        <Supp4_URL></Supp4_URL>
+        <Supp5_Title></Supp5_Title>
+        <Supp5_URL></Supp5_URL>
+        <Supp6_Title></Supp6_Title>
+        <Supp6_URL></Supp6_URL>
+        <Supp7_Title></Supp7_Title>
+        <Supp7_URL></Supp7_URL>
+        <Supp7_Title></Supp7_Title>
+        <Supp7_URL></Supp7_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-88-09-01</ID>
+        <Volume>88</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2008</Year>
+        <Title>Director's Message</Title>
+        <Author>J. Steven Landefeld</Author>
+        <Description>Monthly message from BEA Director Steve Landefeld</Description>
+        <URL>http://bea.gov/scb/pdf/2008/09%20September/0908_directorsmsg.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2008-09-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-88-09-02</ID>
+        <Volume>88</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2008</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2008/09%20September/0908_takingacct.pdf</URL>
+        <Category>Taking Account - Economic Studies</Category>
+        <Publication_Date>2008-09-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-88-09-03</ID>
+        <Volume>88</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2008</Year>
+        <Title>GDP and the Economy: Preliminary Estimates for the Second Quarter of 2008</Title>
+        <Author>Christopher Swann</Author>
+        <Description>Real GDP increased 3.3 percent after increasing 0.9 percent in the first quarter. Prices paid by U.S. residents rose 4.2 percent after rising 3.5 percent, reflecting accelerating energy and food prices.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/09%20September/0908_gdpecon.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-09-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-88-09-04</ID>
+        <Volume>88</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2008</Year>
+        <Title>Government Receipts and Expenditures: Second Quarter of 2008</Title>
+        <Author>Karla L. Stanley-Allen</Author>
+        <Description>Net government saving decreased $329.4 billion to –$712.5 billion. Net federal government saving decreased $305.5 billion to –$636.2 billion. Net state and local government saving decreased $23.9 billion to –$76.3 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/09%20September/0908_gre.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-09-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-88-09-05</ID>
+        <Volume>88</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2008</Year>
+        <Title>Newly Available NIPA Tables</Title>
+        <Author></Author>
+        <Description>As part of the annual NIPA revision, statistics on government spending by function, changes in the net stock of produced assets, and a comparison of NIPA and USDA net farm income are presented.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/09%20September/0908_new_nipas.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-09-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-88-09-06</ID>
+        <Volume>88</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2008</Year>
+        <Title>Fixed Assets and Consumer Durable Goods for 1998–2007</Title>
+        <Author>David Wasshausen</Author>
+        <Description>Statistics on (1) the net stock of equipment and software and of business and government structures and (2) the net stock of consumer durable goods. Both reflect the annual NIPA revision.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/09%20September/0908_fixed_assets.pdf</URL>
+        <Category>National, Fixed assets and consumer durable goods</Category>
+        <Publication_Date>2008-09-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-88-09-07</ID>
+        <Volume>88</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2008</Year>
+        <Title>Direct Investment, 2004–2007: Detailed Historical-Cost Positions and Related Capital and Income Flows</Title>
+        <Author>Jeffrey H. Lowe</Author>
+        <Description>Statistics on (1) the direct investment positions and international transactions of U.S and foreign multinational companies and (2) the composition of investment by U.S. companies abroad and foreign companies in the United States.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/09%20September/0908fdius_usdia_text.pdf</URL>
+        <Category>International, Direct investment</Category>
+        <Publication_Date>2008-09-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>U.S. Direct Investment Abroad Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2008/09%20September/0908_usdia-tables.pdf</Supp1_URL>
+        <Supp2_Title>Foreign Direct Investment in the United States Tables</Supp2_Title>
+        <Supp2_URL>http://bea.gov/scb/pdf/2008/09%20September/0908_fdius_tables.pdf</Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-88-09-08</ID>
+        <Volume>88</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2008</Year>
+        <Title>Personal Income for Metropolitan Areas for 2007</Title>
+        <Author>David G. Lenze</Author>
+        <Description>Personal income growth slowed in 208 of the nation's 363 metropolitan areas. Growth in metropolitan areas averaged 6.0 percent, down from 6.5 percent in 2006.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/09%20September/0908_metro.pdf</URL>
+        <Category>Regional, Personal income for metropolitan areas</Category>
+        <Publication_Date>2008-09-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-88-10-01</ID>
+        <Volume>88</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2008</Year>
+        <Title>Director's Message</Title>
+        <Author>J. Steven Landefeld</Author>
+        <Description>Monthly message from BEA Director Steve Landefeld</Description>
+        <URL>http://bea.gov/scb/pdf/2008/10%20October/1008_directorsmsg.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2008-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-88-10-02</ID>
+        <Volume>88</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2008</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2008/10%20October/1008_takingacct.pdf</URL>
+        <Category>Taking Account - Economic Studies</Category>
+        <Publication_Date>2008-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-88-10-03</ID>
+        <Volume>88</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2008</Year>
+        <Title>GDP and the Economy: Final Estimates for the Second Quarter of 2008</Title>
+        <Author>Christopher Swann</Author>
+        <Description>Real GDP increased 2.8 percent after increasing 0.9 percent in the first quarter. Prices paid by U.S. residents rose 4.2 percent after rising 3.5 percent, reflecting accelerating energy and food prices.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/10%20October/1008_gdpecon.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-88-10-04</ID>
+        <Volume>88</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2008</Year>
+        <Title>Newly Available NIPA Tables</Title>
+        <Author></Author>
+        <Description>Statistics on federal receipts and expenditures and the federal budget, state and local government receipts and expenditures and Census Bureau data, state and local government receipts and expenditures, and seasonally unadjusted estimates.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/10%20October/1008_newnipa.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-88-10-05</ID>
+        <Volume>88</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2008</Year>
+        <Title>Real Inventories, Sales, and Inventory-Sales Ratios for Manufacturing and Trade</Title>
+        <Author></Author>
+        <Description>These estimates for the fourth quarter of 2004 through the second quarter of 2008 reflect the most recent annual revision of the national income and product accounts.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/10%20October/1008_isr.pdf</URL>
+        <Category>National, Inventories, sales, and inventory-sales ratios for manufacturing and trade</Category>
+        <Publication_Date>2008-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-88-10-06</ID>
+        <Volume>88</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2008</Year>
+        <Title>U.S. International Services: Cross-Border Trade in 2007 and Services Supplied Through Affiliates in 2006</Title>
+        <Author>Jennifer Koncz, Anne Flatness</Author>
+        <Description>A broad look at U.S. international services, including both cross-border trade and services supplied through affiliates. This year's article includes several improvements to these statistics.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/10%20October/services_text.pdf</URL>
+        <Category>International, U.S. international services</Category>
+        <Publication_Date>2008-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2008/10%20October/services_tables.pdf</Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-88-10-07</ID>
+        <Volume>88</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2008</Year>
+        <Title>U.S. International Transactions for the Second Quarter of 2008</Title>
+        <Author>Mai-Chi Hoang, Erin M. Whitaker</Author>
+        <Description>The U.S. current-account deficit increased $7.5 billion to $183.1 billion. In the financial account, net financial inflows decreased $53.6 billion to $136.7 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/10%20October/itaq_text.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2008-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2008/10%20October/itaq_tables.pdf</Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-88-10-08</ID>
+        <Volume>88</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2008</Year>
+        <Title>Gross Domestic Product by Metropolitan Area: Newly Available Statistics for 2006 and Revised Statistics for 2004–2005</Title>
+        <Author>Christian E. Malagón, Timothy P. McInerney, Sharon D. Panek</Author>
+        <Description>Economic growth was widespread across metropolitan areas in 2006. Real GDP increased in 308 of 363 metropolitan areas. In 177 areas, GDP growth accelerated.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/10%20October/1008_gdp-metro.pdf</URL>
+        <Category>Regional, Gross domestic product by metropolitan area</Category>
+        <Publication_Date>2008-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-88-10-09</ID>
+        <Volume>88</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2008</Year>
+        <Title>State Personal Income for the Second Quarter of 2008 and Revised Statistics for 2005–2007</Title>
+        <Author>David G. Lenze</Author>
+        <Description>Personal income accelerated in the second quarter, rising 1.8 percent after rising 0.8 percent in the first quarter. The rise reflected tax rebate payments from the Economic Stimulus Act of 2008.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/10%20October/spi_text.pdf</URL>
+        <Category>Regional, State personal income</Category>
+        <Publication_Date>2008-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2008/10%20October/spi_tables.pdf</Supp1_URL>
+        <Supp2_Title>Economic Stimulus Act of 2008</Supp2_Title>
+        <Supp2_URL>http://bea.gov/scb/pdf/2008/10%20October/spi_text.pdf#esabox</Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-88-10-10</ID>
+        <Volume>88</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2008</Year>
+        <Title>BEA Regional Program Outreach in 2009</Title>
+        <Author></Author>
+        <Description>BEA's regional economic accounts provide detailed estimates for states, counties, and metropolitan areas. To help users better understand and use these statistics, BEA participates in various conferences and workshops.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/10%20October/2009_outreach.pdf</URL>
+        <Category>Regional, Regional program outreach</Category>
+        <Publication_Date>2008-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-88-11-01</ID>
+        <Volume>88</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2008</Year>
+        <Title>Director's Message</Title>
+        <Author>J. Steven Landefeld</Author>
+        <Description>Monthly message from BEA Director Steve Landefeld</Description>
+        <URL>http://bea.gov/scb/pdf/2008/11%20November/1108_directorsmsg.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2008-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-11-02</ID>
+        <Volume>88</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2008</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2008/11%20November/1108_takingacct.pdf</URL>
+        <Category>Taking Account - Economic Studies</Category>
+        <Publication_Date>2008-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-11-03</ID>
+        <Volume>88</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2008</Year>
+        <Title>GDP and the Economy: Advance Estimates for the Third Quarter of 2008</Title>
+        <Author>Christopher Swann</Author>
+        <Description>Real GDP decreased 0.3 percent after increasing 2.8 percent in the second quarter. Prices paid by U.S. residents increased 4.8 percent after increasing 4.2 percent, reflecting accelerating food prices.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/11%20November/1108_gdpecon.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-11-04</ID>
+        <Volume>88</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2008</Year>
+        <Title>Newly Available NIPA Tables</Title>
+        <Author></Author>
+        <Description>From the annual NIPA revision: statistics on personal income by households and nonprofit institutions serving households and a comparison of BEA and IRS statistics on nonprofits.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/11%20November/1108_newnipas.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-11-05</ID>
+        <Volume>88</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2008</Year>
+        <Title>Updated Summary of NIPA Methodologies</Title>
+        <Author></Author>
+        <Description>The source data and methods used to prepare current-dollar and real estimates of GDP and current-dollar estimates of gross domestic income have been updated as part of the annual NIPA revision.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/11%20November/1108_nipa-method.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-11-06</ID>
+        <Volume>88</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2008</Year>
+        <Title>U.S. Multinational Companies: Operations in 2006</Title>
+        <Author>Raymond J. Mataloni Jr.</Author>
+        <Description>The value added of U.S. multinational companies increased 8.4 percent. The value added of U.S. parents increased 8.1 percent, and the value of their foreign affiliates increased 9.2 percent.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/11%20November/1108_mnc.pdf</URL>
+        <Category>International, U.S. direct investment abroad</Category>
+        <Publication_Date>2008-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-11-07</ID>
+        <Volume>88</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2008</Year>
+        <Title>Reconciliation of the United States–Canadian Current Account, 2006 and 2007</Title>
+        <Author>Renee Sauers, Edward Dozier, Denis Caron</Author>
+        <Description>Each year, the bilateral current-account estimates of the United States and Canada are reconciled to show how the estimates would appear if both countries used the same definitions, methodologies, and data sources.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/11%20November/1108_us_canada.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2008-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-11-07</ID>
+        <Volume>88</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2008</Year>
+        <Title>Regional Price Parities: Comparing Price Level Differences Across Geographic Areas</Title>
+        <Author>Bettina H. Aten, Roger J. D'Souza</Author>
+        <Description>A look at BEA's research into regional price parities, which show price level differences across various regions in the United States. These parities are used to adjust regional personal income and GDP measures for 2005 and 2006.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/11%20November/1108_spotlight_parities.pdf</URL>
+        <Category>Research Spotlight</Category>
+        <Publication_Date>2008-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-88-12-01</ID>
+        <Volume>88</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2008</Year>
+        <Title>Director's Message</Title>
+        <Author>J. Steven Landefeld</Author>
+        <Description>Monthly message from BEA Director Steve Landefeld</Description>
+        <URL>http://bea.gov/scb/pdf/2008/12%20December/1208_directorsmsg.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2008-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-12-02</ID>
+        <Volume>88</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2008</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2008/12%20December/1208_takingacct.pdf</URL>
+        <Category>Taking Account - Economic Studies</Category>
+        <Publication_Date>2008-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-12-03</ID>
+        <Volume>88</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2008</Year>
+        <Title>GDP and the Economy: Preliminary Estimates for the Third Quarter of 2008</Title>
+        <Author>Christopher Swann</Author>
+        <Description>Real GDP decreased 0.5 percent after increasing 2.8 percent in the second quarter. Prices paid by U.S. residents increased 4.7 percent after increasing 4.2 percent, reflecting accelerating food prices.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/12%20December/1208_gdpecon.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-12-04</ID>
+        <Volume>88</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2008</Year>
+        <Title>Government Receipts and Expenditures for the Third Quarter of 2008</Title>
+        <Author>Karla L. Stanley-Allen</Author>
+        <Description>Net government saving increased $71.4 billion to –$645.0 billion. Net federal government saving increased $106.4 billion to –$543.2 billion. Net state and local government saving decreased $34.9 billion to –$101.8 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/12%20December/1208_gre.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2008-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-12-05</ID>
+        <Volume>88</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2008</Year>
+        <Title>Gross Domestic Income: Revisions and Source Data</Title>
+        <Author>Alyssa E. Holdren, Bruce T. Grimm</Author>
+        <Description>As a measure of the U.S. economy, gross domestic income (GDI) complements gross domestic product. In this article, we explain the source data used to calculate the earliest GDI statistics.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/12%20December/1208_gdi.pdf</URL>
+        <Category>BEA Briefing</Category>
+        <Publication_Date>2008-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-12-06</ID>
+        <Volume>88</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2008</Year>
+        <Title>Annual Industry Accounts: Revised Statistics for 2005–2007</Title>
+        <Author>Soo jeong Kim, Vincent A. Davis, Anna M. Jacobson, Amanda S. Lyndaker</Author>
+        <Description>In 2007, the slowdown in U.S. economic growth was widespread among industries. Professional and business services and &quot;real estate and rental and leasing&quot; accounted for about half of the growth. Construction subtracted from economic growth for the first time since 2001.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/12%20December/1208_indyaccts.pdf</URL>
+        <Category>Industry, Industry accounts</Category>
+        <Publication_Date>2008-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2008/12%20December/1208_indyaccts_tables.pdf</Supp1_URL>
+        <Supp2_Title>Imports as a Share of Domestic Supply</Supp2_Title>
+        <Supp2_URL>http://bea.gov/scb/pdf/2008/12%20December/1208_indyaccts.pdf#page=2</Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-88-12-07</ID>
+        <Volume>88</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2008</Year>
+        <Title>Subject Guide for 2008</Title>
+        <Author></Author>
+        <Description>This guide lists the articles that were published in the Survey in 2008.</Description>
+        <URL>http://bea.gov/scb/pdf/2008/12%20December/1208_subjguide.pdf</URL>
+        <Category></Category>
+        <Publication_Date>2008-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-88-12-08</ID>
+        <Volume>88</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2008</Year>
+        <Title>Schedule of BEA News Releases in 2009</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/newsreleases/2009rd.htm</URL>
+        <Category></Category>
+        <Publication_Date>2008-12-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>

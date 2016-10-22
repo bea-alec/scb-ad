@@ -1,0 +1,1478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-95-01-01</ID>
+        <Volume>95</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2015</Year>
+        <Title>Director's Message</Title>
+        <Author>Brian C. Moyer</Author>
+        <Description>Monthly message from BEA Director Brian C. Moyer</Description>
+        <URL>http://bea.gov/scb/pdf/2015/01%20January/0115_directors_message.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2015-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-01-02</ID>
+        <Volume>95</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2015</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description>BEA paper develops new R&amp;D time series</Description>
+        <URL>http://bea.gov/scb/pdf/2015/01%20January/0115_taking account.pdf</URL>
+        <Category>Economic Studies–Taking Account</Category>
+        <Publication_Date>2015-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-01-03</ID>
+        <Volume>95</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2015</Year>
+        <Title>GDP and the Economy: Third Estimates for the Third Quarter of 2014</Title>
+        <Author>Shelly Smith</Author>
+        <Description>Real GDP increased 5.0 percent, reflecting positive contributions from consumer spending, nonresidential fixed investment, federal government spending, exports, state and local government spending, and residential fixed investment.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/01%20January/0115_gdp_and_the_economy.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2015-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables: Selected NIPA tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/01%20January/0115_SNTables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-01-04</ID>
+        <Volume>95</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2015</Year>
+        <Title>U.S. Arts and Cultural Production Satellite Account, 1998–2012</Title>
+        <Author>Paul V. Kern, David B. Wasshausen, Steven L. Zemanek</Author>
+        <Description>The goal of this new economic account is to provide statistics that shed light on the impact of arts and cultural activities on the economy, including an estimate of the sector's contributions to gross domestic product.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/01%20January/0115_arts_and_cultural_production_satellite_account.pdf</URL>
+        <Category>BEA Briefing</Category>
+        <Publication_Date>2015-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-01-05</ID>
+        <Volume>95</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2015</Year>
+        <Title>Introducing the New BEA Health Care Satellite Account</Title>
+        <Author>Abe Dunn, Lindsey Rittmueller, Bryn Whitmire</Author>
+        <Description>The first release of this economic account represents a milestone in BEA's efforts to develop health care statistics based on the treatment of diseases, thus allowing for a deeper understanding of this critical sector and its economic impact.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/01%20January/0115_bea_health_care_satellite_account.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2015-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-01-06</ID>
+        <Volume>95</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2015</Year>
+        <Title>U.S. International Transactions: Third Quarter of 2014</Title>
+        <Author>Sarah P. Scott</Author>
+        <Description>The current-account deficit increased $1.8 billion to $100.3 billion. In the financial account, net U.S. borrowing increased $0.3 billion to $22.5 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/01%20January/0115_international_transactions.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2015-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables: International transactions</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/01%20January/0115_international_transactions_tables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-01-07</ID>
+        <Volume>95</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2015</Year>
+        <Title>The U.S. Net International Investment Position at the End of the Third Quarter of 2014</Title>
+        <Author>Elena L. Nguyen</Author>
+        <Description>The position was –$6,157.9 billion at the end of the third quarter of 2014, down $682.5 billion from the end of the second quarter, reflecting a $362.4 billion decrease in the value of U.S. assets and a $320.2 billion increase in the value of U.S. liabilities.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/01%20January/0115_international_investment_position.pdf</URL>
+        <Category>International, U.S. international investment position</Category>
+        <Publication_Date>2015-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables: International investment position</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/01%20January/0115_international_investment_position_tables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-01-08</ID>
+        <Volume>95</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2015</Year>
+        <Title>An Ownership-Based Framework of the U.S. Current Account for 2002–2013</Title>
+        <Author>Thomas Anderson</Author>
+        <Description>An annual supplement to the international transactions accounts presents current-account statistics that combine cross-bid trade with net receipts of affiliates of multinational enterprises.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/01%20January/0115_ownership_based_current_account.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2015-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Ownership-based current account</Supp1_Title>
+        <Supp1_URL>http://bea.gov/international/xls/1982-2013_ownership_based_framework.xls</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-01-09</ID>
+        <Volume>95</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2015</Year>
+        <Title>Regional Quarterly Report</Title>
+        <Author>David G. Lenze</Author>
+        <Description>In the third quarter of 2014, state personal income growth ranged from 1.4 percent in Texas to –0.2 percent in South Dakota. Growth slowed in California, Texas, Florida, and 35 smaller states.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/01%20January/0115_state_personal_income.pdf</URL>
+        <Category>Regional, Regional quarterly reports</Category>
+        <Publication_Date>2015-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-95-02-01</ID>
+        <Volume>95</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2015</Year>
+        <Title>Director's Message</Title>
+        <Author>Brian C. Moyer</Author>
+        <Description>Monthly message from BEA Director Brian C. Moyer</Description>
+        <URL>http://bea.gov/scb/pdf/2015/02%20February/0215_directors_message.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2015-02-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-02-02</ID>
+        <Volume>95</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2015</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description>Better reconciliation of the U.S. economic accounts</Description>
+        <URL>http://bea.gov/scb/pdf/2015/02%20February/0215_taking_account.pdf</URL>
+        <Category>Economic Studies–Taking Account</Category>
+        <Publication_Date>2015-02-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-02-03</ID>
+        <Volume>95</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2015</Year>
+        <Title>GDP and the Economy: Advance Estimates for the Fourth Quarter of 2014</Title>
+        <Author>Lisa S. Mataloni</Author>
+        <Description>Real GDP increased 2.6 percent, reflecting positive contributions from consumer spending, inventory investment, exports, nonresidential fixed investment, state and local government spending, and residential fixed investment.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/02%20February/0215_gdp_and_the_economy.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2015-02-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Selected NIPA tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/02%20February/0215_SNTables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-02-04</ID>
+        <Volume>95</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2015</Year>
+        <Title>Q and A With BEA Director Brian C. Moyer</Title>
+        <Author></Author>
+        <Description>Brian C. Moyer provides details on BEA's recent accomplishments and future plans.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/02%20February/0215_brian_c_moyer_interview.pdf</URL>
+        <Category></Category>
+        <Publication_Date>2015-02-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-02-05</ID>
+        <Volume>95</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2015</Year>
+        <Title>The Effects of Corporate Inversions on the International and National Economic Accounts</Title>
+        <Author>Jessica M. Hanson, Howard I. Krakower, Raymond J. Mataloni Jr., Kate L.S. Pinard</Author>
+        <Description>These inversions affect foreign direct investment in the United States and U.S. direct investment abroad as well as certain aggregates in the national income and product accounts.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/02%20February/0215_corporate_inversions_and_the_international_and%20national_accounts.pdf</URL>
+        <Category>BEA Briefing</Category>
+        <Publication_Date>2015-02-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-95-03-01</ID>
+        <Volume>95</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2015</Year>
+        <Title>Director's Message</Title>
+        <Author>Brian C. Moyer</Author>
+        <Description>Monthly message from BEA Director Brian C. Moyer</Description>
+        <URL>http://bea.gov/scb/pdf/2015/03%20March/0315_directors_message.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2015-03-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-03-02</ID>
+        <Volume>95</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2015</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description>BEA paper estimates net value of health spending.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/03%20March/0315_taking_account.pdf</URL>
+        <Category>Economic Studies–Taking Account</Category>
+        <Publication_Date>2015-03-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-03-03</ID>
+        <Volume>95</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2015</Year>
+        <Title>GDP and the Economy: Second Estimates for the Fourth Quarter of 2014</Title>
+        <Author>Lisa S. Mataloni</Author>
+        <Description>Real GDP increased 2.2 percent, reflecting positive contributions from consumer spending, nonresidential fixed investment, exports, state and local government spending, inventory investment, and residential fixed investment.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/03%20March/0315_gdp_and_the_economy.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2015-03-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Selected NIPA tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/03%20March/0315_selected_nipa_tables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-03-04</ID>
+        <Volume>95</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2015</Year>
+        <Title>NIPA Translation of the Fiscal Year 2016 Federal Budget</Title>
+        <Author>Mark S. Ludwick, Benyam Tsehaye</Author>
+        <Description>Once a year, BEA prepares federal government estimates that are based on the proposed budget of the U.S. government. This analysis is often used to gauge the effects of the federal budget on U.S. economic activity.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/03%20March/0315_nipa_translation_of_federal_budget.pdf</URL>
+        <Category>National, NIPA translation of the federal budget</Category>
+        <Publication_Date>2015-03-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-95-04-01</ID>
+        <Volume>95</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2015</Year>
+        <Title>Director's Message</Title>
+        <Author>Brian C. Moyer</Author>
+        <Description>Monthly message from BEA Director Brian C. Moyer</Description>
+        <URL>http://bea.gov/scb/pdf/2015/04%20April/0415_directors_message.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2015-04-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-04-02</ID>
+        <Volume>95</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2015</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description>Price indexes for Medicare Advantage enrollees</Description>
+        <URL>http://bea.gov/scb/pdf/2015/04%20April/0415_taking_account.pdf</URL>
+        <Category>Economic Studies–Taking Account</Category>
+        <Publication_Date>2015-04-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-04-03</ID>
+        <Volume>95</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2015</Year>
+        <Title>GDP and the Economy: Third Estimates for the Fourth Quarter of 2014</Title>
+        <Author>Lisa S. Mataloni</Author>
+        <Description>Real GDP increased 2.2 percent, reflecting positive contributions from consumer spending, nonresidential fixed investment, exports, state and local government spending, and residential fixed investment.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/04%20April/0415_gdp_and_the_economy.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2015-04-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Selected NIPA tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/04%20April/0415_selected_nipa_tables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-04-04</ID>
+        <Volume>95</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2015</Year>
+        <Title>Government Receipts and Expenditures: Fourth Quarter of 2014</Title>
+        <Author>Mary L. Roy</Author>
+        <Description>Net government saving increased $54.1 billion to –$773.7 billion. Net federal government saving increased $51.5 billion to –$559.5 billion. Net state and local government saving increased $2.5 billion to –$214.3 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/04%20April/0415_government_receipts_and_expenditures.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2015-04-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-04-05</ID>
+        <Volume>95</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2015</Year>
+        <Title>Preview of the 2015 Annual Revision of the International Economic Accounts: Changes in Classifications and New Source Data</Title>
+        <Author>Eric Bryda, C. Omar Kebbeh</Author>
+        <Description>A look at the changes to the international transactions accounts and to the international investment position accounts that are planned as part of the upcoming revision.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/04%20April/0415_preview_of_2015_annual_revision_of_international_economic_accounts.pdf</URL>
+        <Category>International, U.S. International economic accounts</Category>
+        <Publication_Date>2015-04-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-04-06</ID>
+        <Volume>95</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2015</Year>
+        <Title>U.S. International Transactions: Fourth Quarter of 2014 and 2014</Title>
+        <Author>William J. Zeile</Author>
+        <Description>The current-account deficit increased $14.5 billion to $113.5 billion. In the financial account, net U.S. borrowing decreased $11.2 billion to $10.8 billion. In 2014, the current-account deficit increased $10.4 billion to $410.6 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/04%20April/0415_international_transactions.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2015-04-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/04%20April/0415_international_transactions_tables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-04-07</ID>
+        <Volume>95</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2015</Year>
+        <Title>The U.S. Net International Investment Position at the End of the Fourth Quarter of 2014 and 2014</Title>
+        <Author>Kyle L. Westmoreland</Author>
+        <Description>The net position was –$6,915.3 billion at the end of the fourth quarter of 2014, down $785.8 billion from the end of the third quarter. The decrease reflected a $76.1 billion increase in the value of U.S. assets and an $861.9 billion increase in the value of U.S. liabilities.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/04%20April/0415_international_investment_position.pdf</URL>
+        <Category>International, U.S. international investment position</Category>
+        <Publication_Date>2015-04-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/04%20April/0415_international_investment_position_tables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-04-08</ID>
+        <Volume>95</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2015</Year>
+        <Title>Regional Quarterly Report</Title>
+        <Author>David G. Lenze</Author>
+        <Description>In the fourth quarter of 2014, state personal income growth picked up in Florida, Texas, and 30 other states. Growth ranged from 0.6 percent in Louisiana to 1.5 percent in Texas.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/04%20April/0415_state_personal_income.pdf</URL>
+        <Category>Regional, Regional quarterly Reports</Category>
+        <Publication_Date>2015-04-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-95-05-01</ID>
+        <Volume>95</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2015</Year>
+        <Title>Director's Message</Title>
+        <Author>Brian C. Moyer</Author>
+        <Description>Monthly message from BEA Director Brian C. Moyer</Description>
+        <URL>http://bea.gov/scb/pdf/2015/05%20May/0515_directors_message.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2015-05-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-05-02</ID>
+        <Volume>95</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2015</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description>Study looks at mortality rates and Medicare Part D</Description>
+        <URL>http://bea.gov/scb/pdf/2015/05%20May/0515_taking%20account.pdf</URL>
+        <Category>Economic Studies–Taking Account</Category>
+        <Publication_Date>2015-05-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-05-03</ID>
+        <Volume>95</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2015</Year>
+        <Title>GDP and the Economy: Advance Estimates for the First Quarter of 2015</Title>
+        <Author>Lisa S. Mataloni</Author>
+        <Description>Real GDP increased 0.2 percent, compared with 2.2 percent in the fourth quarter of 2014; the slowdown reflected a slowdown in consumer spending and downturns in exports, in nonresidential fixed investment, and in state and local government spending.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/05%20May/0515_gdp_and_the_economy.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2015-05-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Selected NIPA tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/05%20May/0515_selected_nipa_tables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-05-04</ID>
+        <Volume>95</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2015</Year>
+        <Title>BEA Statistics and New Indicators of Economic Condition</Title>
+        <Author>Benjamin R. Bridgman, Bruce T. Grimm</Author>
+        <Description>This article explores potential new economic measures, created with BEA statistics, that can be used to analyze emerging imbalances in saving, investment, assets, liabilities, and other key variables.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/05%20May/0515_bea_statistics_and_new_indicators_of_economic_condition.pdf</URL>
+        <Category></Category>
+        <Publication_Date>2015-05-18</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-95-06-01</ID>
+        <Volume>95</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2015</Year>
+        <Title>Director's Message</Title>
+        <Author>Brian C. Moyer</Author>
+        <Description>Monthly message from BEA Director Brian C. Moyer</Description>
+        <URL>http://bea.gov/scb/pdf/2015/06%20June/0615_directors_message.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2015-06-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-06-02</ID>
+        <Volume>95</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2015</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description>New experimental financial subsector estimates</Description>
+        <URL>http://bea.gov/scb/pdf/2015/06%20June/0615_taking_account.pdf</URL>
+        <Category>Economic Studies–Taking Account</Category>
+        <Publication_Date>2015-06-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-06-03</ID>
+        <Volume>95</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2015</Year>
+        <Title>GDP and the Economy: Second Estimates for the First Quarter of 2015</Title>
+        <Author>Lisa S. Mataloni</Author>
+        <Description>Real GDP decreased 0.7 percent, reflecting negative contributions from exports, nonresidential fixed investment, and state and local government spending. These were partly offset by positive contributions from consumer spending, inventory investment, and residential fixed investment.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/06%20June/0615_gdp_and_the_economy.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2015-06-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Selected NIPA tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/06%20June/0615_selected_nipa_tables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-06-04</ID>
+        <Volume>95</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2015</Year>
+        <Title>Government Receipts and Expenditures: First Quarter of 2015</Title>
+        <Author>Mary L. Roy</Author>
+        <Description>Net government saving increased $58.8 billion to –$707.6 billion. Net federal government saving increased $46.5 billion to –$505.7 billion. Net state and local government saving increased $12.4 billion to –$201.9 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/06%20June/0615_government_receipts_and_expenditures.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2015-06-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-06-05</ID>
+        <Volume>95</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2015</Year>
+        <Title>Preview of the 2015 Annual Revision of the National Income and Product Accounts</Title>
+        <Author>Stephanie H. McCulla, Shelly Smith</Author>
+        <Description>Key changes include an improved treatment of federal refundable tax credits, the introduction of two new data series, improvements to seasonal adjustments to specific GDP components, and an expanded presentation of transfers and taxes between the United States and the rest of world.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/06%20June/0615_preview_of_2015_annual_revision_of_national_income_and_product_accounts.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2015-06-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-06-06</ID>
+        <Volume>95</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2015</Year>
+        <Title>The National Income and Product Accounts and the System of National Accounts 2008</Title>
+        <Author>Stephanie H. McCulla, Karin E. Moses, Brent R. Moulton</Author>
+        <Description>A comparison of the NIPAs with the System of National Accounts 2008 and a look at BEA's plans for research on this topic.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/06%20June/0615_nipas-sna.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2015-06-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-06-07</ID>
+        <Volume>95</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2015</Year>
+        <Title>Returns for Domestic Nonfinancial Business</Title>
+        <Author>Robert J. Corea, Bonnie A. Retus</Author>
+        <Description>Aggregate rates of return for nonfinancial corporations, industries, and selected industry groups as well as Q ratios. Domestic nonfinancial corporate returns decreased in 2014.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/06%20June/0615_returns_for_domestic_nonfinancial_business.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2015-06-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-06-08</ID>
+        <Volume>95</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2015</Year>
+        <Title>U.S. Travel and Tourism Satellite Accounts for 1998–2014</Title>
+        <Author>Benjamin J. Hobbs</Author>
+        <Description>In 2014, travel and tourism increased 3.4 percent in 2014 after increasing 6.2 percent in 2013.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/06%20June/0615_travel_and_tourism_satellite_account.pdf</URL>
+        <Category>Industry, Travel and tourism satellite accounts</Category>
+        <Publication_Date>2015-06-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-06-09</ID>
+        <Volume>95</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2015</Year>
+        <Title>Subject Guide for January–June 2015</Title>
+        <Author></Author>
+        <Description>A guide to the articles in these issues of the Survey.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/06%20June/0615_guide_to_2015_survey_articles.pdf</URL>
+        <Category></Category>
+        <Publication_Date>2015-06-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-95-07-01</ID>
+        <Volume>95</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2015</Year>
+        <Title>Director's Message</Title>
+        <Author>Brian C. Moyer</Author>
+        <Description>Monthly message from BEA Director Brian C. Moyer</Description>
+        <URL>http://bea.gov/scb/pdf/2015/07%20July/0715_directors_message.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2015-07-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-07-02</ID>
+        <Volume>95</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2015</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description>Brent Moulton wins 2015 Julius Shiskin Memorial Award for Economic Statistics</Description>
+        <URL>http://bea.gov/scb/pdf/2015/07%20July/0715_taking_account.pdf</URL>
+        <Category>Economic Studies–Taking Account</Category>
+        <Publication_Date>2015-07-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-07-03</ID>
+        <Volume>95</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2015</Year>
+        <Title>GDP and the Economy: Third Estimates for the First Quarter of 2015</Title>
+        <Author>Lisa S. Mataloni</Author>
+        <Description>Real GDP decreased 0.2 percent after increasing 2.2 percent in the fourth quarter of 2014. The decrease primarily reflected negative contributions from exports, business investment, and state and local government spending.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/07%20July/0715_gdp_and_the_economy.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2015-07-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Selected NIPA tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/07%20July/0715_selected_nipa_tables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-07-04</ID>
+        <Volume>95</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2015</Year>
+        <Title>The U.S. Net International Investment Position at the End of the First Quarter of 2015, Year 2014, and Annual Revisions</Title>
+        <Author>Elena L. Nguyen</Author>
+        <Description>The net international investment position was –$7,019.7 billion at the end of 2014, compared with –$5,327.5 billion at the end of 2013. At the end of the first quarter of 2015, the net position was –$6,794.0 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/07%20July/0715_international_investment_position.pdf</URL>
+        <Category>International, U.S. international investment position</Category>
+        <Publication_Date>2015-07-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/07%20July/0715_international_investment_position_tables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-07-05</ID>
+        <Volume>95</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2015</Year>
+        <Title>Direct Investment Positions for 2014: Country and Industry Detail</Title>
+        <Author>Derrick T. Jenniges, James J. Fetzer</Author>
+        <Description>The U.S. direct investment abroad position grew 4.8 percent after growing 6.4 percent in 2013. The foreign direct investment in the United States position grew 5.3 percent after growing 5.8 percent.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/07%20July/0715_direct_investment_positions.pdf</URL>
+        <Category>International, Direct investment positions</Category>
+        <Publication_Date>2015-07-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-07-06</ID>
+        <Volume>95</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2015</Year>
+        <Title>Annual Revision of the U.S. International Transactions Accounts</Title>
+        <Author>C. Omar Kebbeh, Cavan Wilk</Author>
+        <Description>Quarterly and annual statistics were revised to incorporate a variety of enhancements, including newly available and revised source data, updated seasonal factors and more.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/07%20July/0715_annual_revision_of_international_transactions_accounts.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2015-07-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/07%20July/0715_international_transactions_tables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-07-07</ID>
+        <Volume>95</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2015</Year>
+        <Title>U.S. International Transactions: First Quarter of 2015</Title>
+        <Author>William J. Zeile</Author>
+        <Description>The current-account deficit increased $10.2 billion to $113.3 billion. In the financial account, net U.S. borrowing increased $0.1 billion to $47.9 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/07%20July/0715_international_transactions.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2015-07-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/07%20July/0715_international_transactions_tables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-07-08</ID>
+        <Volume>95</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2015</Year>
+        <Title>International Transactions and Positions in Financial Derivatives Other Than Reserves</Title>
+        <Author></Author>
+        <Description>Statistics on transactions and positions in financial derivatives by type of contract and by area for 2012–2014 and for the first quarter of 2013 through the first quarter of 2015.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/07%20July/0715_international_financial_derivatives.pdf</URL>
+        <Category>International, International transactions and positions in financial derivatives other than reserves</Category>
+        <Publication_Date>2015-07-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-07-09</ID>
+        <Volume>95</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2015</Year>
+        <Title>How BEA Aligns and Augments Source Data From the U.S. Treasury Department for Inclusion in the International Transactions Accounts</Title>
+        <Author></Author>
+        <Description>The estimates of financial-account flows in these accounts, which are based on Treasury Department data, are adjusted to align the estimates with balance-of-payments concepts and to close gaps in coverage.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/07%20July/0715_adjusting_treasury_dept_tic_data_for_itas.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2015-07-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-07-10</ID>
+        <Volume>95</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2015</Year>
+        <Title>Real Per Capita Personal Income and Regional Price Parities for 2013</Title>
+        <Author>Bettina H. Aten, Eric B. Figueroa, Bryan M. Vengelen</Author>
+        <Description>In 2013, the change in real personal income ranged from 3.5 percent in Iowa to –4.4 percent in North Dakota. In metropolitan areas, the change in personal income ranged from 4.8 percent in Sioux City, IA-NE-SD, to –3.1 percent in New Bern, NC.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/07%20July/0715_real_personal_income_and_regional_price_parities.pdf</URL>
+        <Category>Regional, Real personal income</Category>
+        <Publication_Date>2015-07-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-07-11</ID>
+        <Volume>95</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2015</Year>
+        <Title>Regional Quarterly Report</Title>
+        <Author>David G. Lenze</Author>
+        <Description>State personal income growth slowed in 25 states in the first quarter of 2015 and accelerated in 15 states. Personal income declined in four states. On average, personal income grew 0.9 percent in the first quarter, compared with 1.1 percent in the fourth quarter of 2014.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/07%20July/0715_state_personal_income.pdf</URL>
+        <Category>Regional, Regional quarterly reports</Category>
+        <Publication_Date>2015-07-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-07-12</ID>
+        <Volume>95</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2015</Year>
+        <Title>Gross Domestic Product by State: Advance Statistics for 2014 and Revised Statistics for 1997–2013</Title>
+        <Author>John E. Broda, Robert P. Tate</Author>
+        <Description>Real GDP by state increased in 48 states and the District of Columbia and in all eight regions in 2014. Texas was the fastest growing state at 5.2 percent. The Southwest region was the fastest growing region at 4.3 percent.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/07%20July/0715_gross_domestic_product_by_state.pdf</URL>
+        <Category>Regional, Gross domestic product by state</Category>
+        <Publication_Date>2015-07-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-95-08-01</ID>
+        <Volume>95</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2015</Year>
+        <Title>Director's Message</Title>
+        <Author>Brian C. Moyer</Author>
+        <Description>Monthly message from BEA Director Brian C. Moyer</Description>
+        <URL>http://bea.gov/scb/pdf/2015/08%20August/0815_directors_message.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2015-08-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-08-02</ID>
+        <Volume>95</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2015</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description>BEA paper calculates medical care expenditure price indexes for more years</Description>
+        <URL>http://bea.gov/scb/pdf/2015/08%20August/0815_taking_account.pdf</URL>
+        <Category>Economic Studies–Taking Account</Category>
+        <Publication_Date>2015-08-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-08-03</ID>
+        <Volume>95</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2015</Year>
+        <Title>GDP and the Economy: Advance Estimates for the Second Quarter of 2015</Title>
+        <Author>Lisa S. Mataloni</Author>
+        <Description>Real GDP increased 2.3 percent after increasing 0.6 percent in the first quarter of 2015. The second-quarter increase reflected contributions from consumer spending, exports, state and local government spending, and residential investment.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/08%20August/0815_gdp_and_the_economy.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2015-08-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Selected NIPA tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/08%20August/0815_selected_nipa_tables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-08-04</ID>
+        <Volume>95</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2015</Year>
+        <Title>The 2015 Annual Revision of the National Income and Product Accounts</Title>
+        <Author>Stephanie H. McCulla, Shelly Smith</Author>
+        <Description>Details of the annual revision, which incorporated newly available and revised source data and new methods and presentations.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/08%20August/0815_2015_annual_nipa_revision.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2015-08-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-08-05</ID>
+        <Volume>95</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2015</Year>
+        <Title>Activities of U.S. Multinational Enterprises in 2013</Title>
+        <Author>Sarah P. Scott</Author>
+        <Description>The current-dollar value added of U.S. multinational enterprises rose 4.0 percent in 2013 after rising 1.9 percent in 2012. Employment increased 1.4 percent after increasing 1.1 percent.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/08%20August/0815_activities_of_multinational_enterprises.pdf</URL>
+        <Category>International, U.S. direct investment abroad</Category>
+        <Publication_Date>2015-08-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-95-09-01</ID>
+        <Volume>95</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2015</Year>
+        <Title>Director's Message</Title>
+        <Author>Brian C. Moyer</Author>
+        <Description>Monthly message from BEA Director Brian C. Moyer</Description>
+        <URL>http://bea.gov/scb/pdf/2015/09%20September/0915_directors_message.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2015-09-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-95-09-02</ID>
+        <Volume>95</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2015</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description>Now available: primer on capital stocks and new statistics on U.S. multinational enterprises</Description>
+        <URL>http://bea.gov/scb/pdf/2015/09%20September/0915_taking_account.pdf</URL>
+        <Category>Economic Studies–Taking Account</Category>
+        <Publication_Date>2015-09-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-95-09-03</ID>
+        <Volume>95</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2015</Year>
+        <Title>GDP and the Economy: Second Estimates for the Second Quarter of 2015</Title>
+        <Author>Lisa S. Mataloni</Author>
+        <Description>Real GDP increased 3.7 percent after increasing 0.6 percent in the first quarter of 2015. The second-quarter increase reflected contributions from consumer spending, exports, state and local government spending, and residential investment.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/09%20September/0915_gdp_and_the_economy.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2015-09-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Selected NIPA tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/09%20September/0915_selected_nipa_tables.pdf</Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-95-09-04</ID>
+        <Volume>95</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2015</Year>
+        <Title>Government Receipts and Expenditures: Second Quarter of 2015</Title>
+        <Author>Mary L. Roy</Author>
+        <Description>Net government saving decreased $16.1 billion to –$745.8 billion. Net federal government saving decreased $14.3 billion to –$593.6 billion. Net state and local government saving decreased $1.8 billion to –$152.2 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/09%20September/0915_government_receipts_and_expenditures.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2015-09-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-95-09-05</ID>
+        <Volume>95</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2015</Year>
+        <Title>Integrated Industry-Level Production Account for the United States Update</Title>
+        <Author>Mark Dumas, Thomas F. Howells III, Steve Rosenthal, Jon D. Samuels</Author>
+        <Description>New industry-level statistics for 2013 can be used to analyze the underlying trends in aggregate economic growth.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/09%20September/0915_integrated_industry_level_production.pdf</URL>
+        <Category>BEA Briefing</Category>
+        <Publication_Date>2015-09-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Production account tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/industry/xls/BEA-BLS%20industry-level%20production%20account_1998-2013.xlsx</Supp1_URL>
+        <Supp2_Title>Contributions tables</Supp2_Title>
+        <Supp2_URL>http://bea.gov/industry/xls/BEA-BLS%20industry-level%20production%20account_1998-2013_CONTR.xlsx</Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-95-09-06</ID>
+        <Volume>95</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2015</Year>
+        <Title>Supply-Use Tables for the United States</Title>
+        <Author>Jeffrey A. Young, Thomas F. Howells III, Erich H. Strassner, David B. Wasshausen</Author>
+        <Description>An addition to the industry economic accounts, these new tables will provide an integrated presentation of the total domestic supply of goods and services from both domestic and foreign producers and the use of this supply across the U.S. economy.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/09%20September/0915_supply_use_tables_for_the_united_states.pdf</URL>
+        <Category>BEA Briefing</Category>
+        <Publication_Date>2015-09-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Supply tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/industry/xls/io-annual/Supply_1997-2013_Summary.xlsx</Supp1_URL>
+        <Supp2_Title>Use tables</Supp2_Title>
+        <Supp2_URL>http://bea.gov/industry/xls/io-annual/Use_SupplyUseFramework_1997-2013_Summary.xlsx</Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-95-09-07</ID>
+        <Volume>95</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2015</Year>
+        <Title>U.S. Direct Investment Abroad for 2012–2014: Detailed Historical-Cost Positions and Related Financial Transactions and Income Flows</Title>
+        <Author>Nathan R. Hansen, Ricardo Limés</Author>
+        <Description>Detailed statistics on a directional basis by country and by industry.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/09%20September/0915_outward_direct_investment_detailed_historical_cost_positions.pdf</URL>
+        <Category>International, U.S. direct investment abroad</Category>
+        <Publication_Date>2015-09-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/09%20September/0915_outward_direct_investment_detailed_historical_cost_positions_3.pdf</Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-95-09-08</ID>
+        <Volume>95</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2015</Year>
+        <Title>Foreign Direct Investment in the United States for 2012–2014: Detailed Historical-Cost Positions and Related Financial Transactions and Income Flows</Title>
+        <Author>Nathan R. Hansen, Ricardo Limés</Author>
+        <Description>Detailed statistics on a directional basis by country and by industry.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/09%20September/0915_inward_direct_investment_detailed_historical_cost_positions.pdf</URL>
+        <Category>International, Foreign direct investment in the United States</Category>
+        <Publication_Date>2015-09-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/09%20September/0915_inward_direct_investment_detailed_historical_cost_positions_3.pdf</Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-95-09-09</ID>
+        <Volume>95</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2015</Year>
+        <Title>Gross Domestic Product by State: Prototype Quarterly Statistics for 2005–2014</Title>
+        <Author>Charles Ian Mead</Author>
+        <Description>These new statistics are intended to provide more precise and timely information on the accelerations, decelerations, and turning points in state-level economic activity, including changes in the industrial infrastructure of states.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/09%20September/0915_quarterly_gdp_by_state.pdf</URL>
+        <Category>Regional, Gross domestic product by state</Category>
+        <Publication_Date>2015-09-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Current-dollar GDP by state</Supp1_Title>
+        <Supp1_URL>http://bea.gov/newsreleases/regional/gdp_state/2015/xls/qgsp0915_current.xlsx</Supp1_URL>
+        <Supp2_Title>Real GDP by state</Supp2_Title>
+        <Supp2_URL>http://bea.gov/newsreleases/regional/gdp_state/2015/xls/qgsp0915_real.xlsx</Supp2_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-95-10-01</ID>
+        <Volume>95</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2015</Year>
+        <Title>Director's Message</Title>
+        <Author>Brian C. Moyer</Author>
+        <Description>Monthly message from BEA Director Brian C. Moyer</Description>
+        <URL>http://bea.gov/scb/pdf/2015/10%20October/1015_directors_message.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2015-10-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-10-02</ID>
+        <Volume>95</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2015</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description>BEA paper suggests a new concept of multinational enterprises for the System of National Accounts 2008</Description>
+        <URL>http://bea.gov/scb/pdf/2015/10%20October/1015_taking_account.pdf</URL>
+        <Category>Economic Studies–Taking Account</Category>
+        <Publication_Date>2015-10-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-10-03</ID>
+        <Volume>95</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2015</Year>
+        <Title>GDP and the Economy: Third Estimates for the Second Quarter of 2015</Title>
+        <Author>Lisa S. Mataloni</Author>
+        <Description>Real GDP increased 3.9 percent after increasing 0.6 percent in the first quarter of 2015. The second-quarter increase reflected a notable contribution from consumer spending.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/10%20October/1015_gdp_and_the_economy.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2015-10-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Selected NIPA tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/10%20October/1015_selected_nipa_tables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-10-04</ID>
+        <Volume>95</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2015</Year>
+        <Title>U.S. International Services: Trade in Services in 2014 and Services Supplied Through Affiliates in 2013</Title>
+        <Author>Alexis N. Grimm, Charu S. Krishnan</Author>
+        <Description>In 2014, the U.S. surplus on the trade in services was $233.1 billion. In 2013, services supplied to foreign markets by the foreign affiliates of U.S. multinationals enterprises exceeded services supplied to U.S. markets by the U.S. affiliates of foreign multinational enterprises.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/10%20October/1015_international_services.pdf</URL>
+        <Category>International, U.S. international services</Category>
+        <Publication_Date>2015-10-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/10%20October/1015_international_services_tables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-10-05</ID>
+        <Volume>95</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2015</Year>
+        <Title>U.S. International Transactions: Second Quarter of 2015</Title>
+        <Author>William J. Zeile</Author>
+        <Description>The current-account deficit decreased $8.6 billion to $109.7 billion. In the financial account, net U.S. borrowing decreased $0.6 billion to $59.7 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/10%20October/1015_quarterly_international_transactions.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2015-10-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/10%20October/1015_quarterly_international_transactions.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-10-06</ID>
+        <Volume>95</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2015</Year>
+        <Title>The U.S. Net International Investment Position at the End of the Second Quarter of 2015</Title>
+        <Author>Kyle L. Westmoreland</Author>
+        <Description>The net international investment position was –$6,688.3 billion at the end of the second quarter of 2015; at the end of the first quarter of 2015, the net position was –$6,801.4 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/10%20October/1015_international_investment_position.pdf</URL>
+        <Category>International, U.S. international investment position</Category>
+        <Publication_Date>2015-10-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/10%20October/1015_international_investment_position_tables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-10-07</ID>
+        <Volume>95</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2015</Year>
+        <Title>Annual Revision of Gross Domestic Product by Metropolitan Area: Advance Statistics for 2014 and Revised Statistics for 2001–2013</Title>
+        <Author>Frank T. Baumgardner, Sharon D. Panek, Ralph M. Rodriguez</Author>
+        <Description>Real GDP increased in 282 of the nation's 381 metropolitan areas in 2014. Real GDP for metropolitan areas in the United States increased 2.3 percent in 2014 after increasing 1.9 percent in 2013.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/10%20October/1015_gdp_by_metropolitan_area.pdf</URL>
+        <Category>Regional, Gross domestic product by metropolitan area</Category>
+        <Publication_Date>2015-10-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/10%20October/1015_gdp_by_metropolitan_area_tables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-10-08</ID>
+        <Volume>95</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2015</Year>
+        <Title>Regional Quarterly Report</Title>
+        <Author>David G. Lenze</Author>
+        <Description>State personal income grew on average 0.9 percent in the second quarter of 2015, up from 0.8 percent in the first quarter. Detailed annual statistics for 2014 are also presented.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/10%20October/1015_state_personal_income.pdf</URL>
+        <Category>Regional, Regional quarterly reports</Category>
+        <Publication_Date>2015-10-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-10-09</ID>
+        <Volume>95</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2015</Year>
+        <Title>BEA News Release Schedule for 2016</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/newsreleases/general/pdf/2016rd.pdf</URL>
+        <Category></Category>
+        <Publication_Date>2015-10-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-95-11-01</ID>
+        <Volume>95</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2015</Year>
+        <Title>Director's Message</Title>
+        <Author>Brian C. Moyer</Author>
+        <Description>Monthly message from BEA Director Brian C. Moyer</Description>
+        <URL>http://bea.gov/scb/pdf/2015/11%20November/1115_directors_message.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2015-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-11-02</ID>
+        <Volume>95</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2015</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description>BEA economists look at nursing home care inflation</Description>
+        <URL>http://bea.gov/scb/pdf/2015/11%20November/1115_taking_account.pdf</URL>
+        <Category>Economic Studies–Taking Account</Category>
+        <Publication_Date>2015-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-11-03</ID>
+        <Volume>95</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2015</Year>
+        <Title>GDP and the Economy: Advance Estimates for the Third Quarter of 2015</Title>
+        <Author>Lisa S. Mataloni</Author>
+        <Description>Real GDP increased 1.5 percent after increasing 3.9 percent in the second quarter. The third-quarter increase reflected increases in consumer spending, state and local government spending, business investment, exports, and residential investment.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/11%20November/1115_gdp_and_the_economy.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2015-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Selected NIPA tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/11%20November/1115_selected_nipa_tables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-11-04</ID>
+        <Volume>95</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2015</Year>
+        <Title>Updated Summary of NIPA Methodologies</Title>
+        <Author></Author>
+        <Description>The data and methods used to prepare current-dollar and real gross domestic product and current-dollar gross domestic income, reflecting the 2015 annual NIPA revision.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/11%20November/1115_updated_summary_of_nipa_methodologies.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2015-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-11-05</ID>
+        <Volume>95</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2015</Year>
+        <Title>Disease-Based Health Care Measures and the Industry Economic Accounts</Title>
+        <Author>Patricia A. Washington, Daniel W. Jackson, David B. Wasshausen</Author>
+        <Description>The BEA health care satellite account included experimental disease-based measures for the industry economic accounts (IEA). This article updates these measures to include 2011 and 2012 and discusses future statistical products to be based on the IEA framework.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/11%20November/1115_disease_based_health_care_measure_and_the_industry_economic_accounts.pdf</URL>
+        <Category>BEA Briefing</Category>
+        <Publication_Date>2015-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-11-06</ID>
+        <Volume>95</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2015</Year>
+        <Title>Activities of U.S. Affiliates of Foreign Multinational Enterprises</Title>
+        <Author>Rita Ismaylov, Ricardo Limés</Author>
+        <Description>The current-dollar value added of majority-owned U.S. affiliates rose 5.5 percent to $835.6 billion. Employment by these affiliates increased 3.6 percent to 6.1 million workers.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/11%20November/1115_activities_of_u.s._foreign%20affiliates_of%20multinationsl_enterprises.pdf</URL>
+        <Category>International, Foreign direct investment in the United States</Category>
+        <Publication_Date>2015-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-95-12-01</ID>
+        <Volume>95</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2015</Year>
+        <Title>Director's Message</Title>
+        <Author>Brian C. Moyer</Author>
+        <Description>Monthly message from BEA Director Brian C. Moyer</Description>
+        <URL>http://bea.gov/scb/pdf/2015/12%20December/1215_directors_message.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2015-12-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-12-02</ID>
+        <Volume>95</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2015</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description>A new analysis of regional med-tech utilization</Description>
+        <URL>http://bea.gov/scb/pdf/2015/12%20December/1215_taking%20account.pdf</URL>
+        <Category>Economic Studies–Taking Account</Category>
+        <Publication_Date>2015-12-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-12-03</ID>
+        <Volume>95</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2015</Year>
+        <Title>GDP and the Economy: Second Estimates for the Third Quarter of 2015</Title>
+        <Author>Lisa S. Mataloni</Author>
+        <Description>Real GDP increased 2.1 percent after increasing 3.9 percent in the second quarter. The third-quarter increase reflected increases in consumer spending, nonresidential fixed investment, state and local government spending, residential investment, and exports.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/12%20December/1215_gdp_and_the_economy.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2015-12-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Selected NIPA Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2015/12%20December/1215_selected_nipa_tables.pdf</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-12-04</ID>
+        <Volume>95</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2015</Year>
+        <Title>Government Receipts and Expenditures: Third Quarter of 2015</Title>
+        <Author>Michelle S. Grier</Author>
+        <Description>Net government saving decreased $24.4 billion to –$753.1 billion. Net federal government saving decreased $23.0 billion to –$597.2 billion. Net state and local government saving decreased $1.3 billion to –$155.8 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/12%20December/1215_government_receipts_and_expenditures.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2015-12-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-12-05</ID>
+        <Volume>95</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2015</Year>
+        <Title>The 2015 Annual Revision of the Industry Economic Accounts: Initial Statistics for the Second Quarter of 2015 and Revised Statistics for 2012–2014 and the First Quarter of 2015</Title>
+        <Author>Kevin B. Barefoot, Edward T. Morgan, Ksenia E. Shadrina</Author>
+        <Description>Economic growth was widespread in the second quarter of 2015; 18 of the 22 major industry groups contributed to the 3.9 percent growth in real GDP.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/12%20December/1215_annual_revision_of_the%20industry_economic_accounts.pdf</URL>
+        <Category>Industry, Industry economic accounts</Category>
+        <Publication_Date>2015-12-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-12-06</ID>
+        <Volume>95</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2015</Year>
+        <Title>Local Area Personal Income for 2014</Title>
+        <Author>David G. Lenze</Author>
+        <Description>Personal income grew 4.6 percent in the metropolitan portion of the United States in 2014. In the nonmetropolitan portion, it grew 3.2 percent.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/12%20December/1215_local_area_personal_income.pdf</URL>
+        <Category>Regional, Local area personal income</Category>
+        <Publication_Date>2015-12-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-12-07</ID>
+        <Volume>95</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2015</Year>
+        <Title>Personal Consumption Expenditures by State for 1997–2014</Title>
+        <Author>Christian Awuku-Budu, Mahsa Agha Gholizadeh, Ledia Guci, Christopher A. Lucas</Author>
+        <Description>Growth in PCE by state in 2014 ranged from 2.1 percent in West Virginia to 7.4 percent in North Dakota. Across all states, total growth in PCE by state was 4.2 percent in 2014, up from 3.1 percent in 2013.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/12%20December/1215_personal_consumption_expenditures_by_state.pdf</URL>
+        <Category>Regional, Personal consumption expenditures by state</Category>
+        <Publication_Date>2015-12-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-12-08</ID>
+        <Volume>95</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2015</Year>
+        <Title>Subject Guide</Title>
+        <Author></Author>
+        <Description>A list of the articles in the Survey of Current Business in 2015.</Description>
+        <URL>http://bea.gov/scb/pdf/2015/12%20December/1215_guide_to_2015_survey_articles.pdf</URL>
+        <Category></Category>
+        <Publication_Date>2015-12-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-95-12-09</ID>
+        <Volume>95</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2015</Year>
+        <Title>Schedule of BEA News Releases in 2016</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/newsreleases/general/pdf/2016rd.pdf</URL>
+        <Category></Category>
+        <Publication_Date>2015-12-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>

@@ -1,0 +1,1344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-85-01-01</ID>
+        <Volume>85</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2005</Year>
+        <Title>Business Situation: Final Estimates for the Third Quarter of 2004</Title>
+        <Author>Brian C. Moyer, Shelly Smith, David F. Sullivan</Author>
+        <Description>Economic growth picked up in the third quarter. Real GDP increased 4.0 percent after increasing 3.3 percent in the second quarter; the pickup mainly reflected a step-up in consumer spending. Inflation slowed; the price index for gross domestic purchases increased 1.9 percent after increasing 3.5 percent. Real disposable personal income slowed, increasing 2.0 percent after increasing 2.8 percent. Corporate profits decreased $55.9 billion (4.8 percent at a quarterly rate) after increasing $8.3 billion. The decrease mainly reflected a decrease in the profits of financial corporations.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/01January/0105bsf.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2005-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-01-02</ID>
+        <Volume>85</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2005</Year>
+        <Title>Real Inventories, Sales, and Inventory-Sales Ratios for Manufacturing and Trade for the Third Quarter of 2004</Title>
+        <Author></Author>
+        <Description>The estimates have been updated, including the estimates of inventories for manufacturing by stage of fabrication.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/01January/0105_ISR.pdf</URL>
+        <Category>National, Inventories, sales, and inventory-sales ratios for manufacturing and trade</Category>
+        <Publication_Date>2005-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-01-03</ID>
+        <Volume>85</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2005</Year>
+        <Title>Annual Industry Accounts: Revised Estimates for 2001-2003</Title>
+        <Author>George M. Smith, Matthew J. Gruenberg, Tameka R.L. Harris, Erich H. Strassner</Author>
+        <Description>These revised, more detailed estimates of the integrated annual GDP-by-industry accounts and the input-output accounts present an updated picture of U.S. economic activity that confirms and clarifies the industry trends that were indicated by the previously published estimates.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/01January/0105_Industry_Acct.pdf</URL>
+        <Category>Industry, Industry accounts</Category>
+        <Publication_Date>2005-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-01-04</ID>
+        <Volume>85</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2005</Year>
+        <Title>U.S. International Transactions: Third Quarter of 2004</Title>
+        <Author>Douglas B. Weinberg, Kelly K. Pierce</Author>
+        <Description>The U.S. current-account deficit increased $0.3 billion to $164.7 billion. The slight increase was accounted for by a $3.2 billion increase in the deficit on goods, reflecting a larger increase in imports than in exports, and by a $1.1 billion decrease in the surplus on services. In contrast, net outflows for unilateral current transfers decreased $3.7 billion, and the surplus on income increased $0.2 billion. In the financial account, net recorded financial inflows decreased $11.7 billion. Both outflows for U.S.-owned assets abroad and inflows for foreign-owned assets in the United States increased, but outflows increased more than inflows.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/01January/0105_ITA.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2005-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Interactive Data</Supp1_Title>
+        <Supp1_URL>http://bea.gov/international/bp_web/</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-01-05</ID>
+        <Volume>85</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2005</Year>
+        <Title>An Ownership-Based Framework of the U.S. Current Account, 1992-2003</Title>
+        <Author>Jeffrey H. Lowe</Author>
+        <Description>BEA's ownership-based current account has been updated. This report presents revised estimates for 1992-2002 and new summary estimates for 2003. This framework supplements BEA's international transactions accounts by highlighting the participation of multinational companies in the international markets for goods and services through both cross-border trade and sales by local affiliates.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/01January/Current-Acct.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2005-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-01-06</ID>
+        <Volume>85</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2005</Year>
+        <Title>Comprehensive Revision of Gross State Product: Accelerated Estimates for 2003 and Revised Estimates for 1977-2002</Title>
+        <Author>Gerard P. Aman, George K. Downey, Sharon D. Panek</Author>
+        <Description>This revision incorporates the results of the comprehensive revisions of the NIPAs, of the annual integrated industry accounts, and of the state personal income accounts. As a result, BEA's regional accounts are now more consistent with the estimates of GDP and GDP by industry. This revision also features the accelerated release of current-dollar estimates of GSP for 2003.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/01January/0105_GSP.pdf</URL>
+        <Category>Regional, Gross state product</Category>
+        <Publication_Date>2005-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Interactive Data</Supp1_Title>
+        <Supp1_URL>http://bea.gov/iTable/index_regional.cfm</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-01-07</ID>
+        <Volume>85</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2005</Year>
+        <Title>State Personal Income: Third Quarter of 2004</Title>
+        <Author>David G. Lenze</Author>
+        <Description>Personal income growth for the Nation slowed to a 0.8-percent increase from a 1.6-percent increase in the second quarter. Personal income growth in all but seven states slowed. Hurricane property damage affected personal income growth in Florida and Alabama. Earnings growth was concentrated in seven industries. In several states with large farm sectors, the slow growth in personal income reflected decreases in farm earnings.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/01January/0105_SPI.pdf</URL>
+        <Category>Regional, State personal income</Category>
+        <Publication_Date>2005-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Interactive Data</Supp1_Title>
+        <Supp1_URL>http://bea.gov/iTable/index_regional.cfm</Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-85-02-01</ID>
+        <Volume>85</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2005</Year>
+        <Title>Business Situation: Advance Estimates for the Fourth Quarter of 2004 and for 2004</Title>
+        <Author>Brian C. Moyer, Shelly Smith, David F. Sullivan</Author>
+        <Description>Economic growth slowed in the fourth quarter. Real GDP increased 3.1 percent after increasing 4.0 percent in the third quarter; the slowdown mainly reflected an increase in the trade deficit and a slowdown in consumer spending for durable goods. Inflation picked up: The price index for gross domestic purchases increased 2.7 percent after increasing 1.9 percent, mainly reflecting an acceleration in energy prices. Real disposable personal income surged, increasing 8.4 percent after increasing 2.0 percent. In 2004, real GDP increased 4.4 percent after increasing 3.0 percent in 2003. The acceleration reflected accelerations in nonresidential fixed investment, in exports, and in consumer spending and an upturn in inventory investment. Inflation remained moderate.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/02February/0205_BSA.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2005-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-02-02</ID>
+        <Volume>85</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2005</Year>
+        <Title>Reliability of the NIPA Estimates of U.S. Economic Activity</Title>
+        <Author>Dennis J. Fixler, Bruce T. Grimm</Author>
+        <Description>The results of the most recent review of the estimates of GDP and of gross domestic income confirm that these estimates continue to present an accurate picture of U.S. economic activity. Specifically, the quarterly estimates reliably indicate whether U.S. economic growth is contracting or expanding and whether it is accelerating or decelerating. The estimates also accurately show current economic growth and the long-term trends in growth.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/02February/0205_NIPAs.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2005-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-02-03</ID>
+        <Volume>85</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2005</Year>
+        <Title>Hedonic Price Indexes for Digital Cameras</Title>
+        <Author>Kari Manninen</Author>
+        <Description>This research tested five methods of adjustment to account for differences in the quality of digital cameras. All five methods produced similar results. These results suggest that simple, hedonic price indexes may be used to accurately control for the quality of products with rapidly changing features, such as digital cameras, and to reliably supplement the more conventional matched-model methods.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/02February/0205_Digital.pdf</URL>
+        <Category>Research Spotlight</Category>
+        <Publication_Date>2005-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-85-03-01</ID>
+        <Volume>85</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2005</Year>
+        <Title>Business Situation: Preliminary Estimates for the Fourth Quarter of 2004</Title>
+        <Author>Brian C. Moyer, Shelly Smith, David F. Sullivan</Author>
+        <Description>Economic growth slowed slightly in the fourth quarter. Real GDP increased 3.8 percent after increasing 4.0 percent in the third quarter. The slowdown mainly reflected an acceleration in the trade deficit and a slowdown in consumer spending for durable goods; inventory investment turned up. Inflation picked up: The price index for gross domestic purchases increased 2.8 percent after increasing 1.9 percent, mainly reflecting an acceleration in energy prices. Real disposable personal income surged, increasing 8.1 percent after increasing 2.9 percent.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/03March/0305bsp.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2005-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-03-02</ID>
+        <Volume>85</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2005</Year>
+        <Title>Federal Budget Estimates for Fiscal Year 2006</Title>
+        <Author>Michelle D. Robinson, Benjamin A. Mandel</Author>
+        <Description>Each year, BEA adjusts the Federal budget estimates of receipts and outlays from the Budget of the United States Government so that these estimates are consistent with the NIPAs. The adjusted estimates are then used to prepare quarterly estimates of Federal Government current receipts and current expenditures. For fiscal year 2006, net Federal Government saving is projected to be -$392.5 billion; the Federal budget projects a deficit of $390.1 billion. Federal Government current receipts are projected to increase $136.2 billion; Federal budget receipts are projected to increase $124.7 billion. Federal Government current expenditures are projected to increase $126.1 billion; Federal budget outlays are projected to increase $88.2 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/03March/0305_FedBudget.pdf</URL>
+        <Category>National, Federal budget estimates</Category>
+        <Publication_Date>2005-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-85-04-01</ID>
+        <Volume>85</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2005</Year>
+        <Title>Business Situation: Final Estimates for the Fourth Quarter of 2004</Title>
+        <Author>Brian C. Moyer, Shelly Smith, David F. Sullivan, Christopher Falcone</Author>
+        <Description>Economic growth slowed slightly in the fourth quarter. Real GDP increased 3.8 percent after increasing 4.0 percent in the third quarter. The slowdown mainly reflected an acceleration in imports and a deceleration in consumer spending; inventory investment turned up. Inflation picked up: The price index for gross domestic purchases increased 2.9 percent after increasing 1.9 percent, mainly reflecting an acceleration in energy prices. Corporate profits increased $150.8 billion (13.5 percent at a quarterly rate) after decreasing $55.9 billion, reflecting an increase in the profits of domestic corporations. Net government saving was -$320.6 billion, increasing $49.9 billion from -$370.5 billion. Net Federal Government saving was -$356.2 billion, increasing $18.8 billion from -$375 billion. Net state and local government saving was $35.6 billion, increasing $31.1 billion from $4.5 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/04April/BSF.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2005-04-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Saving, Wealth, Investment, and the Current-Account Deficit</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2005/04April/BSFbox.pdf#page=3</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-04-02</ID>
+        <Volume>85</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2005</Year>
+        <Title>Real Inventories, Sales, and Inventory-Sales Ratios for Manufacturing and Trade for the Fourth Quarter of 2004</Title>
+        <Author></Author>
+        <Description>The estimates have been updated, including the estimates of inventories for manufacturing by stage of fabrication.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/04April/ISR.pdf</URL>
+        <Category>National, Inventories, sales, and inventory-sales ratios for manufacturing and trade</Category>
+        <Publication_Date>2005-04-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-04-03</ID>
+        <Volume>85</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2005</Year>
+        <Title>U.S. International Transactions: Fourth Quarter of 2004</Title>
+        <Author>Renee M. Sauers, Kelly K. Pierce</Author>
+        <Description>The U.S. current-account deficit increased $22.0 billion, to $187.9 billion. The increase was mainly accounted for by a $16.5 billion increase in the deficit on goods, reflecting a substantial pickup in imports and a slowdown in exports. Net outflows for unilateral current transfers increased $4.1 billion, and the surplus on income decreased $2.8 billion. The surplus on services increased $1.3 billion. In the financial account, net recorded financial inflows increased $55.1 billion. Both outflows for U.S.-owned assets abroad and inflows for foreign-owned assets in the United States increased, but inflows increased more than outflows.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/04April/ITAQ.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2005-04-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-04-04</ID>
+        <Volume>85</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2005</Year>
+        <Title>U.S. International Transactions, 2004</Title>
+        <Author>Christopher L. Bach</Author>
+        <Description>The U.S. current-account deficit increased $135.3 billion, to $665.9 billion in 2004. The increase was mainly accounted for by a $117.9 billion increase in the deficit on goods. The surplus on income decreased $9.2 billion, net outflows for unilateral current transfers increased $5.5 billion, and the surplus on services decreased $2.6 billion. In the financial account, net recorded financial inflows increased $69.7 billion, to $615.5 billion, as financial inflows for foreign-owned assets in the United States increased more than financial outflows for U.S.-owned assets abroad.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/04April/ITA.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2005-04-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-04-05</ID>
+        <Volume>85</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2005</Year>
+        <Title>State Personal Income for the Fourth Quarter of 2004 and State Per Capita Personal Income for 2004</Title>
+        <Author>David G. Lenze</Author>
+        <Description>Personal income growth for the Nation surged to a 2.6-percent increase from a 1.1-percent increase in the third quarter. The surge mainly reflected a special dividend by Microsoft Corporation, but earnings growth in three other industries also contributed. Personal income growth in all but one state accelerated. The pace of per capita personal income for the Nation in 2004 picked up to a 4.7-percent increase after increasing 2.2 percent in 2003. Per capita personal income growth in all but three states accelerated. The growth was affected by the Microsoft dividend, by unusually high farm prices and production, and by payments by automakers to reduce their unfunded pension liabilities in 2003.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/04April/SPI.pdf</URL>
+        <Category>Regional, State personal income</Category>
+        <Publication_Date>2005-04-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Alternative Measures of Household Income</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2005/04April/SPIbox.pdf#page=7</Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-85-05-01</ID>
+        <Volume>85</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2005</Year>
+        <Title>Business Situation: Advance Estimates for the First Quarter of 2005</Title>
+        <Author>Brian C. Moyer, Shelly Smith, David F. Sullivan</Author>
+        <Description>Real GDP grew 3.1 percent in the first quarter of 2005, compared with 3.8 percent in the preceding quarter. The lower growth rate reflected a slowdown in business investment in equipment and software, a slowdown in consumer spending, and a widening of the trade balance.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/05May/0505BSA.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2005-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-05-02</ID>
+        <Volume>85</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2005</Year>
+        <Title>Annual Industry Accounts: Advance Estimates for 2004</Title>
+        <Author>Brian C. Moyer, Shelly Smith, David F. Sullivan</Author>
+        <Description>The U.S. economy in 2004 reflected robust growth in the private services-producing sector, moderate growth in the goods-producing sector, and a modest acceleration in prices.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/05May/IndyAccts_ArticleB%26W.pdf</URL>
+        <Category>Industry, Industry accounts</Category>
+        <Publication_Date>2005-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-05-03</ID>
+        <Volume>85</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2005</Year>
+        <Title>Local Area Personal Income for 2001-2003</Title>
+        <Author>David G. Lenze</Author>
+        <Description>Growth in local area personal income accelerated in 2003. Personal income in micropolitan areas grew 3.7 percent, and personal income in metropolitan areas grew 3.1 percent.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/05May/0505lapimain.pdf</URL>
+        <Category>Regional, Local area personal income</Category>
+        <Publication_Date>2005-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Alternative Measures of County Employment and Wages</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2005/05May/0505lapibox.pdf#page=5</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-05-04</ID>
+        <Volume>85</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2005</Year>
+        <Title>Index to the NIPA Tables</Title>
+        <Author></Author>
+        <Description>This index has been updated to reflect changes in classifications and presentation that resulted from the 2003 comprehensive NIPA revision and the 2004 annual NIPA revision.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/05May/0505_NIPAIndex.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2005-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-05-05</ID>
+        <Volume>85</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2005</Year>
+        <Title>Errata: U.S. International Transactions</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/05May/0505_Errata.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2005-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-85-06-01</ID>
+        <Volume>85</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2005</Year>
+        <Title>Director's Message</Title>
+        <Author>J. Steven Landefeld</Author>
+        <Description>Monthly message from BEA Director Steve Landefeld</Description>
+        <URL>http://bea.gov/scb/pdf/2005/06June/0605DM_WEB.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2005-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-06-02</ID>
+        <Volume>85</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2005</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/06June/0605Taking_Acct_WEB.pdf</URL>
+        <Category>Taking Account - Economic Studies</Category>
+        <Publication_Date>2005-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-06-03</ID>
+        <Volume>85</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2005</Year>
+        <Title>Business Situation: Preliminary Estimates for the First Quarter of 2005</Title>
+        <Author>Brian C. Moyer, Shelly Smith, David F. Sullivan, Bob Armstrong</Author>
+        <Description>Real GDP increased 3.5 percent after increasing 3.8 percent in the fourth quarter, reflecting slowdowns in business investment in equipment and software and in consumer spending. Corporate profits increased $57.5 billion after decreasing $150.8 billion. Net government saving increased $49.5 billion to -$246.6 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/06June/0605_BizSit_WEB.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2005-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-06-04</ID>
+        <Volume>85</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2005</Year>
+        <Title>U.S. Travel and Tourism Satellite Accounts for 2001-2004</Title>
+        <Author>Peter Kuhbach, Bradlee A. Herauf</Author>
+        <Description>The tourism industry has continued to rebound from the marked slowdown in 2001, though employment in the industry remains weak, according to the most recent estimates.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/06June/0605_Travel.pdf</URL>
+        <Category>Industry, Industry accounts</Category>
+        <Publication_Date>2005-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-06-05</ID>
+        <Volume>85</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2005</Year>
+        <Title>Foreign Direct Investment in the United States: New Investment in 2004</Title>
+        <Author>Thomas W. Anderson</Author>
+        <Description>Outlays to acquire or establish U.S. businesses increased 26 percent to $79.8 billion, reflecting strong U.S. economic growth and a resurgence in worldwide merger and acquisition activity.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/06June/NewFDIUS_WEB.pdf</URL>
+        <Category>International, Foreign direct investment in the United States</Category>
+        <Publication_Date>2005-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-06-06</ID>
+        <Volume>85</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2005</Year>
+        <Title>Subject Guide for the January-June 2005 Issues</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/06June/0605SbjGuide.pdf</URL>
+        <Category></Category>
+        <Publication_Date>2005-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-85-07-01</ID>
+        <Volume>85</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2005</Year>
+        <Title>Director's Message</Title>
+        <Author>J. Steven Landefeld</Author>
+        <Description>Monthly message from BEA Director Steve Landefeld</Description>
+        <URL>http://bea.gov/scb/pdf/2005/07July/0705_DM_WEB.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2005-07-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-07-02</ID>
+        <Volume>85</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2005</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/07July/0705Taking_Acct_WEB.pdf</URL>
+        <Category>Taking Account - Economic Studies</Category>
+        <Publication_Date>2005-07-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-07-03</ID>
+        <Volume>85</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2005</Year>
+        <Title>Business Situation: Final Estimates for the First Quarter of 2005</Title>
+        <Author>Brian C. Moyer, Shelly Smith</Author>
+        <Description>Real GDP increased 3.8 percent, the same as in the fourth quarter, mainly reflecting pickups in residential fixed investment and inventory investment. Corporate profits increased $76.1 billion after increasing $150.8 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/07July/0705_BSF.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2005-07-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-07-04</ID>
+        <Volume>85</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2005</Year>
+        <Title>Real Inventories, Sales, and Inventory-Sales Ratios for Manufacturing and Trade for the First Quarter of 2005</Title>
+        <Author></Author>
+        <Description>The estimates have been updated, including the estimates of inventories for manufacturing by stage of fabrication.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/07July/0705_ISR.pdf</URL>
+        <Category>National, Inventories, sales, and inventory-sales ratios for manufacturing and trade</Category>
+        <Publication_Date>2005-07-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-07-05</ID>
+        <Volume>85</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2005</Year>
+        <Title>U.S. Multinational Companies: Operations in 2003</Title>
+        <Author>Raymond J. Mataloni Jr.</Author>
+        <Description>The worldwide value added of U.S. multinational companies increased 9.3 percent after decreasing in 2002, reflecting a substantial increase in the value added by foreign affiliates.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/07July/0705_MNCs.pdf</URL>
+        <Category>International, U.S. direct investment abroad</Category>
+        <Publication_Date>2005-07-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-07-06</ID>
+        <Volume>85</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2005</Year>
+        <Title>The International Investment Position of the United States at Yearend 2004</Title>
+        <Author>Elena L. Nguyen</Author>
+        <Description>The net international investment position at current cost was -$2,484.2 billion; in 2003, it was -$2,156.7 billion. The -$327.5 billion change mainly reflected substantial net foreign purchases of U.S. Treasury securities and U.S. corporate bonds.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/07July/0705_IIP_WEB.pdf</URL>
+        <Category>International, U.S. international investment position</Category>
+        <Publication_Date>2005-07-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-07-07</ID>
+        <Volume>85</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2005</Year>
+        <Title>Direct Investment Positions for 2004: Country and Industry Detail</Title>
+        <Author>Jennifer L. Koncz, Daniel R. Yorgason</Author>
+        <Description>The historical-cost position of U.S. direct investment abroad increased 15 percent after increasing 11 percent in 2003, and the position of foreign direct investment in the United States increased 8 percent after increasing 5 percent.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/07July/0705_DIP_WEB.pdf</URL>
+        <Category>International, Direct investment positions: Country and industry detail</Category>
+        <Publication_Date>2005-07-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Holding Companies in the Data on U.S. Direct Investment Abroad</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2005/07July/0705_DIPbox.pdf#page=6</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-07-08</ID>
+        <Volume>85</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2005</Year>
+        <Title>Annual Revision of the U.S. International Accounts, 1991-2004</Title>
+        <Author>Christopher L. Bach</Author>
+        <Description>Each year, the estimates of U.S. international transactions and of the U.S. international investment position are revised to incorporate statistical and methodological changes.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/07July/0705_ITAAnnual.pdf</URL>
+        <Category>International, U.S. international accounts</Category>
+        <Publication_Date>2005-07-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-07-09</ID>
+        <Volume>85</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2005</Year>
+        <Title>How BEA Aligns and Augments Source Data From the U.S. Treasury Department for Inclusion in the In the International Transactions Accounts</Title>
+        <Author></Author>
+        <Description>Each year, the estimates of financial-account flows in the international transactions accounts based on Treasury Department data are adjusted to align the estimates with balance-of-payments concepts and to close gaps in coverage.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/07July/0705_ITA%20Treasury.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2005-07-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-07-10</ID>
+        <Volume>85</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2005</Year>
+        <Title>U.S. International Transactions: First Quarter of 2005</Title>
+        <Author>Renee M. Sauers, Kelly K. Pierce</Author>
+        <Description>The U.S. current-account deficit increased $6.7 billion, to $195.1 billion, reflecting increases in the deficit on goods and in net outflows for unilateral current transfers. In the financial account, net recorded financial inflows decreased $3.6 billion, to $165.4 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/07July/0705_ITAQ_Web.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2005-07-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>The Effect of the Job Creation Act of 2004 on U.S. International Transactions</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2005/07July/0705_ITAQbox.pdf#page=7</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-07-11</ID>
+        <Volume>85</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2005</Year>
+        <Title>Gross State Product: Accelerated Estimates for 2004 and Revised Estimates for 1997-2003</Title>
+        <Author>Clifford H. Woodruff III, George K. Downey, John R. Kort</Author>
+        <Description>Growth in real gross state product for the Nation accelerated to 4.2 percent from 2.8 percent in 2003 and 1.8 percent in 2002. Growth in all but seven states accelerated, and the fastest growing states were in the Northeast and on the West Coast.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/07July/0705_GSP.pdf</URL>
+        <Category>Regional, Gross state product</Category>
+        <Publication_Date>2005-07-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Prototype Accelerated Gross State Product Estimates for 2004</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2005/07July/0705_GSPbox.pdf#page=1</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-07-12</ID>
+        <Volume>85</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2005</Year>
+        <Title>State Personal Income: First Quarter of 2005</Title>
+        <Author>David G. Lenze</Author>
+        <Description>Personal income growth for the Nation slowed to 0.7 percent from an unusually high 3.3 percent in the fourth quarter, reflecting the special dividend paid by the Microsoft Corporation in December. Personal income growth in all the states except Rhode Island slowed.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/07July/0705_SPI_LEFT.pdf</URL>
+        <Category>Regional, State personal income</Category>
+        <Publication_Date>2005-07-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-85-08-01</ID>
+        <Volume>85</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2005</Year>
+        <Title>Director's Message</Title>
+        <Author>J. Steven Landefeld</Author>
+        <Description>Monthly message from BEA Director Steve Landefeld</Description>
+        <URL>http://bea.gov/scb/pdf/2005/08August/0805_DM_WEB.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2005-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-08-02</ID>
+        <Volume>85</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2005</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/08August/0805Taking_Acct_WEB.pdf</URL>
+        <Category>Taking Account - Economic Studies</Category>
+        <Publication_Date>2005-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-08-03</ID>
+        <Volume>85</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2005</Year>
+        <Title>Business Situation: Advance Estimates for the Second Quarter of 2005</Title>
+        <Author>David F. Sullivan</Author>
+        <Description>Real GDP increased 3.4 percent after increasing 3.8 percent in the first quarter. The slowdown primarily reflected a downturn in private inventory investment. Real disposable personal income increased 1.4 percent after decreasing 2.9 percent.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/08August/0805_BSA.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2005-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-08-04</ID>
+        <Volume>85</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2005</Year>
+        <Title>Strengthening America's Economic Infrastructure: A Report on the Conference of the U.S. Chamber of Commerce and the Bureau of Economic Analysis</Title>
+        <Author>J. Steven Landefeld, Rosemary D. Marcuss, Kerry Sutten, Cindy M. Vojtech, Matthew R. Balazik</Author>
+        <Description>As part of its ongoing outreach to its data users, BEA cohosted a conference with the U.S. Chamber of Commerce's National Chamber Foundation to gain a deeper understanding of how it can continue to improve its U.S. economic accounts.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/08August/0805_Conference.pdf</URL>
+        <Category>General</Category>
+        <Publication_Date>2005-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-08-05</ID>
+        <Volume>85</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2005</Year>
+        <Title>Annual Revision of the National Income and Product Accounts: Annual Estimates for 2002-2004 and Quarterly Estimates for 2002:I-2005:I</Title>
+        <Author></Author>
+        <Description>Real GDP for 2001-2004 grew at an average annual rate of 2.8 percent, 0.3 percentage point less than in the previously published estimates. For 2002:I-2005:I, real GDP grew at an average annual rate of 3.3 percent, 0.2 percentage point less than in the previously published estimates.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/08August/0805_NIPA_Revision.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2005-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-08-06</ID>
+        <Volume>85</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2005</Year>
+        <Title>National Income and Product Accounts Tables</Title>
+        <Author></Author>
+        <Description>Revised annual, quarterly, and monthly estimates from the annual NIPA revision and advance estimates for the second quarter of 2005 and June 2005. , PDF</Description>
+        <URL>http://bea.gov/scb/pdf/2005/08August/0805_NIPA_Tables.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2005-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-08-07</ID>
+        <Volume>85</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2005</Year>
+        <Title>GDP and Other Major NIPA Series for 1929-2005:II</Title>
+        <Author></Author>
+        <Description>Historical estimates of GDP and its components in current dollars, in chained dollars, and in chain-type quantity and price indexes, national income, and personal income from the annual NIPA revision.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/08August/0805_GDP_NIPAs.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2005-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-08-08</ID>
+        <Volume>85</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2005</Year>
+        <Title>U.S. Affiliates of Foreign Companies: Operations in 2003</Title>
+        <Author>William J. Zeile</Author>
+        <Description>Growth in the current-dollar value added of majority-owned nonbank U.S. affiliates slowed, increasing 6 percent after increasing 10 percent in 2002. Employment of these affiliates continued to decline, decreasing 3 percent after decreasing 3 percent in 2002.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/08August/0805_Foreign_WEB.pdf</URL>
+        <Category>International, Foreign direct investment in the United States</Category>
+        <Publication_Date>2005-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-85-09-01</ID>
+        <Volume>85</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2005</Year>
+        <Title>Director's Message</Title>
+        <Author>J. Steven Landefeld</Author>
+        <Description>Monthly message from BEA Director Steve Landefeld</Description>
+        <URL>http://bea.gov/scb/pdf/2005/09September/0905_DM.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2005-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-09-02</ID>
+        <Volume>85</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2005</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/09September/0905_TA.pdf</URL>
+        <Category>Taking Account - Economic Studies</Category>
+        <Publication_Date>2005-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-09-03</ID>
+        <Volume>85</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2005</Year>
+        <Title>Business Situation: Preliminary Estimates for the Second Quarter of 2005</Title>
+        <Author>Christopher Swann, Bob Armstrong</Author>
+        <Description>Real GDP increased 3.3 percent after increasing 3.8 percent in the first quarter, primarily reflecting a downturn in private inventory investment. Corporate profits increased $79.2 billion after increasing $68.7 billion. Net government saving increased $30.7 billion to -$290.9 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/09September/0905_BSP.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2005-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-09-04</ID>
+        <Volume>85</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2005</Year>
+        <Title>Annual NIPA Revision: Newly Available Table</Title>
+        <Author></Author>
+        <Description>BEA continues to release the results from the annual NIPA revision.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/09September/0905NewNIPAs.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2005-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-09-05</ID>
+        <Volume>85</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2005</Year>
+        <Title>Fixed Assets and Consumer Durable Goods for 1994-2004</Title>
+        <Author></Author>
+        <Description>These estimates cover the net stock of equipment and software and of structures owned by business and government and the net stock of durable goods owned by consumers. They incorporate the results of the annual NIPA revision.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/09September/0905fixed_assets.pdf</URL>
+        <Category>National, Fixed assets and consumer durable goods</Category>
+        <Publication_Date>2005-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-09-06</ID>
+        <Volume>85</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2005</Year>
+        <Title>Annual Industry Accounts: Introducing KLEMS Input Estimates for 1997-2003</Title>
+        <Author>Erich H. Strassner, Gabriel W. Medeiros, George M. Smith</Author>
+        <Description>These new estimates present greater detail on three types of intermediate inputs--energy, materials, and purchased services--that are consumed by industries in the production of goods and services.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/09September/0905_Industry.pdf</URL>
+        <Category>Industry, Industry accounts</Category>
+        <Publication_Date>2005-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-09-07</ID>
+        <Volume>85</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2005</Year>
+        <Title>Preview of the Benchmark Input-Output Accounts for 2002: Preliminary Estimates of Gross Output and Proposed Classification Framework</Title>
+        <Author>Karla L. Stanley-Allen, Nicholas R. Empey, Douglas S. Meade, Stanislaw J. Rzeznik, Mary L. Streitwieser, Monica S. Strople</Author>
+        <Description>These estimates present a preview of the distribution of gross output in the U.S. economy and propose a classification framework for industries and commodities that is based on the 2002 North American Industry Classification System.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/09September/0905_I-O_Accounts.pdf</URL>
+        <Category>National, Input-output (I-O) accounts</Category>
+        <Publication_Date>2005-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-09-08</ID>
+        <Volume>85</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2005</Year>
+        <Title>Foreign Direct Investment in the United States: Detail for Historical-Cost Position and Related Capital and Income Flows, 2004</Title>
+        <Author>Jeffrey H. Lowe</Author>
+        <Description>Detailed estimates of the direct investment position and international transactions by industry and by country and the composition of investment by foreign companies in the United States.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/09September/0905_FDIUS.pdf</URL>
+        <Category>International, Foreign direct investment in the United States</Category>
+        <Publication_Date>2005-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-09-09</ID>
+        <Volume>85</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2005</Year>
+        <Title>U.S. Direct Investment Abroad: Detail for Historical-Cost Position and Related Capital and Income Flows, 2004</Title>
+        <Author>Jeffrey H. Lowe</Author>
+        <Description>Detailed estimates of the direct investment position and international transactions of U.S. multinational companies by industry and by country and the composition of investment by U.S. companies abroad.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/09September/USDIA_Final.pdf</URL>
+        <Category>International, U.S. direct investment abroad</Category>
+        <Publication_Date>2005-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-85-10-01</ID>
+        <Volume>85</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2005</Year>
+        <Title>Director's Message</Title>
+        <Author>J. Steven Landefeld</Author>
+        <Description>Monthly message from BEA Director Steve Landefeld</Description>
+        <URL>http://bea.gov/scb/pdf/2005/10October/octoberdirectormessage.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2005-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-10-02</ID>
+        <Volume>85</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2005</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/10October/octobertakingaccount.pdf</URL>
+        <Category>Taking Account - Economic Studies</Category>
+        <Publication_Date>2005-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-10-03</ID>
+        <Volume>85</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2005</Year>
+        <Title>Business Situation: Final Estimates for the Second Quarter of 2005</Title>
+        <Author>Christopher Swann</Author>
+        <Description>Real GDP increased 3.3 percent after increasing 3.8 percent in the first quarter, primarily reflecting a downturn in private inventory investment. Corporate profits increased $59.3 billion after increasing $68.7 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/10October/1005_bsf.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2005-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-10-04</ID>
+        <Volume>85</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2005</Year>
+        <Title>Receipts and Expenditures of State Governments and of Local Governments</Title>
+        <Author>Bruce E. Baker</Author>
+        <Description>Net saving of state governments and net saving of local governments increased in 2003 and 2004 after decreasing in 2001 and 2002, according to the estimates that incorporate the results of the most recent comprehensive NIPA revision.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/10October/1005_gce.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2005-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-10-05</ID>
+        <Volume>85</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2005</Year>
+        <Title>Newly Available NIPA Tables</Title>
+        <Author></Author>
+        <Description>BEA releases the estimates of government consumption expenditures and gross investment by function from the annual NIPA revision.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/10October/1005_nipas.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2005-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-10-06</ID>
+        <Volume>85</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2005</Year>
+        <Title>Real Inventories, Sales, and Inventory-Sales Ratios for Manufacturing and Trade, 2001:IV-2005:II</Title>
+        <Author></Author>
+        <Description>The estimates have been updated, including the estimates of inventories for manufacturing by stage of fabrication.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/10October/1005_isr.pdf</URL>
+        <Category>National, Inventories, sales, and inventory-sales ratios for manufacturing and trade</Category>
+        <Publication_Date>2005-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-10-07</ID>
+        <Volume>85</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2005</Year>
+        <Title>U.S. International Services: Cross-Border Trade in 2004 and Sales Through Affiliates in 2003</Title>
+        <Author>Erin Nephew, Jennifer Koncz, Maria Borga, Michael Mann</Author>
+        <Description>U.S. exports of services increased 11 percent to $323.4 billion, and U.S. imports increased 15 percent to $258.1 billion. Sales of services abroad by foreign affiliates of U.S. companies increased 13 percent to $477.5 billion, and U.S. sales by U.S. affiliates of foreign companies increased 4 percent to $381.4 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/10October/1005_xborder.pdf</URL>
+        <Category>International, U.S. international services</Category>
+        <Publication_Date>2005-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-10-08</ID>
+        <Volume>85</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2005</Year>
+        <Title>U.S. International Transactions: Second Quarter of 2005</Title>
+        <Author>Kelly K. Pierce, Matthew J. Argersinger</Author>
+        <Description>The U.S. current-account deficit decreased $3.0 billion, to $195.7 billion, reflecting a decrease in net outflows for unilateral current transfers and a slight increase in the surplus on services. In the financial account, net recorded financial inflows decreased $19.7 billion, to $142. 3 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/10October/1005_itaq.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2005-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>The Effect of the Job Creation Act of 2004 on U.S. International Transactions</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2005/10October/1005_itaq.pdf#page=7</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-10-09</ID>
+        <Volume>85</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2005</Year>
+        <Title>State Personal Income: Second Quarter of 2005 and Revised Estimates for 2002-2005:I</Title>
+        <Author>David G. Lenze</Author>
+        <Description>Personal income growth for the Nation picked up, increasing 1.5 percent after increasing 0.6 percent in the first quarter of 2005.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/10October/1005_spi_bw.pdf</URL>
+        <Category>Regional, State personal income</Category>
+        <Publication_Date>2005-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>New Treatment of State Estimates of Military Compensation</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2005/10October/1005_spi_bw.pdf#page=6</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-10-10</ID>
+        <Volume>85</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2005</Year>
+        <Title>Schedule of BEA News Releases in 2006</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/10October/1005_newsrelease.pdf</URL>
+        <Category></Category>
+        <Publication_Date>2005-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-85-11-01</ID>
+        <Volume>85</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2005</Year>
+        <Title>Director's Message</Title>
+        <Author>J. Steven Landefeld</Author>
+        <Description>Monthly message from BEA Director Steve Landefeld</Description>
+        <URL>http://bea.gov/scb/pdf/2005/11November/1105_Direct_Msg.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2005-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-11-02</ID>
+        <Volume>85</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2005</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/11November/1105_TakingAccount.pdf</URL>
+        <Category>Taking Account - Economic Studies</Category>
+        <Publication_Date>2005-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-11-03</ID>
+        <Volume>85</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2005</Year>
+        <Title>Business Situation: Advance Estimates for the Third Quarter of 2005</Title>
+        <Author>Christopher Swann</Author>
+        <Description>Real GDP increased 3.8 percent in the third quarter after increasing 3.3 percent, primarily reflecting accelerations in consumer spending and Federal Government spending. Real disposable personal income decreased 0.9 percent after increasing 1.5 percent.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/11November/1105_BSA.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2005-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-11-04</ID>
+        <Volume>85</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2005</Year>
+        <Title>Newly Available NIPA Tables</Title>
+        <Author></Author>
+        <Description>BEA releases the estimates of income and outlays of nonprofit institutions serving households and the estimates of personal income and its disposition by these institutions from the 2005 annual NIPA revision.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/11November/1105_NIPAnew.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2005-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-11-05</ID>
+        <Volume>85</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2005</Year>
+        <Title>Updated Summary NIPA Methodologies</Title>
+        <Author></Author>
+        <Description>The sources of data and the methods used to prepare the current-dollar and real estimates of GDP and the current-dollar estimates of gross domestic income have been updated as part of the 2005 annual NIPA revision.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/11November/1105_NIPAMeth.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2005-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-11-06</ID>
+        <Volume>85</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2005</Year>
+        <Title>Federal Personal Income Tax Liabilities and Payments for 1959-2003</Title>
+        <Author>Mark A. Ledbetter</Author>
+        <Description>These updated estimates incorporate the results of the 2005 annual NIPA revision and newly available IRS tax return data for 2003. For 2003, payments exceeded liabilities by $27.9 billion; liabilities decreased $53.8 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/11November/1105_Tax.pdf</URL>
+        <Category>National, Federal personal income tax liabilities and payments</Category>
+        <Publication_Date>2005-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-11-07</ID>
+        <Volume>85</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2005</Year>
+        <Title>Comparison of BEA Estimates of Personal Income and IRS Estimates of Adjusted Gross Income: New Estimates for 2003 and Revised Estimates for 2002</Title>
+        <Author>Mark A. Ledbetter</Author>
+        <Description>The estimates of these two widely used measures of household income are reconciled in order to account for the statistical and definitional differences between the two measures.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/11November/1105_AGI.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2005-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-11-08</ID>
+        <Volume>85</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2005</Year>
+        <Title>Reconciliation of the United States-Canadian Current Account, 2003 and 2004</Title>
+        <Author>Renee Sauers, Patricia Abaroa, Edward Dozier, Denis Caron</Author>
+        <Description>Each year, the bilateral current-account estimates of the United States are reconciled with those of Canada because of the extensive economic links between these two countries.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/11November/1105_US-Canadian.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2005-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-85-12-01</ID>
+        <Volume>85</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2005</Year>
+        <Title>Director's Message</Title>
+        <Author>J. Steven Landefeld</Author>
+        <Description>Monthly message from BEA Director Steve Landefeld</Description>
+        <URL>http://bea.gov/scb/pdf/2005/12December/1205_Direct_Msg.pdf</URL>
+        <Category>Director's Message</Category>
+        <Publication_Date>2005-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-12-02</ID>
+        <Volume>85</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2005</Year>
+        <Title>Taking Account</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/12December/1205_TakingAccount.pdf</URL>
+        <Category>Taking Account - Economic Studies</Category>
+        <Publication_Date>2005-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-12-03</ID>
+        <Volume>85</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2005</Year>
+        <Title>Business Situation: Preliminary Estimates for the Third Quarter of 2005</Title>
+        <Author>Christopher Swann, Andrew E. Vargo</Author>
+        <Description>Real GDP increased 4.3 percent after increasing 3.3 percent in the second quarter. Corporate profits decreased $45.5 billion after increasing $59.3 billion. Net government saving decreased $129. 9 billion to -$406.0 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/12December/1205_BSP.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2005-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>The Impact of the Third-Quarter Hurricanes on the NIPAs</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2005/12December/1205_BSP.pdf#page=4</Supp1_URL>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-12-04</ID>
+        <Volume>85</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2005</Year>
+        <Title>Annual Industry Accounts: Revised Estimates for 2002-2004</Title>
+        <Author>George M. Smith, Sherlene K.S. Lum</Author>
+        <Description>Real economic growth was strong in 2004, reflecting strength in both the services-producing sector and the goods-producing sector, according to the most recent update of BEA's annual industry accounts.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/12December/1205_indyAccts.pdf</URL>
+        <Category>Industry, Industry accounts</Category>
+        <Publication_Date>2005-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Gross Output: Annual Industry Estimates and Preliminary Benchmark I-O Estimates</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2005/12December/1205_indyAccts.pdf#page=12</Supp1_URL>
+        <Supp2_Title>Annual Input-Output Tables and the Health Care Industry, 1998-2004</Supp2_Title>
+        <Supp2_URL>http://bea.gov/scb/pdf/2005/12December/1205_indyAccts.pdf#page=16</Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-85-12-05</ID>
+        <Volume>85</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2005</Year>
+        <Title>Gross Domestic Product by Industry for 1947-86: New Estimates Based on the North American Industry Classification System</Title>
+        <Author>Robert E. Yuskavage, Mahnaz Fahim-Nader</Author>
+        <Description>These new NAICS-based estimates show, among other trends, the economic shift from goods-producing industries to services-producing industries since World War II.</Description>
+        <URL>http://bea.gov/scb/pdf/2005/12December/1205_GDP-NAICS.pdf</URL>
+        <Category>Industry, Industry accounts</Category>
+        <Publication_Date>2005-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Interpreting the Value-Added Price Index</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2005/12December/1205_GDP-NAICS.pdf#page=8</Supp1_URL>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-12-06</ID>
+        <Volume>85</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2005</Year>
+        <Title>Subject Guide for 2005</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/12December/1205_SbjGuide.pdf</URL>
+        <Category></Category>
+        <Publication_Date>2005-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>

@@ -1,0 +1,2387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-89-01-D-01</ID>
+        <Volume>89</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2009</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/01%20January/D-Pages/0109dpg_b.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-01-D-02</ID>
+        <Volume>89</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2009</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/01%20January/D-Pages/0109dpg_b.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-01-D-03</ID>
+        <Volume>89</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2009</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/01%20January/D-Pages/0109dpg_c.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-01-D-04</ID>
+        <Volume>89</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/01%20January/D-Pages/0109dpg_d.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-01-D-05</ID>
+        <Volume>89</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2009</Year>
+        <Title>Industry Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/01%20January/D-Pages/0109dpg_e.pdf</URL>
+        <Category>D-Pages, Industry Data</Category>
+        <Publication_Date>2009-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-01-D-06</ID>
+        <Volume>89</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2009</Year>
+        <Title>Transactions Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/01%20January/D-Pages/0109dpg_f.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-01-D-07</ID>
+        <Volume>89</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2009</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/01%20January/D-Pages/0109dpg_g.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-01-D-08</ID>
+        <Volume>89</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/01%20January/D-Pages/0109dpg_h.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-01-D-09</ID>
+        <Volume>89</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2009</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/01%20January/D-Pages/0109dpg_i.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-01-D-10</ID>
+        <Volume>89</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2009</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/01%20January/D-Pages/0109dpg_j.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-01-D-11</ID>
+        <Volume>89</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/01%20January/D-Pages/0109dpg_k.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-01-D-12</ID>
+        <Volume>89</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2009</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/01%20January/D-Pages/0109appendixa.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2009-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-01-D-13</ID>
+        <Volume>89</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2009</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/01%20January/D-Pages/0109appendixb.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2009-01-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-89-02-D-01</ID>
+        <Volume>89</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2009</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/02%20February/D-Pages/0209dpg_a.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-02-D-02</ID>
+        <Volume>89</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2009</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/02%20February/D-Pages/0209dpg_b.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-02-D-03</ID>
+        <Volume>89</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2009</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/02%20February/D-Pages/0209dpg_c.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-02-D-04</ID>
+        <Volume>89</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/02%20February/D-Pages/0209dpg_d.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-02-D-05</ID>
+        <Volume>89</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2009</Year>
+        <Title>Industry Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/02%20February/D-Pages/0209dpg_e.pdf</URL>
+        <Category>D-Pages, Industry Data</Category>
+        <Publication_Date>2009-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-02-D-06</ID>
+        <Volume>89</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2009</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/02%20February/D-Pages/0209dpg_f.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-02-D-07</ID>
+        <Volume>89</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2009</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/02%20February/D-Pages/0209dpg_g.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-02-D-08</ID>
+        <Volume>89</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/02%20February/D-Pages/0209dpg_h.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-02-D-09</ID>
+        <Volume>89</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2009</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/02%20February/D-Pages/0209dpg_i.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-02-D-10</ID>
+        <Volume>89</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2009</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/02%20February/D-Pages/0209dpg_j.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-02-D-11</ID>
+        <Volume>89</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/02%20February/D-Pages/0209dpg_k.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-02-D-12</ID>
+        <Volume>89</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2009</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/02%20February/D-Pages/0209appendixa.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2009-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-02-D-13</ID>
+        <Volume>89</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2009</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/02%20February/D-Pages/0209appendixb.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2009-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-89-03-D-01</ID>
+        <Volume>89</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2009</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/03%20March/D-Pages/0309dpg_a.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-03-D-02</ID>
+        <Volume>89</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2009</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/03%20March/D-Pages/0309dpg_b.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-03-D-03</ID>
+        <Volume>89</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2009</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/03%20March/D-Pages/0309dpg_c.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-03-D-04</ID>
+        <Volume>89</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/03%20March/D-Pages/0309dpg_d.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-03-D-05</ID>
+        <Volume>89</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2009</Year>
+        <Title>Industry Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/03%20March/D-Pages/0309dpg_e.pdf</URL>
+        <Category>D-Pages, Industry Data</Category>
+        <Publication_Date>2009-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-03-D-06</ID>
+        <Volume>89</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2009</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/03%20March/D-Pages/0309dpg_f.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-03-D-07</ID>
+        <Volume>89</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2009</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/03%20March/D-Pages/0309dpg_g.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-03-D-08</ID>
+        <Volume>89</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/03%20March/D-Pages/0309dpg_h.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-03-D-09</ID>
+        <Volume>89</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2009</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/03%20March/D-Pages/0309dpg_i.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-03-D-10</ID>
+        <Volume>89</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2009</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/03%20March/D-Pages/0309dpg_j.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-03-D-11</ID>
+        <Volume>89</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/03%20March/D-Pages/0309dpg_k.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-03-D-12</ID>
+        <Volume>89</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2009</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/03%20March/D-Pages/0309appendixa.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2009-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-03-D-13</ID>
+        <Volume>89</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2009</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/03%20March/D-Pages/0309appendixb.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2009-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-89-04-D-01</ID>
+        <Volume>89</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2009</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/04%20April/D-pages/0409dgp_a.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-04-D-02</ID>
+        <Volume>89</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2009</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/04%20April/D-Pages/0409dpg_b.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-04-D-03</ID>
+        <Volume>89</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2009</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009//04%20April/D-Pages/0409dpg_c.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-04-D-04</ID>
+        <Volume>89</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009//04%20April/D-Pages/0409dpg_d.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-04-D-05</ID>
+        <Volume>89</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2009</Year>
+        <Title>Industry Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/04%20April/D-pages/0409dpg_e.pdf</URL>
+        <Category>D-Pages, Industry Data</Category>
+        <Publication_Date>2009-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-04-D-06</ID>
+        <Volume>89</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2009</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/04%20April/D-pages/0409dpg_f.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-04-D-07</ID>
+        <Volume>89</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2009</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009//04%20April/D-Pages/0409dpg_g.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-04-D-08</ID>
+        <Volume>89</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009//04%20April/D-Pages/0409dpg_h.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-04-D-09</ID>
+        <Volume>89</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2009</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/04%20April/D-pages/0409dpg_i.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-04-D-10</ID>
+        <Volume>89</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2009</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/04%20April/D-Pages/0409dpg_j.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-04-D-11</ID>
+        <Volume>89</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/04%20April/D-Pages/0409dpg_k.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-04-D-12</ID>
+        <Volume>89</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2009</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/04%20April/D-Pages/0409appendixa.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2009-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-04-D-13</ID>
+        <Volume>89</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2009</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/04%20April/D-Pages/0409appendixb.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2009-04-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-89-05-D-01</ID>
+        <Volume>89</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2009</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/05%20May/D-Pages/0509dpg_a.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-05-D-02</ID>
+        <Volume>89</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2009</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/05%20May/D-Pages/0509dpg_b.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-05-D-03</ID>
+        <Volume>89</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2009</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/05%20May/D-Pages/0509dpg_c.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-05-D-04</ID>
+        <Volume>89</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/05%20May/D-Pages/0509dpg_d.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-05-D-05</ID>
+        <Volume>89</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2009</Year>
+        <Title>Industry Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/05%20May/D-Pages/0509dpg_e.pdf</URL>
+        <Category>D-Pages, Industry Data</Category>
+        <Publication_Date>2009-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-05-D-06</ID>
+        <Volume>89</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2009</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/05%20May/D-Pages/0509dpg_f.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-05-D-07</ID>
+        <Volume>89</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2009</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/05%20May/D-Pages/0509dpg_g.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-05-D-08</ID>
+        <Volume>89</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/05%20May/D-Pages/0509dpg_h.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-05-D-09</ID>
+        <Volume>89</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2009</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/05%20May/D-Pages/0509dpg_i.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-05-D-10</ID>
+        <Volume>89</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2009</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/05%20May/D-Pages/0509dpg_j.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-05-D-11</ID>
+        <Volume>89</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/05%20May/D-Pages/0509dpg_k.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-05-D-12</ID>
+        <Volume>89</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2009</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/05%20May/D-Pages/0509appendixa.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2009-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-05-D-13</ID>
+        <Volume>89</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2009</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/05%20May/D-Pages/0509appendixb.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2009-05-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-89-06-D-01</ID>
+        <Volume>89</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2009</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/06%20June/D-pages/0609dpg_a.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-06-D-02</ID>
+        <Volume>89</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2009</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/06%20June/D-Pages/0609dpg_b.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-06-D-03</ID>
+        <Volume>89</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2009</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/06%20June/D-Pages/0609dpg_c.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-06-D-04</ID>
+        <Volume>89</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/06%20June/D-Pages/0609dpg_d.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-06-D-05</ID>
+        <Volume>89</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2009</Year>
+        <Title>Industry Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/06%20June/D-Pages/0609dpg_e.pdf</URL>
+        <Category>D-Pages, Industry Data</Category>
+        <Publication_Date>2009-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-06-D-06</ID>
+        <Volume>89</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2009</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/06%20June/D-Pages/0609dpg_f.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-06-D-07</ID>
+        <Volume>89</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2009</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/06%20June/D-Pages/0609dpg_g.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-06-D-08</ID>
+        <Volume>89</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/06%20June/D-Pages/0609dpg_h.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-06-D-09</ID>
+        <Volume>89</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2009</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/06%20June/D-Pages/0609dpg_i.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-06-D-10</ID>
+        <Volume>89</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2009</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/06%20June/D-Pages/0609dpg_j.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-06-D-11</ID>
+        <Volume>89</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/06%20June/D-Pages/0609dpg_k.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-06-D-12</ID>
+        <Volume>89</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2009</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/06%20June/D-Pages/0609appendixa.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2009-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-06-D-13</ID>
+        <Volume>89</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2009</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/06%20June/D-Pages/0609appendixb.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2009-06-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-89-07-D-01</ID>
+        <Volume>89</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2009</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/07%20July/D-Pages/0709dpg_a.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-07-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-07-D-02</ID>
+        <Volume>89</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2009</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/07%20July/D-Pages/0709dpg_b.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-07-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-07-D-03</ID>
+        <Volume>89</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2009</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/07%20July/D-Pages/0709dpg_c.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-07-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-07-D-04</ID>
+        <Volume>89</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/07%20July/D-Pages/0709dpg_d.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-07-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-07-D-05</ID>
+        <Volume>89</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2009</Year>
+        <Title>Industry Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/07%20July/D-Pages/0709dpg_e.pdf</URL>
+        <Category>D-Pages, Industry Data</Category>
+        <Publication_Date>2009-07-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-07-D-06</ID>
+        <Volume>89</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2009</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/07%20July/D-Pages/0709dpg_f.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-07-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-07-D-07</ID>
+        <Volume>89</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2009</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/07%20July/D-Pages/0709dpg_i.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-07-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-07-D-08</ID>
+        <Volume>89</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2009</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/07%20July/D-Pages/0709dpg_j.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-07-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-07-D-09</ID>
+        <Volume>89</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/07%20July/D-Pages/0709dpg_k.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-07-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-07-D-10</ID>
+        <Volume>89</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2009</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/07%20July/D-Pages/0709appendixa.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2009-07-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-07-D-11</ID>
+        <Volume>89</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2009</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/07%20July/D-Pages/0709appendixb.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2009-07-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-89-08-D-01</ID>
+        <Volume>89</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2009</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/08%20August/D-Pages/0809dpg_a.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-08-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-08-D-02</ID>
+        <Volume>89</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2009</Year>
+        <Title>Industry Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/08%20August/D-Pages/0809dpg_e.pdf</URL>
+        <Category>D-Pages, Industry Data</Category>
+        <Publication_Date>2009-08-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-08-D-03</ID>
+        <Volume>89</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2009</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/08%20August/D-Pages/0809dpg_f.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-08-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-08-D-04</ID>
+        <Volume>89</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2009</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/08%20August/D-Pages/0809dpg_g.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-08-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-08-D-05</ID>
+        <Volume>89</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/08%20August/D-Pages/0809dpg_h.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-08-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-08-D-06</ID>
+        <Volume>89</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2009</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/08%20August/D-Pages/0809dpg_i.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-08-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-08-D-07</ID>
+        <Volume>89</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2009</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/08%20August/D-Pages/0809dpg_j.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-08-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-08-D-08</ID>
+        <Volume>89</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/08%20August/D-Pages/0809dpg_k.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-08-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-08-D-09</ID>
+        <Volume>89</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2009</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/08%20August/D-Pages/0809appendixa.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2009-08-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-08-D-10</ID>
+        <Volume>89</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2009</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/08%20August/D-Pages/0809appendixb.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2009-08-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+  <row>
+    <ID>SCB-89-09-D-05</ID>
+    <Volume>89</Volume>
+    <Issue>9</Issue>
+    <Month>September</Month>
+    <Year>2009</Year>
+    <Title>Industry Table</Title>
+    <Author></Author>
+    <Description></Description>
+    <URL>http://bea.gov/scb/pdf/2009/09%20September/D-Pages/0809dpg_e_sept.pdf</URL>
+    <Category>D-Pages, Industry Data</Category>
+    <Publication_Date>2009-09-16</Publication_Date>
+    <Modified_Date></Modified_Date>
+    <Supp1_Title></Supp1_Title>
+    <Supp1_URL></Supp1_URL>
+  </row>
+  <row>
+    <ID>SCB-89-09-D-06</ID>
+    <Volume>89</Volume>
+    <Issue>9</Issue>
+    <Month>September</Month>
+    <Year>2009</Year>
+    <Title>Transactions Table</Title>
+    <Author></Author>
+    <Description></Description>
+    <URL>http://bea.gov/scb/pdf/2009/09%20September/D-Pages/0909dpg_f.pdf</URL>
+    <Category>D-Pages, International Data</Category>
+    <Publication_Date>2009-09-16</Publication_Date>
+    <Modified_Date></Modified_Date>
+    <Supp1_Title></Supp1_Title>
+    <Supp1_URL></Supp1_URL>
+  </row>
+  <row>
+    <ID>SCB-89-09-D-07</ID>
+    <Volume>89</Volume>
+    <Issue>9</Issue>
+    <Month>September</Month>
+    <Year>2009</Year>
+    <Title>Investment Tables</Title>
+    <Author></Author>
+    <Description></Description>
+    <URL>http://bea.gov/scb/pdf/2009/09%20September/D-Pages/0909dpg_g.pdf</URL>
+    <Category>D-Pages, International Data</Category>
+    <Publication_Date>2009-09-16</Publication_Date>
+    <Modified_Date></Modified_Date>
+    <Supp1_Title></Supp1_Title>
+    <Supp1_URL></Supp1_URL>
+  </row>
+  <row>
+    <ID>SCB-89-09-D-08</ID>
+    <Volume>89</Volume>
+    <Issue>9</Issue>
+    <Month>September</Month>
+    <Year>2009</Year>
+    <Title>Charts</Title>
+    <Author></Author>
+    <Description></Description>
+    <URL>http://bea.gov/scb/pdf/2009/09%20September/D-Pages/0909dpg_h.pdf</URL>
+    <Category>D-Pages, International Data</Category>
+    <Publication_Date>2009-09-16</Publication_Date>
+    <Modified_Date></Modified_Date>
+    <Supp1_Title></Supp1_Title>
+    <Supp1_URL></Supp1_URL>
+  </row>
+  <row>
+    <ID>SCB-89-09-D-09</ID>
+    <Volume>89</Volume>
+    <Issue>9</Issue>
+    <Month>September</Month>
+    <Year>2009</Year>
+    <Title>State and Regional Tables</Title>
+    <Author></Author>
+    <Description></Description>
+    <URL>http://bea.gov/scb/pdf/2009/09%20September/D-Pages/0909dpg_i.pdf</URL>
+    <Category>D-Pages, Regional Data</Category>
+    <Publication_Date>2009-09-16</Publication_Date>
+    <Modified_Date></Modified_Date>
+    <Supp1_Title></Supp1_Title>
+    <Supp1_URL></Supp1_URL>
+  </row>
+  <row>
+    <ID>SCB-89-09-D-10</ID>
+    <Volume>89</Volume>
+    <Issue>9</Issue>
+    <Month>September</Month>
+    <Year>2009</Year>
+    <Title>Local Area Tables</Title>
+    <Author></Author>
+    <Description></Description>
+    <URL>http://bea.gov/scb/pdf/2009/09%20September/D-Pages/0909dpg_j.pdf</URL>
+    <Category>D-Pages, Regional Data</Category>
+    <Publication_Date>2009-09-16</Publication_Date>
+    <Modified_Date></Modified_Date>
+    <Supp1_Title></Supp1_Title>
+    <Supp1_URL></Supp1_URL>
+  </row>
+  <row>
+    <ID>SCB-89-09-D-11</ID>
+    <Volume>89</Volume>
+    <Issue>9</Issue>
+    <Month>September</Month>
+    <Year>2009</Year>
+    <Title>Charts</Title>
+    <Author></Author>
+    <Description></Description>
+    <URL>http://bea.gov/scb/pdf/2009/09%20September/D-Pages/0909dpg_k.pdf</URL>
+    <Category>D-Pages, Regional Data</Category>
+    <Publication_Date>2009-09-16</Publication_Date>
+    <Modified_Date></Modified_Date>
+    <Supp1_Title></Supp1_Title>
+    <Supp1_URL></Supp1_URL>
+  </row>
+  <row>
+    <ID>SCB-89-09-D-12</ID>
+    <Volume>89</Volume>
+    <Issue>9</Issue>
+    <Month>September</Month>
+    <Year>2009</Year>
+    <Title>Additional Information About the NIPA Estimates</Title>
+    <Author></Author>
+    <Description></Description>
+    <URL>http://bea.gov/scb/pdf/2009/09%20September/D-Pages/0909appendixa.pdf</URL>
+    <Category>D-Pages, More Information</Category>
+    <Publication_Date>2009-09-16</Publication_Date>
+    <Modified_Date></Modified_Date>
+    <Supp1_Title></Supp1_Title>
+    <Supp1_URL></Supp1_URL>
+  </row>
+  <row>
+    <ID>SCB-89-09-D-13</ID>
+    <Volume>89</Volume>
+    <Issue>9</Issue>
+    <Month>September</Month>
+    <Year>2009</Year>
+    <Title>Suggested Reading</Title>
+    <Author></Author>
+    <Description></Description>
+    <URL>http://bea.gov/scb/pdf/2009/09%20September/D-Pages/0909appendixb.pdf</URL>
+    <Category>D-Pages, More Information</Category>
+    <Publication_Date>2009-09-16</Publication_Date>
+    <Modified_Date></Modified_Date>
+    <Supp1_Title></Supp1_Title>
+    <Supp1_URL></Supp1_URL>
+  </row>
+</rows><?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-89-10-D-01</ID>
+        <Volume>89</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2009</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/10%20October/D-Pages/1009dpg_a.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-10-D-02</ID>
+        <Volume>89</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2009</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/10%20October/D-Pages/1009dpg_b.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-10-D-03</ID>
+        <Volume>89</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2009</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/10%20October/D-Pages/1009dpg_c.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-10-D-04</ID>
+        <Volume>89</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/10%20October/D-Pages/1009dpg_d.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-10-D-05</ID>
+        <Volume>89</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2009</Year>
+        <Title>Industry Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/10%20October/D-Pages/1009dpg_e.pdf</URL>
+        <Category>D-Pages, Industry Data</Category>
+        <Publication_Date>2009-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-10-D-06</ID>
+        <Volume>89</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2009</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/10%20October/D-Pages/1009dpg_f.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-10-D-07</ID>
+        <Volume>89</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2009</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/10%20October/D-Pages/1009dpg_g.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-10-D-08</ID>
+        <Volume>89</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/10%20October/D-Pages/1009dpg_h.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-10-D-09</ID>
+        <Volume>89</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2009</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/10%20October/D-Pages/1009dpg_i.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-10-D-10</ID>
+        <Volume>89</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2009</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/10%20October/D-Pages/1009dpg_j.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-10-D-11</ID>
+        <Volume>89</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/10%20October/D-Pages/1009dpg_k.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-10-D-12</ID>
+        <Volume>89</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2009</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/10%20October/D-Pages/1009appendixa.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2009-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-10-D-13</ID>
+        <Volume>89</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2009</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/10%20October/D-Pages/1009appendixb.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2009-10-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-89-11-D-01</ID>
+        <Volume>89</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2009</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/11%20November/D-Pages/1109dpg_a.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-11-D-02</ID>
+        <Volume>89</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2009</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/11%20November/D-Pages/1109dpg_b.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-11-D-03</ID>
+        <Volume>89</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2009</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/11%20November/D-Pages/1109dpg_c.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-11-D-04</ID>
+        <Volume>89</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/11%20November/D-Pages/1109dpg_d.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-11-D-05</ID>
+        <Volume>89</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2009</Year>
+        <Title>Industry Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/11%20November/D-Pages/1109dpg_e.pdf</URL>
+        <Category>D-Pages, Industry Data</Category>
+        <Publication_Date>2009-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-11-D-06</ID>
+        <Volume>89</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2009</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/11%20November/D-Pages/1109dpg_f.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-11-D-07</ID>
+        <Volume>89</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2009</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/11%20November/D-Pages/1109dpg_g.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-11-D-08</ID>
+        <Volume>89</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/11%20November/D-Pages/1109dpg_h.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-11-D-09</ID>
+        <Volume>89</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2009</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/11%20November/D-Pages/1109dpg_i.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-11-D-10</ID>
+        <Volume>89</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2009</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/11%20November/D-Pages/1109dpg_j.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-11-D-11</ID>
+        <Volume>89</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/11%20November/D-Pages/1109dpg_k.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-11-D-12</ID>
+        <Volume>89</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2009</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/11%20November/D-Pages/1109appendixa.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2009-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-11-D-13</ID>
+        <Volume>89</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2009</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/11%20November/D-Pages/1109appendixb.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2009-11-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-89-12-D-01</ID>
+        <Volume>89</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2009</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/12%20December/D-Pages/1209dpg_a.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-12-D-02</ID>
+        <Volume>89</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2009</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/12%20December/D-Pages/1209dpg_b.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-12-D-03</ID>
+        <Volume>89</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2009</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/12%20December/D-Pages/1209dpg_c.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-12-D-04</ID>
+        <Volume>89</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/12%20December/D-Pages/1209dpg_d.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2009-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-12-D-05</ID>
+        <Volume>89</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2009</Year>
+        <Title>Industry Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/12%20December/D-Pages/1209dpg_e.pdf</URL>
+        <Category>D-Pages, Industry Data</Category>
+        <Publication_Date>2009-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-12-D-06</ID>
+        <Volume>89</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2009</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/12%20December/D-Pages/1209dpg_f.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-12-D-07</ID>
+        <Volume>89</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2009</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/12%20December/D-Pages/1209dpg_g.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-12-D-08</ID>
+        <Volume>89</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/12%20December/D-Pages/1209dpg_h.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2009-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-12-D-09</ID>
+        <Volume>89</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2009</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/12%20December/D-Pages/1209dpg_i.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-12-D-10</ID>
+        <Volume>89</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2009</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/12%20December/D-Pages/1209dpg_j.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-12-D-11</ID>
+        <Volume>89</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2009</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/12%20December/D-Pages/1209dpg_k.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2009-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-12-D-12</ID>
+        <Volume>89</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2009</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/12%20December/D-Pages/1209appendixa.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2009-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-89-12-D-13</ID>
+        <Volume>89</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2009</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2009/12%20December/D-Pages/1209appendixb.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2009-12-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
