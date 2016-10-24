@@ -1,2308 +1,2292 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rows>
-  <row>
-    <ID>SCB-85-01-D-01</ID>
-    <Volume>85</Volume>
-    <Issue>1</Issue>
-    <Month>January</Month>
-    <Year>2005</Year>
-    <Title>Selected NIPA Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgA.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-01-21</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-01-D-02</ID>
-    <Volume>85</Volume>
-    <Issue>1</Issue>
-    <Month>January</Month>
-    <Year>2005</Year>
-    <Title>NIPA-Related Table  </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgB.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-01-21</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-01-D-03</ID>
-    <Volume>85</Volume>
-    <Issue>1</Issue>
-    <Month>January</Month>
-    <Year>2005</Year>
-    <Title>Historical Measures </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgC.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-01-21</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-01-D-04</ID>
-    <Volume>85</Volume>
-    <Issue>1</Issue>
-    <Month>February</Month>
-    <Year>2005</Year>
-    <Title>Domestic perspectives </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgD.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-01-21</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-01-D-05</ID>
-    <Volume>85</Volume>
-    <Issue>1</Issue>
-    <Month>January</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgE-New.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-01-21</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-01-D-06</ID>
-    <Volume>85</Volume>
-    <Issue>1</Issue>
-    <Month>January</Month>
-    <Year>2005</Year>
-    <Title>Transactions Table </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgF.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-01-21</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-01-D-07</ID>
-    <Volume>85</Volume>
-    <Issue>1</Issue>
-    <Month>January</Month>
-    <Year>2005</Year>
-    <Title>Investment Tables </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgG.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-01-21</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-01-D-08</ID>
-    <Volume>85</Volume>
-    <Issue>1</Issue>
-    <Month>January</Month>
-    <Year>2005</Year>
-    <Title>International perspectives</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgH.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-01-21</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-01-D-09</ID>
-    <Volume>85</Volume>
-    <Issue>1</Issue>
-    <Month>January</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgI.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-01-21</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-01-D-10</ID>
-    <Volume>85</Volume>
-    <Issue>1</Issue>
-    <Month>January</Month>
-    <Year>2005</Year>
-    <Title>State and Regional Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgJ.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-01-21</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-01-D-11</ID>
-    <Volume>85</Volume>
-    <Issue>1</Issue>
-    <Month>January</Month>
-    <Year>2005</Year>
-    <Title>Local Area Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgK.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-01-21</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-01-D-12</ID>
-    <Volume>85</Volume>
-    <Issue>1</Issue>
-    <Month>January</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgL.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-01-21</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-01-D-13</ID>
-    <Volume>85</Volume>
-    <Issue>1</Issue>
-    <Month>January</Month>
-    <Year>2005</Year>
-    <Title>Additional Information About the NIPA Estimates</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105AppendixAWEB.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-01-21</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-01-D-14</ID>
-    <Volume>85</Volume>
-    <Issue>1</Issue>
-    <Month>January</Month>
-    <Year>2005</Year>
-    <Title>Suggested Reading</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105AppendixBWEB.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-01-21</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
+    <row>
+        <ID>SCB-85-01-D-01</ID>
+        <Volume>85</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2005</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgA.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-01-D-02</ID>
+        <Volume>85</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2005</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgB.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-01-D-03</ID>
+        <Volume>85</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2005</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgC.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-01-D-04</ID>
+        <Volume>85</Volume>
+        <Issue>1</Issue>
+        <Month>February</Month>
+        <Year>2005</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgD.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-01-D-05</ID>
+        <Volume>85</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgE-New.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-01-D-06</ID>
+        <Volume>85</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2005</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgF.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-01-D-07</ID>
+        <Volume>85</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2005</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgG.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-01-D-08</ID>
+        <Volume>85</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2005</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgH.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-01-D-09</ID>
+        <Volume>85</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgI.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-01-D-10</ID>
+        <Volume>85</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2005</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgJ.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-01-D-11</ID>
+        <Volume>85</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2005</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgK.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-01-D-12</ID>
+        <Volume>85</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105DpgL.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-01-D-13</ID>
+        <Volume>85</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2005</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105AppendixAWEB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-01-D-14</ID>
+        <Volume>85</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2005</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105AppendixBWEB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-01-21</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
 </rows>
 <?xml version="1.0" encoding="UTF-8"?>
 <rows>
-  <row>
-    <ID>SCB-85-02-D-01</ID>
-    <Volume>85</Volume>
-    <Issue>2</Issue>
-    <Month>February</Month>
-    <Year>2005</Year>
-    <Title>Selected NIPA Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/02February/0205DpgA.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-02-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-02-D-02</ID>
-    <Volume>85</Volume>
-    <Issue>2</Issue>
-    <Month>February</Month>
-    <Year>2005</Year>
-    <Title>NIPA-Related Table  </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/02February/0205DpgB.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-02-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-02-D-03</ID>
-    <Volume>85</Volume>
-    <Issue>2</Issue>
-    <Month>February</Month>
-    <Year>2005</Year>
-    <Title>Historical Measures </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/02February/0205DpgC.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-02-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-02-D-04</ID>
-    <Volume>85</Volume>
-    <Issue>2</Issue>
-    <Month>February</Month>
-    <Year>2005</Year>
-    <Title>Charts </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/02February/0205DpgD.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-02-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-02-D-05</ID>
-    <Volume>85</Volume>
-    <Issue>2</Issue>
-    <Month>February</Month>
-    <Year>2005</Year>
-    <Title>Transactions Table </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/02February/0205DpgE.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-02-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-02-D-06</ID>
-    <Volume>85</Volume>
-    <Issue>2</Issue>
-    <Month>February</Month>
-    <Year>2005</Year>
-    <Title>Investment Tables </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/02February/0205DpgF.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-02-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-02-D-07</ID>
-    <Volume>85</Volume>
-    <Issue>2</Issue>
-    <Month>February</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/02February/0205DpgG.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-02-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-02-D-08</ID>
-    <Volume>85</Volume>
-    <Issue>2</Issue>
-    <Month>February</Month>
-    <Year>2005</Year>
-    <Title>State and Regional Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/02February/0205DpgH.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-02-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-02-D-09</ID>
-    <Volume>85</Volume>
-    <Issue>2</Issue>
-    <Month>February</Month>
-    <Year>2005</Year>
-    <Title>Local Area Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/02February/0205DpgI.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-02-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-02-D-10</ID>
-    <Volume>85</Volume>
-    <Issue>2</Issue>
-    <Month>February</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/02February/0205DpgJ.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-02-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-02-D-11</ID>
-    <Volume>85</Volume>
-    <Issue>2</Issue>
-    <Month>February</Month>
-    <Year>2005</Year>
-    <Title>Additional Information About the NIPA Estimates</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/02February/0205AppendixAWEB.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-02-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-02-D-12</ID>
-    <Volume>85</Volume>
-    <Issue>2</Issue>
-    <Month>February</Month>
-    <Year>2005</Year>
-    <Title>Suggested Reading</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/01January/D-Pages/0105AppendixBWEB.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-02-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
+    <row>
+        <ID>SCB-85-02-D-01</ID>
+        <Volume>85</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2005</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/02February/0205DpgA.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-02-D-02</ID>
+        <Volume>85</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2005</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/02February/0205DpgB.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-02-D-03</ID>
+        <Volume>85</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2005</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/02February/0205DpgC.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-02-D-04</ID>
+        <Volume>85</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/02February/0205DpgD.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-02-D-05</ID>
+        <Volume>85</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2005</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/02February/0205DpgE.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-02-D-06</ID>
+        <Volume>85</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2005</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/02February/0205DpgF.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-02-D-07</ID>
+        <Volume>85</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/02February/0205DpgG.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-02-D-08</ID>
+        <Volume>85</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2005</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/02February/0205DpgH.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-02-D-09</ID>
+        <Volume>85</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2005</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/02February/0205DpgI.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-02-D-10</ID>
+        <Volume>85</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/02February/0205DpgJ.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-02-D-11</ID>
+        <Volume>85</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2005</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/02February/0205AppendixAWEB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-02-D-12</ID>
+        <Volume>85</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2005</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/01February/0205AppendixBWEB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-02-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
 </rows>
 <?xml version="1.0" encoding="UTF-8"?>
 <rows>
-  <row>
-    <ID>SCB-85-03-D-01</ID>
-    <Volume>85</Volume>
-    <Issue>3</Issue>
-    <Month>March</Month>
-    <Year>2005</Year>
-    <Title>Selected NIPA Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305DpgA.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-03-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-03-D-02</ID>
-    <Volume>85</Volume>
-    <Issue>3</Issue>
-    <Month>March</Month>
-    <Year>2005</Year>
-    <Title>NIPA-Related Table  </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305DpgB.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-03-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-03-D-03</ID>
-    <Volume>85</Volume>
-    <Issue>3</Issue>
-    <Month>March</Month>
-    <Year>2005</Year>
-    <Title>Historical Measures </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305DpgC.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-03-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-03-D-04</ID>
-    <Volume>85</Volume>
-    <Issue>3</Issue>
-    <Month>March</Month>
-    <Year>2005</Year>
-    <Title>Charts </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305DpgD.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-03-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-03-D-05</ID>
-    <Volume>85</Volume>
-    <Issue>3</Issue>
-    <Month>March</Month>
-    <Year>2005</Year>
-    <Title>Transactions Table </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305DpgE.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-03-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-03-D-06</ID>
-    <Volume>85</Volume>
-    <Issue>3</Issue>
-    <Month>March</Month>
-    <Year>2005</Year>
-    <Title>Investment Tables </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305DpgF.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-03-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-03-D-07</ID>
-    <Volume>85</Volume>
-    <Issue>3</Issue>
-    <Month>March</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305DpgG.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-03-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-03-D-08</ID>
-    <Volume>85</Volume>
-    <Issue>3</Issue>
-    <Month>March</Month>
-    <Year>2005</Year>
-    <Title>State and Regional Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305DpgH.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-03-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-03-D-09</ID>
-    <Volume>85</Volume>
-    <Issue>3</Issue>
-    <Month>March</Month>
-    <Year>2005</Year>
-    <Title>Local Area Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305DpgI.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-03-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-03-D-10</ID>
-    <Volume>85</Volume>
-    <Issue>3</Issue>
-    <Month>March</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305DpgJ.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-03-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-03-D-11</ID>
-    <Volume>85</Volume>
-    <Issue>3</Issue>
-    <Month>March</Month>
-    <Year>2005</Year>
-    <Title>Additional Information About the NIPA Estimates</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305AppendixA.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-03-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-03-D-12</ID>
-    <Volume>85</Volume>
-    <Issue>3</Issue>
-    <Month>March</Month>
-    <Year>2005</Year>
-    <Title>Suggested Reading</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305AppendixB.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-03-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
+    <row>
+        <ID>SCB-85-03-D-01</ID>
+        <Volume>85</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2005</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305DpgA.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-03-D-02</ID>
+        <Volume>85</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2005</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305DpgB.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-03-D-03</ID>
+        <Volume>85</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2005</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305DpgC.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-03-D-04</ID>
+        <Volume>85</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305DpgD.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-03-D-05</ID>
+        <Volume>85</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2005</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305DpgE.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-03-D-06</ID>
+        <Volume>85</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2005</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305DpgF.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-03-D-07</ID>
+        <Volume>85</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305DpgG.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-03-D-08</ID>
+        <Volume>85</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2005</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305DpgH.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-03-D-09</ID>
+        <Volume>85</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2005</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305DpgI.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-03-D-10</ID>
+        <Volume>85</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305DpgJ.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-03-D-11</ID>
+        <Volume>85</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2005</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305AppendixA.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-03-D-12</ID>
+        <Volume>85</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2005</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/03March/D-Pages/0305AppendixB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
 </rows>
 <?xml version="1.0" encoding="UTF-8"?>
 <rows>
-  <row>
-    <ID>SCB-85-04-D-01</ID>
-    <Volume>85</Volume>
-    <Issue>4</Issue>
-    <Month>April</Month>
-    <Year>2005</Year>
-    <Title>Selected NIPA Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405DpgA.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-04-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-04-D-02</ID>
-    <Volume>85</Volume>
-    <Issue>4</Issue>
-    <Month>April</Month>
-    <Year>2005</Year>
-    <Title>NIPA-Related Table  </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405DpgB.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-04-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-04-D-03</ID>
-    <Volume>85</Volume>
-    <Issue>4</Issue>
-    <Month>April</Month>
-    <Year>2005</Year>
-    <Title>Historical Measures </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405DpgC.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-04-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-04-D-04</ID>
-    <Volume>85</Volume>
-    <Issue>4</Issue>
-    <Month>April</Month>
-    <Year>2005</Year>
-    <Title>Charts </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405DpgD.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-04-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-04-D-05</ID>
-    <Volume>85</Volume>
-    <Issue>4</Issue>
-    <Month>April</Month>
-    <Year>2005</Year>
-    <Title>Industry Table </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405DpgE.pdf</URL>
-    <Category>D-Pages, Industry Data</Category>
-    <Publication_Date>2005-04-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-04-D-06</ID>
-    <Volume>85</Volume>
-    <Issue>4</Issue>
-    <Month>April</Month>
-    <Year>2005</Year>
-    <Title>Transactions Table </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405DpgE.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-04-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-04-D-07</ID>
-    <Volume>85</Volume>
-    <Issue>4</Issue>
-    <Month>April</Month>
-    <Year>2005</Year>
-    <Title>Investment Tables </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405DpgF.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-04-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-04-D-08</ID>
-    <Volume>85</Volume>
-    <Issue>4</Issue>
-    <Month>April</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405DpgG.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-04-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-04-D-09</ID>
-    <Volume>85</Volume>
-    <Issue>4</Issue>
-    <Month>April</Month>
-    <Year>2005</Year>
-    <Title>State and Regional Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405DpgH.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-04-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-04-D-10</ID>
-    <Volume>85</Volume>
-    <Issue>4</Issue>
-    <Month>April</Month>
-    <Year>2005</Year>
-    <Title>Local Area Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405DpgI.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-04-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-04-D-11</ID>
-    <Volume>85</Volume>
-    <Issue>4</Issue>
-    <Month>April</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405DpgJ.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-04-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-04-D-12</ID>
-    <Volume>85</Volume>
-    <Issue>4</Issue>
-    <Month>April</Month>
-    <Year>2005</Year>
-    <Title>Additional Information About the NIPA Estimates</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405AppendixA_WEB.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-04-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-04-D-13</ID>
-    <Volume>85</Volume>
-    <Issue>4</Issue>
-    <Month>April</Month>
-    <Year>2005</Year>
-    <Title>Suggested Reading</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405AppendixB_WEB.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-04-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
+    <row>
+        <ID>SCB-85-04-D-01</ID>
+        <Volume>85</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2005</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405DpgA.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-04-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-04-D-02</ID>
+        <Volume>85</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2005</Year>
+        <Title>Other NIPA and NIPA-Related Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405DpgB.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-04-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-04-D-03</ID>
+        <Volume>85</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2005</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405DpgC.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-04-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-04-D-04</ID>
+        <Volume>85</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405DpgD.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-04-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-04-D-05</ID>
+        <Volume>85</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2005</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405DpgE.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-04-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-04-D-06</ID>
+        <Volume>85</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2005</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405DpgF.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-04-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-04-D-07</ID>
+        <Volume>85</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405DpgG.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-04-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-04-D-08</ID>
+        <Volume>85</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2005</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405DpgH.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-04-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-04-D-09</ID>
+        <Volume>85</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2005</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405DpgI.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-04-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-04-D-10</ID>
+        <Volume>85</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405DpgJ.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-04-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-04-D-11</ID>
+        <Volume>85</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2005</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405AppendixA_WEB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-04-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-04-D-12</ID>
+        <Volume>85</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2005</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/04April/D-Pages/0405AppendixB_WEB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-04-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
 </rows>
 <?xml version="1.0" encoding="UTF-8"?>
 <rows>
-  <row>
-    <ID>SCB-85-05-D-01</ID>
-    <Volume>85</Volume>
-    <Issue>5</Issue>
-    <Month>May</Month>
-    <Year>2005</Year>
-    <Title>Selected NIPA Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505DpgA.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-05-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-05-D-02</ID>
-    <Volume>85</Volume>
-    <Issue>5</Issue>
-    <Month>May</Month>
-    <Year>2005</Year>
-    <Title>NIPA-Related Table  </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505DpgB.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-05-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-05-D-03</ID>
-    <Volume>85</Volume>
-    <Issue>5</Issue>
-    <Month>May</Month>
-    <Year>2005</Year>
-    <Title>Historical Measures </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505DpgC.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-05-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-05-D-04</ID>
-    <Volume>85</Volume>
-    <Issue>5</Issue>
-    <Month>May</Month>
-    <Year>2005</Year>
-    <Title>Charts </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505DpgD.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-05-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-05-D-05</ID>
-    <Volume>85</Volume>
-    <Issue>5</Issue>
-    <Month>May</Month>
-    <Year>2005</Year>
-    <Title>Transactions Table </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505DpgE.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-05-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-05-D-06</ID>
-    <Volume>85</Volume>
-    <Issue>5</Issue>
-    <Month>May</Month>
-    <Year>2005</Year>
-    <Title>Investment Tables </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505DpgF.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-05-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-05-D-07</ID>
-    <Volume>85</Volume>
-    <Issue>5</Issue>
-    <Month>May</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505DpgG.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-05-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-05-D-08</ID>
-    <Volume>85</Volume>
-    <Issue>5</Issue>
-    <Month>May</Month>
-    <Year>2005</Year>
-    <Title>State and Regional Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505DpgH.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-05-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-05-D-09</ID>
-    <Volume>85</Volume>
-    <Issue>5</Issue>
-    <Month>May</Month>
-    <Year>2005</Year>
-    <Title>Local Area Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505DpgI.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-05-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-05-D-10</ID>
-    <Volume>85</Volume>
-    <Issue>5</Issue>
-    <Month>May</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505DpgJ.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-05-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-05-D-11</ID>
-    <Volume>85</Volume>
-    <Issue>5</Issue>
-    <Month>May</Month>
-    <Year>2005</Year>
-    <Title>Additional Information About the NIPA Estimates</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505AppendixA_WEB.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-05-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-05-D-12</ID>
-    <Volume>85</Volume>
-    <Issue>5</Issue>
-    <Month>May</Month>
-    <Year>2005</Year>
-    <Title>Suggested Reading</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505AppendixB_WEB.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-05-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
+    <row>
+        <ID>SCB-85-05-D-01</ID>
+        <Volume>85</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2005</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505DpgA.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-05-D-02</ID>
+        <Volume>85</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2005</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505DpgB.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-05-D-03</ID>
+        <Volume>85</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2005</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505DpgC.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-05-D-04</ID>
+        <Volume>85</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505DpgD.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-05-D-05</ID>
+        <Volume>85</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2005</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505DpgE.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-05-D-06</ID>
+        <Volume>85</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2005</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505DpgF.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-05-D-07</ID>
+        <Volume>85</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505DpgG.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-05-D-08</ID>
+        <Volume>85</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2005</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505DpgH.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-05-D-09</ID>
+        <Volume>85</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2005</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505DpgI.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-05-D-10</ID>
+        <Volume>85</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505DpgJ.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-05-D-11</ID>
+        <Volume>85</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2005</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505AppendixA_WEB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-05-D-12</ID>
+        <Volume>85</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>2005</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/05May/D-Pages/0505AppendixB_WEB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-05-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
 </rows>
 <?xml version="1.0" encoding="UTF-8"?>
 <rows>
-  <row>
-    <ID>SCB-85-06-D-01</ID>
-    <Volume>85</Volume>
-    <Issue>6</Issue>
-    <Month>June</Month>
-    <Year>2005</Year>
-    <Title>Selected NIPA Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605DpgA.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-06-15</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-06-D-02</ID>
-    <Volume>85</Volume>
-    <Issue>6</Issue>
-    <Month>June</Month>
-    <Year>2005</Year>
-    <Title>NIPA-Related Table  </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605DpgB.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-06-15</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-06-D-03</ID>
-    <Volume>85</Volume>
-    <Issue>6</Issue>
-    <Month>June</Month>
-    <Year>2005</Year>
-    <Title>Historical Measures </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605DpgC.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-06-15</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-06-D-04</ID>
-    <Volume>85</Volume>
-    <Issue>6</Issue>
-    <Month>June</Month>
-    <Year>2005</Year>
-    <Title>Charts </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605DpgD_WEB.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-06-15</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-06-D-05</ID>
-    <Volume>85</Volume>
-    <Issue>6</Issue>
-    <Month>June</Month>
-    <Year>2005</Year>
-    <Title>Transactions Table </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605DpgE.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-06-15</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-06-D-06</ID>
-    <Volume>85</Volume>
-    <Issue>6</Issue>
-    <Month>June</Month>
-    <Year>2005</Year>
-    <Title>Investment Tables </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605DpgF.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-06-15</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-06-D-07</ID>
-    <Volume>85</Volume>
-    <Issue>6</Issue>
-    <Month>June</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605DpgG_WEB.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-06-15</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-06-D-08</ID>
-    <Volume>85</Volume>
-    <Issue>6</Issue>
-    <Month>June</Month>
-    <Year>2005</Year>
-    <Title>State and Regional Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605DpgH.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-06-15</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-06-D-09</ID>
-    <Volume>85</Volume>
-    <Issue>6</Issue>
-    <Month>June</Month>
-    <Year>2005</Year>
-    <Title>Local Area Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605DpgI.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-06-15</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-06-D-10</ID>
-    <Volume>85</Volume>
-    <Issue>6</Issue>
-    <Month>June</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605DpgJ_WEB.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-06-15</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-06-D-11</ID>
-    <Volume>85</Volume>
-    <Issue>6</Issue>
-    <Month>June</Month>
-    <Year>2005</Year>
-    <Title>Additional Information About the NIPA Estimates</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605AppendixA_WEB.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-06-15</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-06-D-12</ID>
-    <Volume>85</Volume>
-    <Issue>6</Issue>
-    <Month>June</Month>
-    <Year>2005</Year>
-    <Title>Suggested Reading</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605AppendixB_WEB.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-06-15</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
+    <row>
+        <ID>SCB-85-06-D-01</ID>
+        <Volume>85</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2005</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605DpgA.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-06-D-02</ID>
+        <Volume>85</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2005</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605DpgB.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-06-D-03</ID>
+        <Volume>85</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2005</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605DpgC.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-06-D-04</ID>
+        <Volume>85</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605DpgD_WEB.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-06-D-05</ID>
+        <Volume>85</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2005</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605DpgE.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-06-D-06</ID>
+        <Volume>85</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2005</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605DpgF.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-06-D-07</ID>
+        <Volume>85</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605DpgG_WEB.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-06-D-08</ID>
+        <Volume>85</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2005</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605DpgH.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-06-D-09</ID>
+        <Volume>85</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2005</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605DpgI.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-06-D-10</ID>
+        <Volume>85</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605DpgJ_WEB.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-06-D-11</ID>
+        <Volume>85</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2005</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605AppendixA_WEB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-06-D-12</ID>
+        <Volume>85</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2005</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/06June/D-pages/0605AppendixB_WEB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-06-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
 </rows>
 <?xml version="1.0" encoding="UTF-8"?>
 <rows>
-  <row>
-    <ID>SCB-85-07-D-01</ID>
-    <Volume>85</Volume>
-    <Issue>7</Issue>
-    <Month>July</Month>
-    <Year>2005</Year>
-    <Title>Selected NIPA Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/07July/D-Pages/0705DpgA.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-07-20</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-07-D-02</ID>
-    <Volume>85</Volume>
-    <Issue>7</Issue>
-    <Month>July</Month>
-    <Year>2005</Year>
-    <Title>NIPA-Related Table  </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/07July/D-Pages/0705DpgB.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-07-20</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-07-D-03</ID>
-    <Volume>85</Volume>
-    <Issue>7</Issue>
-    <Month>July</Month>
-    <Year>2005</Year>
-    <Title>Historical Measures </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/07July/D-Pages/0705DpgC.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-07-20</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-07-D-04</ID>
-    <Volume>85</Volume>
-    <Issue>7</Issue>
-    <Month>July</Month>
-    <Year>2005</Year>
-    <Title>Charts </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/07July/D-Pages/0705DpgD.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-07-20</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-07-D-05</ID>
-    <Volume>85</Volume>
-    <Issue>7</Issue>
-    <Month>July</Month>
-    <Year>2005</Year>
-    <Title>Transactions Table </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/07July/D-Pages/0705DpgE.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-07-20</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-07-D-06</ID>
-    <Volume>85</Volume>
-    <Issue>7</Issue>
-    <Month>July</Month>
-    <Year>2005</Year>
-    <Title>State and Regional Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/07July/D-Pages/0705DpgH.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-07-20</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-07-D-07</ID>
-    <Volume>85</Volume>
-    <Issue>7</Issue>
-    <Month>July</Month>
-    <Year>2005</Year>
-    <Title>Local Area Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/07July/D-Pages/0705DpgI.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-07-20</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-07-D-08</ID>
-    <Volume>85</Volume>
-    <Issue>7</Issue>
-    <Month>July</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/07July/D-Pages/0705DpgJ.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-07-20</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-07-D-09</ID>
-    <Volume>85</Volume>
-    <Issue>7</Issue>
-    <Month>July</Month>
-    <Year>2005</Year>
-    <Title>Additional Information About the NIPA Estimates</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/07July/D-Pages/0705AppendixA_WEB.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-07-20</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-07-D-10</ID>
-    <Volume>85</Volume>
-    <Issue>7</Issue>
-    <Month>July</Month>
-    <Year>2005</Year>
-    <Title>Suggested Reading</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/07July/D-Pages/0705AppendixB_WEB.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-07-20</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
+    <row>
+        <ID>SCB-85-07-D-01</ID>
+        <Volume>85</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2005</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/07July/D-Pages/0705DpgA.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-07-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-07-D-02</ID>
+        <Volume>85</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2005</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/07July/D-Pages/0705DpgB.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-07-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-07-D-03</ID>
+        <Volume>85</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2005</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/07July/D-Pages/0705DpgC.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-07-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-07-D-04</ID>
+        <Volume>85</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/07July/D-Pages/0705DpgD.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-07-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-07-D-05</ID>
+        <Volume>85</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2005</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/07July/D-Pages/0705DpgE.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-07-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-07-D-06</ID>
+        <Volume>85</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2005</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/07July/D-Pages/0705DpgH.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-07-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-07-D-07</ID>
+        <Volume>85</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2005</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/07July/D-Pages/0705DpgI.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-07-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-07-D-08</ID>
+        <Volume>85</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/07July/D-Pages/0705DpgJ.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-07-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-07-D-09</ID>
+        <Volume>85</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2005</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/07July/D-Pages/0705AppendixA_WEB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-07-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-07-D-10</ID>
+        <Volume>85</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>2005</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/07July/D-Pages/0705AppendixB_WEB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-07-20</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
 </rows>
 <?xml version="1.0" encoding="UTF-8"?>
 <rows>
-  <row>
-    <ID>SCB-85-08-D-01</ID>
-    <Volume>85</Volume>
-    <Issue>8</Issue>
-    <Month>August</Month>
-    <Year>2005</Year>
-    <Title>NIPA-Related Table  </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/08August/D-pages/0805DpgB.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-08-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-08-D-02</ID>
-    <Volume>85</Volume>
-    <Issue>8</Issue>
-    <Month>August</Month>
-    <Year>2005</Year>
-    <Title>Transactions Table </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/08August/D-pages/0805DpgE.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-08-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-08-D-03</ID>
-    <Volume>85</Volume>
-    <Issue>8</Issue>
-    <Month>August</Month>
-    <Year>2005</Year>
-    <Title>Investment Tables </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/08August/D-pages/0805DpgF.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-08-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-08-D-04</ID>
-    <Volume>85</Volume>
-    <Issue>8</Issue>
-    <Month>August</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/08August/D-pages/0805DpgG_WEB.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-08-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-08-D-05</ID>
-    <Volume>85</Volume>
-    <Issue>8</Issue>
-    <Month>August</Month>
-    <Year>2005</Year>
-    <Title>State and Regional Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/08August/D-pages/0805DpgH.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-08-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-08-D-06</ID>
-    <Volume>85</Volume>
-    <Issue>8</Issue>
-    <Month>August</Month>
-    <Year>2005</Year>
-    <Title>Local Area Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/08August/D-pages/0805DpgI.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-08-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-08-D-07</ID>
-    <Volume>85</Volume>
-    <Issue>8</Issue>
-    <Month>August</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/08August/D-pages/0805DpgJ_WEB.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-08-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-08-D-08</ID>
-    <Volume>85</Volume>
-    <Issue>8</Issue>
-    <Month>August</Month>
-    <Year>2005</Year>
-    <Title>Additional Information About the NIPA Estimates</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/08August/D-pages/0805AppendixA_WEB.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-08-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-08-D-09</ID>
-    <Volume>85</Volume>
-    <Issue>8</Issue>
-    <Month>August</Month>
-    <Year>2005</Year>
-    <Title>Suggested Reading</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/08August/D-pages/0805AppendixB_WEB.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-08-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
+    <row>
+        <ID>SCB-85-08-D-01</ID>
+        <Volume>85</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2005</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/08August/D-pages/0805DpgB.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-08-D-02</ID>
+        <Volume>85</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2005</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/08August/D-pages/0805DpgE.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-08-D-03</ID>
+        <Volume>85</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2005</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/08August/D-pages/0805DpgF.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-08-D-04</ID>
+        <Volume>85</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/08August/D-pages/0805DpgG_WEB.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-08-D-05</ID>
+        <Volume>85</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2005</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/08August/D-pages/0805DpgH.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-08-D-06</ID>
+        <Volume>85</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2005</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/08August/D-pages/0805DpgI.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-08-D-07</ID>
+        <Volume>85</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/08August/D-pages/0805DpgJ_WEB.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-08-D-08</ID>
+        <Volume>85</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2005</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/08August/D-pages/0805AppendixA_WEB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-08-D-09</ID>
+        <Volume>85</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>2005</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/08August/D-pages/0805AppendixB_WEB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-08-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
 </rows>
 <?xml version="1.0" encoding="UTF-8"?>
 <rows>
-  <row>
-    <ID>SCB-85-09-D-01</ID>
-    <Volume>85</Volume>
-    <Issue>9</Issue>
-    <Month>September</Month>
-    <Year>2005</Year>
-    <Title>Selected NIPA Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905DpgA.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-09-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-09-D-02</ID>
-    <Volume>85</Volume>
-    <Issue>9</Issue>
-    <Month>September</Month>
-    <Year>2005</Year>
-    <Title>NIPA-Related Table  </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905DpgB.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-09-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-09-D-03</ID>
-    <Volume>85</Volume>
-    <Issue>9</Issue>
-    <Month>September</Month>
-    <Year>2005</Year>
-    <Title>Historical Measures </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905DpgC.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-09-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-09-D-04</ID>
-    <Volume>85</Volume>
-    <Issue>9</Issue>
-    <Month>September</Month>
-    <Year>2005</Year>
-    <Title>Charts </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905DpgD.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-09-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-09-D-05</ID>
-    <Volume>85</Volume>
-    <Issue>9</Issue>
-    <Month>September</Month>
-    <Year>2005</Year>
-    <Title>Transactions Table </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905DpgE.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-09-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-09-D-06</ID>
-    <Volume>85</Volume>
-    <Issue>9</Issue>
-    <Month>September</Month>
-    <Year>2005</Year>
-    <Title>Investment Tables </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905DpgF.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-09-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-09-D-07</ID>
-    <Volume>85</Volume>
-    <Issue>9</Issue>
-    <Month>September</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905DpgG.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-09-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-09-D-08</ID>
-    <Volume>85</Volume>
-    <Issue>9</Issue>
-    <Month>September</Month>
-    <Year>2005</Year>
-    <Title>State and Regional Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905DpgH.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-09-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-09-D-09</ID>
-    <Volume>85</Volume>
-    <Issue>9</Issue>
-    <Month>September</Month>
-    <Year>2005</Year>
-    <Title>Local Area Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905DpgI.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-09-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-09-D-10</ID>
-    <Volume>85</Volume>
-    <Issue>9</Issue>
-    <Month>September</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905DpgJ.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-09-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-09-D-11</ID>
-    <Volume>85</Volume>
-    <Issue>9</Issue>
-    <Month>September</Month>
-    <Year>2005</Year>
-    <Title>Additional Information About the NIPA Estimates</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905AppendixA.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-09-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-09-D-12</ID>
-    <Volume>85</Volume>
-    <Issue>9</Issue>
-    <Month>September</Month>
-    <Year>2005</Year>
-    <Title>Suggested Reading</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905AppendixB.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-09-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
+    <row>
+        <ID>SCB-85-09-D-01</ID>
+        <Volume>85</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2005</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905DpgA.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-09-D-02</ID>
+        <Volume>85</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2005</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905DpgB.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-09-D-03</ID>
+        <Volume>85</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2005</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905DpgC.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-09-D-04</ID>
+        <Volume>85</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905DpgD.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-09-D-05</ID>
+        <Volume>85</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2005</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905DpgE.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-09-D-06</ID>
+        <Volume>85</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2005</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905DpgF.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-09-D-07</ID>
+        <Volume>85</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905DpgG.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-09-D-08</ID>
+        <Volume>85</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2005</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905DpgH.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-09-D-09</ID>
+        <Volume>85</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2005</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905DpgI.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-09-D-10</ID>
+        <Volume>85</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905DpgJ.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-09-D-11</ID>
+        <Volume>85</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2005</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905AppendixA.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-09-D-12</ID>
+        <Volume>85</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>2005</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/09September/D-Pages/0905AppendixB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-09-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
 </rows>
 <?xml version="1.0" encoding="UTF-8"?>
 <rows>
-  <row>
-    <ID>SCB-85-10-D-01</ID>
-    <Volume>85</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2005</Year>
-    <Title>Selected NIPA Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005DpgA.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-10-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-10-D-02</ID>
-    <Volume>85</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2005</Year>
-    <Title>NIPA-Related Table  </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005DpgB.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-10-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-10-D-03</ID>
-    <Volume>85</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2005</Year>
-    <Title>Historical Measures </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005DpgC.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-10-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-10-D-04</ID>
-    <Volume>85</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2005</Year>
-    <Title>Charts </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005DpgD.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-10-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-10-D-05</ID>
-    <Volume>85</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2005</Year>
-    <Title>Transactions Table </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005DpgE.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-10-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-10-D-06</ID>
-    <Volume>85</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2005</Year>
-    <Title>Investment Tables </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005DpgF.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-10-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-10-D-07</ID>
-    <Volume>85</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005DpgG.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-10-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-10-D-08</ID>
-    <Volume>85</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2005</Year>
-    <Title>State and Regional Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005DpgH.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-10-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-10-D-09</ID>
-    <Volume>85</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2005</Year>
-    <Title>Local Area Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005DpgI.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-10-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-10-D-10</ID>
-    <Volume>85</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005DpgJ.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-10-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-10-D-11</ID>
-    <Volume>85</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2005</Year>
-    <Title>Additional Information About the NIPA Estimates</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005AppendixA.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-10-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-10-D-12</ID>
-    <Volume>85</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2005</Year>
-    <Title>Suggested Reading</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005AppendixB.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-10-19</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
+    <row>
+        <ID>SCB-85-10-D-01</ID>
+        <Volume>85</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2005</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005DpgA.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-10-D-02</ID>
+        <Volume>85</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2005</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005DpgB.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-10-D-03</ID>
+        <Volume>85</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2005</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005DpgC.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-10-D-04</ID>
+        <Volume>85</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005DpgD.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-10-D-05</ID>
+        <Volume>85</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2005</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005DpgE.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-10-D-06</ID>
+        <Volume>85</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2005</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005DpgF.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-10-D-07</ID>
+        <Volume>85</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005DpgG.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-10-D-08</ID>
+        <Volume>85</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2005</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005DpgH.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-10-D-09</ID>
+        <Volume>85</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2005</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005DpgI.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-10-D-10</ID>
+        <Volume>85</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005DpgJ.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-10-D-11</ID>
+        <Volume>85</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2005</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005AppendixA.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-10-D-12</ID>
+        <Volume>85</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>2005</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/10October/D-Pages/1005AppendixB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-10-19</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
 </rows>
 <?xml version="1.0" encoding="UTF-8"?>
 <rows>
-  <row>
-    <ID>SCB-85-11-D-01</ID>
-    <Volume>85</Volume>
-    <Issue>11</Issue>
-    <Month>November</Month>
-    <Year>2005</Year>
-    <Title>Selected NIPA Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105DpgA.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-11-D-02</ID>
-    <Volume>85</Volume>
-    <Issue>11</Issue>
-    <Month>November</Month>
-    <Year>2005</Year>
-    <Title>NIPA-Related Table  </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105DpgB.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-11-D-03</ID>
-    <Volume>85</Volume>
-    <Issue>11</Issue>
-    <Month>November</Month>
-    <Year>2005</Year>
-    <Title>Historical Measures </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105DpgC.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-11-D-04</ID>
-    <Volume>85</Volume>
-    <Issue>11</Issue>
-    <Month>November</Month>
-    <Year>2005</Year>
-    <Title>Charts </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105DpgD.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-11-D-05</ID>
-    <Volume>85</Volume>
-    <Issue>11</Issue>
-    <Month>November</Month>
-    <Year>2005</Year>
-    <Title>Transactions Table </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105DpgE.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-11-D-06</ID>
-    <Volume>85</Volume>
-    <Issue>11</Issue>
-    <Month>November</Month>
-    <Year>2005</Year>
-    <Title>Investment Tables </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105DpgF.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-11-D-07</ID>
-    <Volume>85</Volume>
-    <Issue>11</Issue>
-    <Month>November</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105DpgG.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-11-D-08</ID>
-    <Volume>85</Volume>
-    <Issue>11</Issue>
-    <Month>November</Month>
-    <Year>2005</Year>
-    <Title>State and Regional Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105DpgH.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-11-D-09</ID>
-    <Volume>85</Volume>
-    <Issue>11</Issue>
-    <Month>November</Month>
-    <Year>2005</Year>
-    <Title>Local Area Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105DpgI.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-11-D-10</ID>
-    <Volume>85</Volume>
-    <Issue>11</Issue>
-    <Month>November</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105DpgJ.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-11-D-11</ID>
-    <Volume>85</Volume>
-    <Issue>11</Issue>
-    <Month>November</Month>
-    <Year>2005</Year>
-    <Title>Additional Information About the NIPA Estimates</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105AppendixA.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-11-D-12</ID>
-    <Volume>85</Volume>
-    <Issue>11</Issue>
-    <Month>November</Month>
-    <Year>2005</Year>
-    <Title>Suggested Reading</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105AppendixB.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
+    <row>
+        <ID>SCB-85-11-D-01</ID>
+        <Volume>85</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2005</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105DpgA.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-11-D-02</ID>
+        <Volume>85</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2005</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105DpgB.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-11-D-03</ID>
+        <Volume>85</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2005</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105DpgC.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-11-D-04</ID>
+        <Volume>85</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105DpgD.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-11-D-05</ID>
+        <Volume>85</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2005</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105DpgE.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-11-D-06</ID>
+        <Volume>85</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2005</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105DpgF.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-11-D-07</ID>
+        <Volume>85</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105DpgG.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-11-D-08</ID>
+        <Volume>85</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2005</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105DpgH.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-11-D-09</ID>
+        <Volume>85</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2005</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105DpgI.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-11-D-10</ID>
+        <Volume>85</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105DpgJ.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-11-D-11</ID>
+        <Volume>85</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2005</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105AppendixA.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-11-D-12</ID>
+        <Volume>85</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2005</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/11November/D-Pages/1105AppendixB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
 </rows>
 <?xml version="1.0" encoding="UTF-8"?>
 <rows>
-  <row>
-    <ID>SCB-85-12-D-01</ID>
-    <Volume>85</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2005</Year>
-    <Title>Selected NIPA Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205DpgA.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-12-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-12-D-02</ID>
-    <Volume>85</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2005</Year>
-    <Title>NIPA-Related Table  </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205DpgB.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-12-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-12-D-03</ID>
-    <Volume>85</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2005</Year>
-    <Title>Historical Measures </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205DpgC.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-12-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-12-D-04</ID>
-    <Volume>85</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2005</Year>
-    <Title>Charts </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205DpgD.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2005-12-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-12-D-05</ID>
-    <Volume>85</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2005</Year>
-    <Title>Transactions Table </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205DpgE.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-12-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-12-D-06</ID>
-    <Volume>85</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2005</Year>
-    <Title>Investment Tables </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205DpgF.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-12-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-12-D-07</ID>
-    <Volume>85</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205DpgG.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2005-12-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-12-D-08</ID>
-    <Volume>85</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2005</Year>
-    <Title>State and Regional Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205DpgH.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-12-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-12-D-09</ID>
-    <Volume>85</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2005</Year>
-    <Title>Local Area Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205DpgI.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-12-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-12-D-10</ID>
-    <Volume>85</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2005</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205DpgJ.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2005-12-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-12-D-11</ID>
-    <Volume>85</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2005</Year>
-    <Title>Additional Information About the NIPA Estimates</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205AppendixA.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-12-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-85-12-D-12</ID>
-    <Volume>85</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2005</Year>
-    <Title>Suggested Reading</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205AppendixB.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2005-12-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
+    <row>
+        <ID>SCB-85-12-D-01</ID>
+        <Volume>85</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2005</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205DpgA.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-12-D-02</ID>
+        <Volume>85</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2005</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205DpgB.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-12-D-03</ID>
+        <Volume>85</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2005</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205DpgC.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-12-D-04</ID>
+        <Volume>85</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205DpgD.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2005-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-12-D-05</ID>
+        <Volume>85</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2005</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205DpgE.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-12-D-06</ID>
+        <Volume>85</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2005</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205DpgF.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-12-D-07</ID>
+        <Volume>85</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205DpgG.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2005-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-12-D-08</ID>
+        <Volume>85</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2005</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205DpgH.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-12-D-09</ID>
+        <Volume>85</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2005</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205DpgI.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-12-D-10</ID>
+        <Volume>85</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2005</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205DpgJ.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2005-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-12-D-11</ID>
+        <Volume>85</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2005</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205AppendixA.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-85-12-D-12</ID>
+        <Volume>85</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2005</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2005/12December/D-pages/1205AppendixB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2005-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
 </rows>

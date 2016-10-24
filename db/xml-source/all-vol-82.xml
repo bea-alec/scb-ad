@@ -1,296 +1,298 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rows>
-  <row>
-    <ID>SCB-82-01-01</ID>
-    <Volume>82</Volume>
-    <Issue>1</Issue>
-    <Month>January</Month>
-    <Year>2002</Year>
-    <Title>Reliability of GDP and Related NIPA Estimates</Title>
-    <Author>Dennis J. Fixler, Bruce T. Grimm</Author>
-    <Description>A recent study by BEA found that the quarterly estimates of real GDP are reliable indicators of whether the economy is expanding or contracting, whether the economy is accelerating or decelerating, and whether the economy is growing at rates above, near, or below the long-term trend. The estimates were also found to be good indicators of cyclical peaks and troughs. In addition, the study found that the revisions by quarter differ substantially (for example, the average revision to the third-quarter estimates differs noticeably from that to the fourth-quarter estimates) and that the revisions due to seasonal factors tend to at least partly offset the revisions due to other causes.</Description>
-    <URL>http://bea.gov/scb/pdf/2002/01January/0102ReliableNIPAs.pdf</URL>
-    <Category>National, National income and product accounts (NIPAs)</Category>
-    <Publication_Date>2002-01-15</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title>Tables</Supp1_Title>
-    <Supp1_URL>http://bea.gov/scb/pdf/2002/01january/0102rely.xls</Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-01-02</ID>
-    <Volume>82</Volume>
-    <Issue>1</Issue>
-    <Month>January</Month>
-    <Year>2002</Year>
-    <Title>Business Situation: Final Estimates for the Third Quarter of 2001</Title>
-    <Author>Daniel Larkins, Frederick von Batchelder</Author>
-    <Description>Real GDP declined 1.3 percent in the third quarter of 2001, according to the &quot;final&quot; NIPA estimate, after four quarters of subpar growth. The &quot;preliminary&quot; estimate issued a month earlier had shown a 1.1-percent decline. The downward revision was primarily accounted for by downward revisions to State and local government gross investment in structures, exports of services, and personal consumption expenditures for services. Corporate profits decreased $62.8 billion (8.3 percent at a quarterly rate); a substantial portion of the decrease reflected a reduction in the profits of insurance carriers as a result of the payment of insurance benefits associated with the terrorist attacks of September 11th.</Description>
-    <URL>http://bea.gov/scb/pdf/2002/01January/BSF0102.pdf</URL>
-    <Category>National, National income and product accounts (NIPAs)</Category>
-    <Publication_Date>2002-01-15</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title>Tables</Supp1_Title>
-    <Supp1_URL>http://bea.gov/scb/pdf/2002/01january/0102bsf.xls</Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-01-03</ID>
-    <Volume>82</Volume>
-    <Issue>1</Issue>
-    <Month>January</Month>
-    <Year>2002</Year>
-    <Title>U.S. International Transactions, Third Quarter 2001</Title>
-    <Author>Douglas B. Weinberg</Author>
-    <Description>The U.S. current-account deficit decreased $12.6 billion, to $95.0 billion, in the third quarter of 2001. The decrease was accounted for by a large increase in the surplus on services and a decrease in the deficit on goods.The deficit on income was virtually unchanged, and net outflows for unilateral current transfers increased. In the financial account, net recorded inflows decreased $117.7 billion, to $36.7 billion, as financial inflows for foreign-owned assets in the United States decreased much more than financial outflows for  U.S.-owned assets abroad.</Description>
-    <URL>http://bea.gov/scb/pdf/2002/01January/ITAIII0102.pdf</URL>
-    <Category>International, U.S. international transactions</Category>
-    <Publication_Date>2002-01-15</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-01-04</ID>
-    <Volume>82</Volume>
-    <Issue>1</Issue>
-    <Month>January</Month>
-    <Year>2002</Year>
-    <Title>Real Inventories, Sales, and Inventory-Sales Ratios for Manufacturing and Trade, 2001:III</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2002/01January/IS0102.pdf</URL>
-    <Category>National, Inventories, sales, and inventory-sales ratios for manufacturing and trade</Category>
-    <Publication_Date>2002-01-15</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title>Data in this article are included in the underlying detail file in the NIPA Monthly Update</Supp1_Title>
-    <Supp1_URL>http://bea.gov/agency/uguide1.htm#0171</Supp1_URL>
-  </row>
+    <row>
+        <ID>SCB-82-01-01</ID>
+        <Volume>82</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2002</Year>
+        <Title>Reliability of GDP and Related NIPA Estimates</Title>
+        <Author>Dennis J. Fixler, Bruce T. Grimm</Author>
+        <Description>A recent study by BEA found that the quarterly estimates of real GDP are reliable indicators of whether the economy is expanding or contracting, whether the economy is accelerating or decelerating, and whether the economy is growing at rates above, near, or below the long-term trend. The estimates were also found to be good indicators of cyclical peaks and troughs. In addition, the study found that the revisions by quarter differ substantially (for example, the average revision to the third-quarter estimates differs noticeably from that to the fourth-quarter estimates) and that the revisions due to seasonal factors tend to at least partly offset the revisions due to other causes.</Description>
+        <URL>http://bea.gov/scb/pdf/2002/01January/0102ReliableNIPAs.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2002-01-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2002/01january/0102rely.xls</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-01-02</ID>
+        <Volume>82</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2002</Year>
+        <Title>Business Situation: Final Estimates for the Third Quarter of 2001</Title>
+        <Author>Daniel Larkins, Frederick von Batchelder</Author>
+        <Description>Real GDP declined 1.3 percent in the third quarter of 2001, according to the &quot;final&quot; NIPA estimate, after four quarters of subpar growth. The &quot;preliminary&quot; estimate issued a month earlier had shown a 1.1-percent decline. The downward revision was primarily accounted for by downward revisions to State and local government gross investment in structures, exports of services, and personal consumption expenditures for services. Corporate profits decreased $62.8 billion (8.3 percent at a quarterly rate); a substantial portion of the decrease reflected a reduction in the profits of insurance carriers as a result of the payment of insurance benefits associated with the terrorist attacks of September 11th.</Description>
+        <URL>http://bea.gov/scb/pdf/2002/01January/BSF0102.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2002-01-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2002/01january/0102bsf.xls</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-01-03</ID>
+        <Volume>82</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2002</Year>
+        <Title>U.S. International Transactions, Third Quarter 2001</Title>
+        <Author>Douglas B. Weinberg</Author>
+        <Description>The U.S. current-account deficit decreased $12.6 billion, to $95.0 billion, in the third quarter of 2001. The decrease was accounted for by a large increase in the surplus on services and a decrease in the deficit on goods.The deficit on income was virtually unchanged, and net outflows for unilateral current transfers increased. In the financial account, net recorded inflows decreased $117.7 billion, to $36.7 billion, as financial inflows for foreign-owned assets in the United States decreased much more than financial outflows for U.S.-owned assets abroad.</Description>
+        <URL>http://bea.gov/scb/pdf/2002/01January/ITAIII0102.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2002-01-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-01-04</ID>
+        <Volume>82</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>2002</Year>
+        <Title>Real Inventories, Sales, and Inventory-Sales Ratios for Manufacturing and Trade, 2001:III</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2002/01January/IS0102.pdf</URL>
+        <Category>National, Inventories, sales, and inventory-sales ratios for manufacturing and trade</Category>
+        <Publication_Date>2002-01-15</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Data in this article are included in the underlying detail file in the NIPA Monthly Update</Supp1_Title>
+        <Supp1_URL>http://bea.gov/agency/uguide1.htm#0171</Supp1_URL>
+    </row>
 </rows>
 <?xml version="1.0" encoding="UTF-8"?>
 <rows>
-  <row>
-    <ID>SCB-82-02-01</ID>
-    <Volume>82</Volume>
-    <Issue>2</Issue>
-    <Month>February</Month>
-    <Year>2002</Year>
-    <Title>A Tribute to Robert Nathan</Title>
-    <Author>Arnold J. Katz</Author>
-    <Description>Monthly message from BEA Director Steve Landefeld</Description>
-    <URL>http://bea.gov/scb/pdf/2002/02%20February/0202Tribute.pdf</URL>
-    <Category>General</Category>
-    <Publication_Date>2002-02-13</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-    <Supp2_Title></Supp2_Title>
-    <Supp2_URL></Supp2_URL>
-    <Supp3_Title></Supp3_Title>
-    <Supp3_URL></Supp3_URL>
-  </row>
-  <row>
-    <ID>SCB-82-02-02</ID>
-    <Volume>82</Volume>
-    <Issue>2</Issue>
-    <Month>February</Month>
-    <Year>2002</Year>
-    <Title>BEA's Industry Accounts</Title>
-    <Author></Author>
-    <Description>BEA's industry accounts present a variety of economic statistics that provide detailed information on the flows of goods and services to industries for the production of gross output, on the contributions by private industries and government to the Nation's gross domestic product, and on the activities of specific sectors of the economy.</Description>
-    <URL>http://bea.gov/scb/pdf/2002/02%20February/0202Industry%20accts.pdf</URL>
-    <Category>Industry, Industry Accounts</Category>
-    <Publication_Date>2002-02-13</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title>Input/Output Tables</Supp1_Title>
-    <Supp1_URL>http://bea.gov/scb/pdf/2002/02%20February/io1201.xls</Supp1_URL>
-    <Supp2_Title>GDP by Industry Tables</Supp2_Title>
-    <Supp2_URL>http://bea.gov/scb/pdf/2002/02%20February/GDPxI.xls</Supp2_URL>
-    <Supp3_Title>Travel and Tourism</Supp3_Title>
-    <Supp3_URL>http://bea.gov/scb/pdf/2002/02%20February/ttsa.xls</Supp3_URL>
-  </row>
-  <row>
-    <ID>SCB-82-02-03</ID>
-    <Volume>82</Volume>
-    <Issue>2</Issue>
-    <Month>February</Month>
-    <Year>2002</Year>
-    <Title>Business Situation: Advance Estimates for the Fourth Quarter of 2001</Title>
-    <Author>Daniel Larkins, Frederick von Batchelder</Author>
-    <Description>Real GDP increased slightly in the fourth quarter of 2001 after decreasing in the third quarter. Spending by consumers and by government strengthened, while business investment in fixed assets and in inventories declined more than in the third quarter. Prices paid by U.S. residents registered a small increase after a slight decrease in the third quarter. For the year 2001, real GDP slowed to a 1.1-percent increase from a 4.1-percent increase in 2000, and gross domestic purchases prices slowed to a 1.7-percent increase from a 2.6-percent increase.</Description>
-    <URL>http://bea.gov/scb/pdf/2002/02%20February/0202BSA.pdf</URL>
-    <Category>National, National income and product accounts (NIPAs)</Category>
-    <Publication_Date>2002-02-13</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title>Tables 1-5, Table A</Supp1_Title>
-    <Supp1_URL>http://bea.gov/scb/pdf/2002/02%20February/0202bsa.xls</Supp1_URL>
-    <Supp2_Title></Supp2_Title>
-    <Supp2_URL></Supp2_URL>
-    <Supp3_Title></Supp3_Title>
-    <Supp3_URL></Supp3_URL>
-  </row>
-  <row>
-    <ID>SCB-82-02-04</ID>
-    <Volume>82</Volume>
-    <Issue>2</Issue>
-    <Month>February</Month>
-    <Year>2002</Year>
-    <Title>Personal Income by State: Third Quarter 2001</Title>
-    <Author>G. Andrew Bernat, Jr.</Author>
-    <Description>Reflecting the continued slowdown in personal income for the Nation, personal income increased less than 1.0 percent in 33 States in the third quarter of 2001. Personal income decreased 0.2 percent in Washington and 0.1 percent in Delaware, and it grew only 0.1 percent in Nevada and 0.2 percent in Connecticut, New Jersey, and Michigan. Iowa, Nebraska, Maine, Wyoming, and New Mexico had the fastest growth in personal income.</Description>
-    <URL>http://bea.gov/scb/pdf/2002/02%20February/0202SPIQIII.pdf</URL>
-    <Category>Regional, State personal income</Category>
-    <Publication_Date>2002-02-13</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title>Tables A-D, Tables 1-2</Supp1_Title>
-    <Supp1_URL>http://bea.gov/scb/pdf/2002/02%20February/0202spiQIII.xls</Supp1_URL>
-    <Supp2_Title></Supp2_Title>
-    <Supp2_URL></Supp2_URL>
-    <Supp3_Title></Supp3_Title>
-    <Supp3_URL></Supp3_URL>
-  </row>
+    <row>
+        <ID>SCB-82-02-01</ID>
+        <Volume>82</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2002</Year>
+        <Title>A Tribute to Robert Nathan</Title>
+        <Author>Arnold J. Katz</Author>
+        <Description>Monthly message from BEA Director Steve Landefeld</Description>
+        <URL>http://bea.gov/scb/pdf/2002/02%20February/0202Tribute.pdf</URL>
+        <Category>General</Category>
+        <Publication_Date>2002-02-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+        <Supp3_Title></Supp3_Title>
+        <Supp3_URL></Supp3_URL>
+    </row>
+    <row>
+        <ID>SCB-82-02-02</ID>
+        <Volume>82</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2002</Year>
+        <Title>BEA's Industry Accounts</Title>
+        <Author></Author>
+        <Description>BEA's industry accounts present a variety of economic statistics that provide detailed information on the flows of goods and services to industries for the production of gross output, on the contributions by private industries and government to the Nation's gross domestic product, and on the activities of specific sectors of the economy.</Description>
+        <URL>http://bea.gov/scb/pdf/2002/02%20February/0202Industry%20accts.pdf</URL>
+        <Category>Industry, Industry Accounts</Category>
+        <Publication_Date>2002-02-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Input/Output Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2002/02%20February/io1201.xls</Supp1_URL>
+        <Supp2_Title>GDP by Industry Tables</Supp2_Title>
+        <Supp2_URL>http://bea.gov/scb/pdf/2002/02%20February/GDPxI.xls</Supp2_URL>
+        <Supp3_Title>Travel and Tourism</Supp3_Title>
+        <Supp3_URL>http://bea.gov/scb/pdf/2002/02%20February/ttsa.xls</Supp3_URL>
+    </row>
+    <row>
+        <ID>SCB-82-02-03</ID>
+        <Volume>82</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2002</Year>
+        <Title>Business Situation: Advance Estimates for the Fourth Quarter of 2001</Title>
+        <Author>Daniel Larkins, Frederick von Batchelder</Author>
+        <Description>Real GDP increased slightly in the fourth quarter of 2001 after decreasing in the third quarter. Spending by consumers and by government strengthened, while business investment in fixed assets and in inventories declined more than in the third quarter. Prices paid by U.S. residents registered a small increase after a slight decrease in the third quarter. For the year 2001, real GDP slowed to a 1.1-percent increase from a 4.1-percent increase in 2000, and gross domestic purchases prices slowed to a 1.7-percent increase from a 2.6-percent increase.</Description>
+        <URL>http://bea.gov/scb/pdf/2002/02%20February/0202BSA.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2002-02-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables 1-5, Table A</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2002/02%20February/0202bsa.xls</Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+        <Supp3_Title></Supp3_Title>
+        <Supp3_URL></Supp3_URL>
+    </row>
+    <row>
+        <ID>SCB-82-02-04</ID>
+        <Volume>82</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>2002</Year>
+        <Title>Personal Income by State: Third Quarter 2001</Title>
+        <Author>G. Andrew Bernat, Jr.</Author>
+        <Description>Reflecting the continued slowdown in personal income for the Nation, personal income increased less than 1.0 percent in 33 States in the third quarter of 2001. Personal income decreased 0.2 percent in Washington and 0.1 percent in Delaware, and it grew only 0.1 percent in Nevada and 0.2 percent in Connecticut, New Jersey, and Michigan. Iowa, Nebraska, Maine, Wyoming, and New Mexico had the fastest growth in personal income.</Description>
+        <URL>http://bea.gov/scb/pdf/2002/02%20February/0202SPIQIII.pdf</URL>
+        <Category>Regional, State personal income</Category>
+        <Publication_Date>2002-02-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables A-D, Tables 1-2</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2002/02%20February/0202spiQIII.xls</Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+        <Supp3_Title></Supp3_Title>
+        <Supp3_URL></Supp3_URL>
+    </row>
 </rows>
 <?xml version="1.0" encoding="UTF-8"?>
 <rows>
-  <row>
-    <ID>SCB-82-03-01</ID>
-    <Volume>82</Volume>
-    <Issue>3</Issue>
-    <Month>March</Month>
-    <Year>2002</Year>
-    <Title>Operations of U.S. Multinational Companies: Preliminary Results From the 1999 Benchmark Survey</Title>
-    <Author>Raymond J. Mataloni, Jr., Daniel R.Yorgason</Author>
-    <Description>During the 1990s, the operations of U.S. multinational companies (MNC's) expanded at roughly the same pace as the U.S. economy and the worldwide economy. About three-fourths of the production by U.S. MNC's took place in the United States, and about one-fourth, abroad. Europe remained the major location for production abroad by U.S. MNC's, but the most rapid growth was in Asia and Pacific and in Latin America. Manufacturing remained the most important industry for U.S. MNC production, but the most rapid growth was in services, utilities, and retail trade. U.S. MNC's continued to play a large, though somewhat diminished, role in U.S. international trade in goods. Almost nine-tenths of the sales by foreign affiliates of U.S. MNC's were to foreign, mainly local, markets rather than to the United States.</Description>
-    <URL>http://bea.gov/scb/pdf/2002/03March/0302USDIA.pdf</URL>
-    <Category>International, U.S. direct investment abroad</Category>
-    <Publication_Date>2002-03-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title>Tables 1-24.2</Supp1_Title>
-    <Supp1_URL>http://bea.gov/scb/pdf/2002/03March/0302usdia.xls</Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-03-02</ID>
-    <Volume>82</Volume>
-    <Issue>3</Issue>
-    <Month>March</Month>
-    <Year>2002</Year>
-    <Title>Business Situation: Preliminary Estimates for the Fourth Quarter of 2001</Title>
-    <Author>Daniel Larkins, Frederick von Batchelder</Author>
-    <Description>Real GDP increased 1.4 percent in the fourth quarter of 2001, according to the &quot;preliminary&quot; estimate, after decreasing 1.3 percent in the third quarter. The &quot;advance&quot; estimate issued last month had shown a 0.2-percent increase. The upward revision was largely attributable to a downward revision to imports (which are subtracted in calculating GDP) and an upward revision to consumer spending. In addition, government spending, fixed investment, inventory investment, and exports were revised up. The price index for gross domestic purchases increased 0.4 percent in the fourth quarter after decreasing 0.1 percent in the third. The &quot;advance&quot; estimate had also shown a 0.4-percent increase.</Description>
-    <URL>http://bea.gov/scb/pdf/2002/03March/0302BSP.pdf</URL>
-    <Category>National, National income and product accounts (NIPAs)</Category>
-    <Publication_Date>2002-03-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title>Tables 1-10</Supp1_Title>
-    <Supp1_URL>http://bea.gov/scb/pdf/2002/03March/0302bsa.xls</Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-03-03</ID>
-    <Volume>82</Volume>
-    <Issue>3</Issue>
-    <Month>March</Month>
-    <Year>2002</Year>
-    <Title>Federal Budget Estimates, Fiscal Year 2003</Title>
-    <Author>Claire G. Pitzer,Shelly Smith</Author>
-    <Description>Each year, BEA prepares an adjusted presentation of the administration's budget estimates that is consistent with the framework of the NIPA's. For fiscal year 2003, the Federal current deficit on the NIPA basis is estimated at $78.1 billion, compared with a deficit of $80.2 billion in the administration's budget. The NIPA estimate of current receipts exceeds the budget estimate of receipts by $32.0 billion, and the NIPA estimate of current expenditures exceeds the budget estimate of expenditures by $30.0 billion.</Description>
-    <URL>http://bea.gov/scb/pdf/2002/03March/0302FedBudget.pdf</URL>
-    <Category>National, Federal budget estimates</Category>
-    <Publication_Date>2002-03-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title>Tables 1-11</Supp1_Title>
-    <Supp1_URL>http://bea.gov/scb/pdf/2002/03March/0302budget.xls</Supp1_URL>
-  </row>
-</rows><?xml version="1.0" encoding="UTF-8"?>
+    <row>
+        <ID>SCB-82-03-01</ID>
+        <Volume>82</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2002</Year>
+        <Title>Operations of U.S. Multinational Companies: Preliminary Results From the 1999 Benchmark Survey</Title>
+        <Author>Raymond J. Mataloni, Jr., Daniel R.Yorgason</Author>
+        <Description>During the 1990s, the operations of U.S. multinational companies (MNC's) expanded at roughly the same pace as the U.S. economy and the worldwide economy. About three-fourths of the production by U.S. MNC's took place in the United States, and about one-fourth, abroad. Europe remained the major location for production abroad by U.S. MNC's, but the most rapid growth was in Asia and Pacific and in Latin America. Manufacturing remained the most important industry for U.S. MNC production, but the most rapid growth was in services, utilities, and retail trade. U.S. MNC's continued to play a large, though somewhat diminished, role in U.S. international trade in goods. Almost nine-tenths of the sales by foreign affiliates of U.S. MNC's were to foreign, mainly local, markets rather than to the United States.</Description>
+        <URL>http://bea.gov/scb/pdf/2002/03March/0302USDIA.pdf</URL>
+        <Category>International, U.S. direct investment abroad</Category>
+        <Publication_Date>2002-03-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables 1-24.2</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2002/03March/0302usdia.xls</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-03-02</ID>
+        <Volume>82</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2002</Year>
+        <Title>Business Situation: Preliminary Estimates for the Fourth Quarter of 2001</Title>
+        <Author>Daniel Larkins, Frederick von Batchelder</Author>
+        <Description>Real GDP increased 1.4 percent in the fourth quarter of 2001, according to the &quot;preliminary&quot; estimate, after decreasing 1.3 percent in the third quarter. The &quot;advance&quot; estimate issued last month had shown a 0.2-percent increase. The upward revision was largely attributable to a downward revision to imports (which are subtracted in calculating GDP) and an upward revision to consumer spending. In addition, government spending, fixed investment, inventory investment, and exports were revised up. The price index for gross domestic purchases increased 0.4 percent in the fourth quarter after decreasing 0.1 percent in the third. The &quot;advance&quot; estimate had also shown a 0.4-percent increase.</Description>
+        <URL>http://bea.gov/scb/pdf/2002/03March/0302BSP.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2002-03-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables 1-10</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2002/03March/0302bsa.xls</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-03-03</ID>
+        <Volume>82</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>2002</Year>
+        <Title>Federal Budget Estimates, Fiscal Year 2003</Title>
+        <Author>Claire G. Pitzer,Shelly Smith</Author>
+        <Description>Each year, BEA prepares an adjusted presentation of the administration's budget estimates that is consistent with the framework of the NIPA's. For fiscal year 2003, the Federal current deficit on the NIPA basis is estimated at $78.1 billion, compared with a deficit of $80.2 billion in the administration's budget. The NIPA estimate of current receipts exceeds the budget estimate of receipts by $32.0 billion, and the NIPA estimate of current expenditures exceeds the budget estimate of expenditures by $30.0 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2002/03March/0302FedBudget.pdf</URL>
+        <Category>National, Federal budget estimates</Category>
+        <Publication_Date>2002-03-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables 1-11</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2002/03March/0302budget.xls</Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
 <rows>
-  <row>
-    <ID>SCB-82-04-01</ID>
-    <Volume>82</Volume>
-    <Issue>4</Issue>
-    <Month>April</Month>
-    <Year>2002</Year>
-    <Title>Alternative Measures of Personal Saving</Title>
-    <Author>Maria G. Perozek, Marshall B. Reinsdorf</Author>
-    <Description>The two-decade downtrend in the NIPA measure of the personal saving rate has raised questions about the adequacy of savings to fund capital accumulation or the retirement of the baby boom generation. To provide background for addressing these questions, alternative measures of personal saving are presented that exclude defined-benefit pension plans, treat consumer durable goods as investment, remove the effects of inflation from nominal interest income and outlays, or remove capital gains taxes from personal tax payments. In addition, concerns about the funding of capital accumulation should be viewed within the broader context of national saving, which includes saving by the business and government sectors as well as the household sector. Concerns about retirement preparedness should be viewed within the broader context of household wealth.</Description>
-    <URL>http://bea.gov/scb/pdf/2002/04April/0402PersonalSaving.pdf</URL>
-    <Category>National, National income and product accounts (NIPAs)</Category>
-    <Publication_Date>2002-04-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title>Tables 1-3</Supp1_Title>
-    <Supp1_URL>http://bea.gov/scb/pdf/2002/04April/0402personalsaving.xls</Supp1_URL>
-    <Supp2_Title></Supp2_Title>
-    <Supp2_URL></Supp2_URL>
-  </row>
-  <row>
-    <ID>SCB-82-04-02</ID>
-    <Volume>82</Volume>
-    <Issue>4</Issue>
-    <Month>April</Month>
-    <Year>2002</Year>
-    <Title>Business Situation: Final Estimates for the Fourth Quarter of 2001</Title>
-    <Author>Daniel Larkins, Frederick von Batchelder, Shelly Smith</Author>
-    <Description>Real GDP increased 1.7 percent in the fourth quarter of 2001, according to the &quot;final&quot; estimate; the &quot;preliminary&quot; estimate issued last month had shown a 1.3-percent increase. The upward revision was largely attributable to an upward revision to exports and a downward revision to imports (which are subtracted in calculating GDP). Corporate profits increased $125.0 billion (17.9 percent at a quarterly rate) in the fourth quarter after decreasing $62.8 billion (-8.3 percent) in the third. The fiscal position of the Federal Government shifted to a current surplus of $97.4 billion from a current deficit of $13.6 billion, and the State and local government current surplus increased to $24.8 billion from $1.9 billion.</Description>
-    <URL>http://bea.gov/scb/pdf/2002/04April/0402BSF.pdf</URL>
-    <Category>National, National income and product accounts (NIPAs)</Category>
-    <Publication_Date>2002-04-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title>Tables 1-6, Table A</Supp1_Title>
-    <Supp1_URL>http://bea.gov/scb/pdf/2002/04April/0402bsf.xls</Supp1_URL>
-    <Supp2_Title></Supp2_Title>
-    <Supp2_URL></Supp2_URL>
-  </row>
-  <row>
-    <ID>SCB-82-04-03</ID>
-    <Volume>82</Volume>
-    <Issue>4</Issue>
-    <Month>April</Month>
-    <Year>2002</Year>
-    <Title>U.S. International Transactions, Fourth Quarter and Year 2001</Title>
-    <Author>Christopher L. Bach</Author>
-    <Description>In the fourth quarter of 2001, the U.S. current-account deficit edged up $0.3 billion, to $98.8 billion. Decreases in the deficit on goods and the deficit on income were offset by a decrease in the surplus on services and an increase in net outflows for unilateral current transfers. In the financial account, net recorded inflows increased $117.0 billion, to $157.3 billion, as financial inflows for foreign-owned assets in the United States increased more than financial outflows for U.S.-owned assets abroad. In the year 2001, the U.S. current-account deficit decreased $27.2 billion, to $417.4 billion. Most of the decrease was accounted for by a decrease in the deficit on goods, but an increase in the surplus on services and a decrease in net outflows for unilateral transfers also contributed. In contrast, the deficit on income increased. In the financial account, net recorded financial inflows increased $12.6 billion, to $455.9 billion. Financial outflows for U.S.-owned assets abroad decreased more than financial inflows for foreign-owned assets in the United States.\n</Description>
-    <URL>http://bea.gov/scb/pdf/2002/04April/0402ITA.pdf</URL>
-    <Category>International, U.S. international transactions</Category>
-    <Publication_Date>2002-04-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title>Tables A-S</Supp1_Title>
-    <Supp1_URL>http://bea.gov/scb/pdf/2002/04April/0402ITA.xls</Supp1_URL>
-    <Supp2_Title>CSV files containing data for Tables 1-10 can be downloaded from the International Transactions data base</Supp2_Title>
-    <Supp2_URL>http://bea.gov/bea/international/bp_web/</Supp2_URL>
-  </row>
-  <row>
-    <ID>SCB-82-04-04</ID>
-    <Volume>82</Volume>
-    <Issue>4</Issue>
-    <Month>April</Month>
-    <Year>2002</Year>
-    <Title>Real Inventories, Sales, and Inventory-Sales Ratios for Manufacturing and Trade, 2001:IV</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2002/04April/0402InventorySales.pdf</URL>
-    <Category>National, Inventories, sales, and inventory-sales ratios for manufacturing and trade</Category>
-    <Publication_Date>2002-04-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title>Tables 1.b-4.b</Supp1_Title>
-    <Supp1_URL>http://bea.gov/scb/pdf/2002/04April/0402InventorySales.xls</Supp1_URL>
-    <Supp2_Title></Supp2_Title>
-    <Supp2_URL></Supp2_URL>
-  </row>
-  <row>
-    <ID>SCB-82-04-05</ID>
-    <Volume>82</Volume>
-    <Issue>4</Issue>
-    <Month>April</Month>
-    <Year>2002</Year>
-    <Title>An Ownership-Based Framework of the U.S. Current Account, 1989-99</Title>
-    <Author>Jeffrey H. Lowe</Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2002/04April/0402CurrentAcct.pdf</URL>
-    <Category>International, U.S. international transactions</Category>
-    <Publication_Date>2002-04-17</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title>Table 1</Supp1_Title>
-    <Supp1_URL>http://bea.gov/scb/pdf/2002/04April/0402currentacct.xls</Supp1_URL>
-    <Supp2_Title></Supp2_Title>
-    <Supp2_URL></Supp2_URL>
-  </row>
-</rows><?xml version="1.0" encoding="UTF-8"?>
+    <row>
+        <ID>SCB-82-04-01</ID>
+        <Volume>82</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2002</Year>
+        <Title>Alternative Measures of Personal Saving</Title>
+        <Author>Maria G. Perozek, Marshall B. Reinsdorf</Author>
+        <Description>The two-decade downtrend in the NIPA measure of the personal saving rate has raised questions about the adequacy of savings to fund capital accumulation or the retirement of the baby boom generation. To provide background for addressing these questions, alternative measures of personal saving are presented that exclude defined-benefit pension plans, treat consumer durable goods as investment, remove the effects of inflation from nominal interest income and outlays, or remove capital gains taxes from personal tax payments. In addition, concerns about the funding of capital accumulation should be viewed within the broader context of national saving, which includes saving by the business and government sectors as well as the household sector. Concerns about retirement preparedness should be viewed within the broader context of household wealth.</Description>
+        <URL>http://bea.gov/scb/pdf/2002/04April/0402PersonalSaving.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2002-04-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables 1-3</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2002/04April/0402personalsaving.xls</Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-82-04-02</ID>
+        <Volume>82</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2002</Year>
+        <Title>Business Situation: Final Estimates for the Fourth Quarter of 2001</Title>
+        <Author>Daniel Larkins, Frederick von Batchelder, Shelly Smith</Author>
+        <Description>Real GDP increased 1.7 percent in the fourth quarter of 2001, according to the &quot;final&quot; estimate; the &quot;preliminary&quot; estimate issued last month had shown a 1.3-percent increase. The upward revision was largely attributable to an upward revision to exports and a downward revision to imports (which are subtracted in calculating GDP). Corporate profits increased $125.0 billion (17.9 percent at a quarterly rate) in the fourth quarter after decreasing $62.8 billion (-8.3 percent) in the third. The fiscal position of the Federal Government shifted to a current surplus of $97.4 billion from a current deficit of $13.6 billion, and the State and local government current surplus increased to $24.8 billion from $1.9 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2002/04April/0402BSF.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2002-04-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables 1-6, Table A</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2002/04April/0402bsf.xls</Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-82-04-03</ID>
+        <Volume>82</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2002</Year>
+        <Title>U.S. International Transactions, Fourth Quarter and Year 2001</Title>
+        <Author>Christopher L. Bach</Author>
+        <Description>In the fourth quarter of 2001, the U.S. current-account deficit edged up $0.3 billion, to $98.8 billion. Decreases in the deficit on goods and the deficit on income were offset by a decrease in the surplus on services and an increase in net outflows for unilateral current transfers. In the financial account, net recorded inflows increased $117.0 billion, to $157.3 billion, as financial inflows for foreign-owned assets in the United States increased more than financial outflows for U.S.-owned assets abroad. In the year 2001, the U.S. current-account deficit decreased $27.2 billion, to $417.4 billion. Most of the decrease was accounted for by a decrease in the deficit on goods, but an increase in the surplus on services and a decrease in net outflows for unilateral transfers also contributed. In contrast, the deficit on income increased. In the financial account, net recorded financial inflows increased $12.6 billion, to $455.9 billion. Financial outflows for U.S.-owned assets abroad decreased more than financial inflows for foreign-owned assets in the United States.\n</Description>
+        <URL>http://bea.gov/scb/pdf/2002/04April/0402ITA.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2002-04-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables A-S</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2002/04April/0402ITA.xls</Supp1_URL>
+        <Supp2_Title>CSV files containing data for Tables 1-10 can be downloaded from the International Transactions data base</Supp2_Title>
+        <Supp2_URL>http://bea.gov/bea/international/bp_web/</Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-82-04-04</ID>
+        <Volume>82</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2002</Year>
+        <Title>Real Inventories, Sales, and Inventory-Sales Ratios for Manufacturing and Trade, 2001:IV</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2002/04April/0402InventorySales.pdf</URL>
+        <Category>National, Inventories, sales, and inventory-sales ratios for manufacturing and trade</Category>
+        <Publication_Date>2002-04-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables 1.b-4.b</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2002/04April/0402InventorySales.xls</Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+    <row>
+        <ID>SCB-82-04-05</ID>
+        <Volume>82</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>2002</Year>
+        <Title>An Ownership-Based Framework of the U.S. Current Account, 1989-99</Title>
+        <Author>Jeffrey H. Lowe</Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2002/04April/0402CurrentAcct.pdf</URL>
+        <Category>International, U.S. international transactions</Category>
+        <Publication_Date>2002-04-17</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Table 1</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2002/04April/0402currentacct.xls</Supp1_URL>
+        <Supp2_Title></Supp2_Title>
+        <Supp2_URL></Supp2_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
 <rows>
     <row>
         <ID>SCB-82-05-01</ID>
@@ -359,119 +361,120 @@
 </rows>
 <?xml version="1.0" encoding="UTF-8"?>
 <rows>
-  <row>
-    <ID>SCB-82-06-01</ID>
-    <Volume>82</Volume>
-    <Issue>6</Issue>
-    <Month>June</Month>
-    <Year>2002</Year>
-    <Title>Gross Domestic Product by Industry: A Progress Report on Accelerated Estimates</Title>
-    <Author>Robert E. Yuskavage</Author>
-    <Description>BEA has developed a prototype methodology for preparing estimates of GDP by industry on an accelerated schedule. The accelerated estimates would be released in April, 4 months after the end of the reference year and 7 months ahead of the release of the regular annual estimates in November. As part of this research, BEA has provided illustrative estimates for 2001 of current-dollar GDP by industry. These estimates are more limited in scope than the regularly published estimates, but research indicates that they are reasonably successful in indicating the direction of change in an industry's growth, whether the growth is accelerating or decelerating, and how the growth compares with that of other industries. BEA is seeking feedback from users on the proposed methodologies for preparing the estimates, on the appropriate level of industry detail, and on the tradeoff between accuracy and timeliness.</Description>
-    <URL>http://bea.gov/scb/pdf/2002/06June/0602GDPbyIndy.pdf</URL>
-    <Category>Industry, Industry Accounts</Category>
-    <Publication_Date>2002-06-13</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title>Tables A-G</Supp1_Title>
-    <Supp1_URL>http://bea.gov/scb/pdf/2002/06June/0602GDPbyINDY.xls</Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-06-02</ID>
-    <Volume>82</Volume>
-    <Issue>6</Issue>
-    <Month>June</Month>
-    <Year>2002</Year>
-    <Title>Selected Issues in the Measurement of U.S. International Services</Title>
-    <Author>Obie G. Whichard, Maria Borga</Author>
-    <Description>The rapid growth of services transactions in world markets has made it increasingly important that trade in services be reflected in the statistics in a complete and economically meaningful way. Five categories of services--insurance, wholesale and retail trade, finance, construction, and utilities--are among the most difficult to define and measure. For each of these services, BEA has identified key measurement issues and has explored possible actions to address these issues. For example, in cross-border trade in insurance services, a catastrophe that results in a substantial jump in claims will lead to a drop in the current-dollar value of insurance services as presently measured, but this drop is unrelated to the actual level of the services provided. A possible action to address this issue would be to measure insurance services as premiums less average or expected claims rather than as premiums less actual claims.</Description>
-    <URL>http://bea.gov/scb/pdf/2002/06June/0602intlservices.pdf</URL>
-    <Category>International, U.S. international services</Category>
-    <Publication_Date>2002-06-13</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title>Tables 2-4</Supp1_Title>
-    <Supp1_URL>http://bea.gov/scb/pdf/2002/06June/0602intlservices.xls</Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-06-03</ID>
-    <Volume>82</Volume>
-    <Issue>6</Issue>
-    <Month>June</Month>
-    <Year>2002</Year>
-    <Title>Business Situation: Preliminary Estimates for the First Quarter of 2002</Title>
-    <Author>Daniel Larkins, Frederick von Batchelder, Janet Kmitch</Author>
-    <Description>Real GDP increased 5.6 percent in the first quarter of 2002, according to the &quot;preliminary&quot; estimate, after increasing 1.7 percent in the fourth quarter of 2001. The &quot;advance&quot; estimate issued last month had shown an increase of 5.8 percent. Corporate profits increased 0.5 percent in the first quarter after increasing 17.9 percent in the fourth (quarterly rates). The Federal Government current surplus or deficit shifted to a deficit of $64.4 billion in the first quarter from a surplus of $97.4 billion in the fourth. The State and local government current surplus decreased to $10.4 billion from $24.8 billion.</Description>
-    <URL>http://bea.gov/scb/pdf/2002/06June/0602BSP.pdf</URL>
-    <Category>National, National income and product accounts (NIPAs)</Category>
-    <Publication_Date>2002-06-13</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title>Tables 1-12, Table A</Supp1_Title>
-    <Supp1_URL>http://bea.gov/scb/pdf/2002/06June/0602bsa.xls</Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-06-04</ID>
-    <Volume>82</Volume>
-    <Issue>6</Issue>
-    <Month>June</Month>
-    <Year>2002</Year>
-    <Title>Foreign Direct Investment in the United States: New Investment in 2001</Title>
-    <Author>Thomas W. Anderson</Author>
-    <Description>Outlays by foreign direct investors to acquire or establish businesses in the United States dropped sharply to $132.9 billion in 2001 from an exceptionally high level of $335.6 billion in 2000. The dropoff reflected a substantial decrease in the share of outlays that was accounted for by very large transactions. Outlays fell in all the major industry groups and from almost all the major investing countries.</Description>
-    <URL>http://bea.gov/scb/pdf/2002/06June/0602FDIUS.pdf</URL>
-    <Category>International, Foreign direct investment in the United States</Category>
-    <Publication_Date>2002-06-13</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title>Tables 1-7.2</Supp1_Title>
-    <Supp1_URL>http://bea.gov/scb/pdf/2002/06June/0602fdius.xls</Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-06-05</ID>
-    <Volume>82</Volume>
-    <Issue>6</Issue>
-    <Month>June</Month>
-    <Year>2002</Year>
-    <Title>Gross State Product by Industry, 1998-2000</Title>
-    <Author>Sharon D. Panek, George K. Downey</Author>
-    <Description>In 2000, the States with the fastest growth in real gross state product were located in the western and northeastern areas of the Nation. In Idaho, Oregon, California, and Arizona, growth was particularly robust in high-tech manufacturing, and in Colorado, growth was strong in business services and communication. In Rhode Island, New Hampshire, Massachusetts, New Jersey, and New York, growth was strong in finance, insurance, and real estate and in services.</Description>
-    <URL>http://bea.gov/scb/pdf/2002/06June/0602GSP.pdf</URL>
-    <Category>Regional, Gross state product by industry</Category>
-    <Publication_Date>2002-06-13</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title>Appendices A-B</Supp1_Title>
-    <Supp1_URL>http://bea.gov/scb/pdf/2002/06June/0602GSPapA_B.xls</Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-06-06</ID>
-    <Volume>82</Volume>
-    <Issue>6</Issue>
-    <Month>June</Month>
-    <Year>2002</Year>
-    <Title>Errata: BEA's Strategic Plan for 2001-2005</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2002/06June/0602Errata.pdf</URL>
-    <Category></Category>
-    <Publication_Date>2002-06-13</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-06-07</ID>
-    <Volume>82</Volume>
-    <Issue>6</Issue>
-    <Month>June</Month>
-    <Year>2002</Year>
-    <Title>Subject Guide for the January-June 2002 Issues</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2002/06June/0602SbjGuide.pdf</URL>
-    <Category></Category>
-    <Publication_Date>2002-06-13</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-</rows><?xml version="1.0" encoding="UTF-8"?>
+    <row>
+        <ID>SCB-82-06-01</ID>
+        <Volume>82</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2002</Year>
+        <Title>Gross Domestic Product by Industry: A Progress Report on Accelerated Estimates</Title>
+        <Author>Robert E. Yuskavage</Author>
+        <Description>BEA has developed a prototype methodology for preparing estimates of GDP by industry on an accelerated schedule. The accelerated estimates would be released in April, 4 months after the end of the reference year and 7 months ahead of the release of the regular annual estimates in November. As part of this research, BEA has provided illustrative estimates for 2001 of current-dollar GDP by industry. These estimates are more limited in scope than the regularly published estimates, but research indicates that they are reasonably successful in indicating the direction of change in an industry's growth, whether the growth is accelerating or decelerating, and how the growth compares with that of other industries. BEA is seeking feedback from users on the proposed methodologies for preparing the estimates, on the appropriate level of industry detail, and on the tradeoff between accuracy and timeliness.</Description>
+        <URL>http://bea.gov/scb/pdf/2002/06June/0602GDPbyIndy.pdf</URL>
+        <Category>Industry, Industry Accounts</Category>
+        <Publication_Date>2002-06-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables A-G</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2002/06June/0602GDPbyINDY.xls</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-06-02</ID>
+        <Volume>82</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2002</Year>
+        <Title>Selected Issues in the Measurement of U.S. International Services</Title>
+        <Author>Obie G. Whichard, Maria Borga</Author>
+        <Description>The rapid growth of services transactions in world markets has made it increasingly important that trade in services be reflected in the statistics in a complete and economically meaningful way. Five categories of services--insurance, wholesale and retail trade, finance, construction, and utilities--are among the most difficult to define and measure. For each of these services, BEA has identified key measurement issues and has explored possible actions to address these issues. For example, in cross-border trade in insurance services, a catastrophe that results in a substantial jump in claims will lead to a drop in the current-dollar value of insurance services as presently measured, but this drop is unrelated to the actual level of the services provided. A possible action to address this issue would be to measure insurance services as premiums less average or expected claims rather than as premiums less actual claims.</Description>
+        <URL>http://bea.gov/scb/pdf/2002/06June/0602intlservices.pdf</URL>
+        <Category>International, U.S. international services</Category>
+        <Publication_Date>2002-06-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables 2-4</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2002/06June/0602intlservices.xls</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-06-03</ID>
+        <Volume>82</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2002</Year>
+        <Title>Business Situation: Preliminary Estimates for the First Quarter of 2002</Title>
+        <Author>Daniel Larkins, Frederick von Batchelder, Janet Kmitch</Author>
+        <Description>Real GDP increased 5.6 percent in the first quarter of 2002, according to the &quot;preliminary&quot; estimate, after increasing 1.7 percent in the fourth quarter of 2001. The &quot;advance&quot; estimate issued last month had shown an increase of 5.8 percent. Corporate profits increased 0.5 percent in the first quarter after increasing 17.9 percent in the fourth (quarterly rates). The Federal Government current surplus or deficit shifted to a deficit of $64.4 billion in the first quarter from a surplus of $97.4 billion in the fourth. The State and local government current surplus decreased to $10.4 billion from $24.8 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2002/06June/0602BSP.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2002-06-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables 1-12, Table A</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2002/06June/0602bsa.xls</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-06-04</ID>
+        <Volume>82</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2002</Year>
+        <Title>Foreign Direct Investment in the United States: New Investment in 2001</Title>
+        <Author>Thomas W. Anderson</Author>
+        <Description>Outlays by foreign direct investors to acquire or establish businesses in the United States dropped sharply to $132.9 billion in 2001 from an exceptionally high level of $335.6 billion in 2000. The dropoff reflected a substantial decrease in the share of outlays that was accounted for by very large transactions. Outlays fell in all the major industry groups and from almost all the major investing countries.</Description>
+        <URL>http://bea.gov/scb/pdf/2002/06June/0602FDIUS.pdf</URL>
+        <Category>International, Foreign direct investment in the United States</Category>
+        <Publication_Date>2002-06-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables 1-7.2</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2002/06June/0602fdius.xls</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-06-05</ID>
+        <Volume>82</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2002</Year>
+        <Title>Gross State Product by Industry, 1998-2000</Title>
+        <Author>Sharon D. Panek, George K. Downey</Author>
+        <Description>In 2000, the States with the fastest growth in real gross state product were located in the western and northeastern areas of the Nation. In Idaho, Oregon, California, and Arizona, growth was particularly robust in high-tech manufacturing, and in Colorado, growth was strong in business services and communication. In Rhode Island, New Hampshire, Massachusetts, New Jersey, and New York, growth was strong in finance, insurance, and real estate and in services.</Description>
+        <URL>http://bea.gov/scb/pdf/2002/06June/0602GSP.pdf</URL>
+        <Category>Regional, Gross state product by industry</Category>
+        <Publication_Date>2002-06-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Appendices A-B</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2002/06June/0602GSPapA_B.xls</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-06-06</ID>
+        <Volume>82</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2002</Year>
+        <Title>Errata: BEA's Strategic Plan for 2001-2005</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2002/06June/0602Errata.pdf</URL>
+        <Category></Category>
+        <Publication_Date>2002-06-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-06-07</ID>
+        <Volume>82</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>2002</Year>
+        <Title>Subject Guide for the January-June 2002 Issues</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2002/06June/0602SbjGuide.pdf</URL>
+        <Category></Category>
+        <Publication_Date>2002-06-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
 <rows>
     <row>
         <ID>SCB-82-07-01</ID>
@@ -1100,100 +1103,100 @@
 </rows>
 <?xml version="1.0" encoding="UTF-8"?>
 <rows>
-  <row>
-    <ID>SCB-82-12-01</ID>
-    <Volume>82</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2002</Year>
-    <Title>Benchmark Input-Output Accounts of the United States, 1997</Title>
-    <Author>Ann M. Lawson, Kurt S. Bersani, Mahnaz Fahim-Nader, Jiemin Guo</Author>
-    <Description>The 1997 benchmark input-output (I-O) accounts present a detailed picture of the interactions among industries that combine to produce the Nation's GDP. A major change introduced in the 1997 I-O accounts is the incorporation of the North American Industry Classification System (NAICS), which provides a new treatment of the service activities of central administrative offices and other types of auxiliaries and a more detailed presentation of the increasingly important service industries. The 1997 accounts feature I-O tables that are more consistent with the GDP-by-industry accounts and the gross state product accounts and with other industry data that are based on NAICS.</Description>
-    <URL>http://bea.gov/scb/pdf/2002/12December/1202I-OAccounts2.pdf</URL>
-    <Category>Industry, Input-output accounts</Category>
-    <Publication_Date>2002-12-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-12-02</ID>
-    <Volume>82</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2002</Year>
-    <Title>Business Situation: Preliminary Estimates for the Third Quarter of 2002</Title>
-    <Author>Daniel Larkins, Raymen G. Labella</Author>
-    <Description>Real GDP increased 4.0 percent in the third quarter, according to the &quot;preliminary&quot; estimate, a sizable upward revision from the 3.1-percent increase shown in the &quot;advance&quot; estimate issued last month. However, both estimates indicated that economic growth stepped up from the 1.3-percent increase in the second quarter. Corporate profits decreased 1.8 percent (quarterly rate), about the same decrease as in the two preceding quarters. The current deficit of the Federal Government was unchanged, at $190.3 billion, and the current deficit of State and local governments grew to $51.8 billion.</Description>
-    <URL>http://bea.gov/scb/pdf/2002/12December/1202BSP.pdf</URL>
-    <Category>National, National income and product accounts (NIPAs)</Category>
-    <Publication_Date>2002-12-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title>Tables</Supp1_Title>
-    <Supp1_URL>http://bea.gov/scb/pdf/2002/12December/1202BSP.xls</Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-12-03</ID>
-    <Volume>82</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2002</Year>
-    <Title>U.S. Multinational Companies: Operations in 2000</Title>
-    <Author>Raymond J. Mataloni, Jr.</Author>
-    <Description>The worldwide gross product of U.S. multinational companies increased 8.7 percent in 2000. The strong growth was evident in the operations of both U.S. parents and their majority-owned foreign affiliates. The growth in the operations of the affiliates was fueled both by expansions of existing affiliates and by acquisitions and establishments of new affiliates. By industry, the strongest growth was in petroleum-related activities. By area, the sharpest increases were in Africa and the Middle East.</Description>
-    <URL>http://bea.gov/scb/pdf/2002/12December/1202multinational.pdf</URL>
-    <Category>International, U.S. direct investment abroad</Category>
-    <Publication_Date>2002-12-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title>Tables</Supp1_Title>
-    <Supp1_URL>http://bea.gov/scb/pdf/2002/12December/1202multinational.xls</Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-12-04</ID>
-    <Volume>82</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2002</Year>
-    <Title>Updated NIPA Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2002/12December/1202UpdatedNIPAs.pdf</URL>
-    <Category>National, National income and product accounts (NIPAs)</Category>
-    <Publication_Date>2002-12-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-12-05</ID>
-    <Volume>82</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2002</Year>
-    <Title>Subject Guide for 2002</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2002/12December/1202SbjGuide.pdf</URL>
-    <Category></Category>
-    <Publication_Date>2002-12-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-12-06</ID>
-    <Volume>82</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2002</Year>
-    <Title>Schedule of BEA News Releases in 2003</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2002/12December/1202RD.pdf</URL>
-    <Category></Category>
-    <Publication_Date>2002-12-16</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
+    <row>
+        <ID>SCB-82-12-01</ID>
+        <Volume>82</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2002</Year>
+        <Title>Benchmark Input-Output Accounts of the United States, 1997</Title>
+        <Author>Ann M. Lawson, Kurt S. Bersani, Mahnaz Fahim-Nader, Jiemin Guo</Author>
+        <Description>The 1997 benchmark input-output (I-O) accounts present a detailed picture of the interactions among industries that combine to produce the Nation's GDP. A major change introduced in the 1997 I-O accounts is the incorporation of the North American Industry Classification System (NAICS), which provides a new treatment of the service activities of central administrative offices and other types of auxiliaries and a more detailed presentation of the increasingly important service industries. The 1997 accounts feature I-O tables that are more consistent with the GDP-by-industry accounts and the gross state product accounts and with other industry data that are based on NAICS.</Description>
+        <URL>http://bea.gov/scb/pdf/2002/12December/1202I-OAccounts2.pdf</URL>
+        <Category>Industry, Input-output accounts</Category>
+        <Publication_Date>2002-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-12-02</ID>
+        <Volume>82</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2002</Year>
+        <Title>Business Situation: Preliminary Estimates for the Third Quarter of 2002</Title>
+        <Author>Daniel Larkins, Raymen G. Labella</Author>
+        <Description>Real GDP increased 4.0 percent in the third quarter, according to the &quot;preliminary&quot; estimate, a sizable upward revision from the 3.1-percent increase shown in the &quot;advance&quot; estimate issued last month. However, both estimates indicated that economic growth stepped up from the 1.3-percent increase in the second quarter. Corporate profits decreased 1.8 percent (quarterly rate), about the same decrease as in the two preceding quarters. The current deficit of the Federal Government was unchanged, at $190.3 billion, and the current deficit of State and local governments grew to $51.8 billion.</Description>
+        <URL>http://bea.gov/scb/pdf/2002/12December/1202BSP.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2002-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2002/12December/1202BSP.xls</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-12-03</ID>
+        <Volume>82</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2002</Year>
+        <Title>U.S. Multinational Companies: Operations in 2000</Title>
+        <Author>Raymond J. Mataloni, Jr.</Author>
+        <Description>The worldwide gross product of U.S. multinational companies increased 8.7 percent in 2000. The strong growth was evident in the operations of both U.S. parents and their majority-owned foreign affiliates. The growth in the operations of the affiliates was fueled both by expansions of existing affiliates and by acquisitions and establishments of new affiliates. By industry, the strongest growth was in petroleum-related activities. By area, the sharpest increases were in Africa and the Middle East.</Description>
+        <URL>http://bea.gov/scb/pdf/2002/12December/1202multinational.pdf</URL>
+        <Category>International, U.S. direct investment abroad</Category>
+        <Publication_Date>2002-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title>Tables</Supp1_Title>
+        <Supp1_URL>http://bea.gov/scb/pdf/2002/12December/1202multinational.xls</Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-12-04</ID>
+        <Volume>82</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2002</Year>
+        <Title>Updated NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2002/12December/1202UpdatedNIPAs.pdf</URL>
+        <Category>National, National income and product accounts (NIPAs)</Category>
+        <Publication_Date>2002-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-12-05</ID>
+        <Volume>82</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2002</Year>
+        <Title>Subject Guide for 2002</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2002/12December/1202SbjGuide.pdf</URL>
+        <Category></Category>
+        <Publication_Date>2002-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-12-06</ID>
+        <Volume>82</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2002</Year>
+        <Title>Schedule of BEA News Releases in 2003</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2002/12December/1202RD.pdf</URL>
+        <Category></Category>
+        <Publication_Date>2002-12-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
 </rows>

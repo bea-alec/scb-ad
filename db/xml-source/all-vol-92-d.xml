@@ -2212,212 +2212,212 @@
 </rows>
 <?xml version="1.0" encoding="UTF-8"?>
 <rows>
-  <row>
-    <ID>SCB-92-12-D-01</ID>
-    <Volume>92</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2012</Year>
-    <Title>Selected NIPA Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_a.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2012-12-10</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-92-12-D-02</ID>
-    <Volume>92</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2012</Year>
-    <Title>NIPA-Related Table</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_b.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2012-12-10</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-92-12-D-03</ID>
-    <Volume>92</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2012</Year>
-    <Title>Historical Measures</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_c.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2012-12-10</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-92-12-D-04</ID>
-    <Volume>92</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2012</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_d.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2012-12-10</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-92-12-D-05</ID>
-    <Volume>92</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2012</Year>
-    <Title>Industry Table</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_e.pdf</URL>
-    <Category>D-Pages, Industry Data</Category>
-    <Publication_Date>2012-12-10</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-92-12-D-06</ID>
-    <Volume>92</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2012</Year>
-    <Title>Transactions Table</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_f.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2012-12-10</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-92-12-D-07</ID>
-    <Volume>92</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2012</Year>
-    <Title>Investment Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_g.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2012-12-10</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-92-12-D-08</ID>
-    <Volume>92</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2012</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_h.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2012-12-10</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-92-12-D-09</ID>
-    <Volume>92</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2012</Year>
-    <Title>State and Regional Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_i.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2012-12-10</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-92-12-D-10</ID>
-    <Volume>92</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2012</Year>
-    <Title>Local Area Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_j.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2012-12-10</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-92-12-D-11</ID>
-    <Volume>92</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2012</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_k.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2012-12-10</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-92-12-D-12</ID>
-    <Volume>92</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2012</Year>
-    <Title>Additional Information About the NIPA Estimates</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg%20_appendixa.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2012-12-10</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-92-12-D-13</ID>
-    <Volume>92</Volume>
-    <Issue>12</Issue>
-    <Month>December</Month>
-    <Year>2012</Year>
-    <Title>Suggested Reading</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_appendix_b.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2012-12-10</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
+    <row>
+        <ID>SCB-92-12-D-01</ID>
+        <Volume>92</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2012</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_a.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2012-12-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-92-12-D-02</ID>
+        <Volume>92</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2012</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_b.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2012-12-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-92-12-D-03</ID>
+        <Volume>92</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2012</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_c.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2012-12-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-92-12-D-04</ID>
+        <Volume>92</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2012</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_d.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2012-12-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-92-12-D-05</ID>
+        <Volume>92</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2012</Year>
+        <Title>Industry Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_e.pdf</URL>
+        <Category>D-Pages, Industry Data</Category>
+        <Publication_Date>2012-12-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-92-12-D-06</ID>
+        <Volume>92</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2012</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_f.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2012-12-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-92-12-D-07</ID>
+        <Volume>92</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2012</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_g.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2012-12-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-92-12-D-08</ID>
+        <Volume>92</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2012</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_h.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2012-12-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-92-12-D-09</ID>
+        <Volume>92</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2012</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_i.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2012-12-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-92-12-D-10</ID>
+        <Volume>92</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2012</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_j.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2012-12-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-92-12-D-11</ID>
+        <Volume>92</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2012</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_k.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2012-12-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-92-12-D-12</ID>
+        <Volume>92</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2012</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg%20_appendixa.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2012-12-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-92-12-D-13</ID>
+        <Volume>92</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>2012</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2012/12%20December/D%20Pages/1212dpg_appendix_b.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2012-12-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
 </rows>
