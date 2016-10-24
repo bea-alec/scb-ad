@@ -1,6 +1,5 @@
 <html lang="en-US">
 <head>
-
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Homepage">
@@ -11,7 +10,7 @@
   <link rel="icon" type="image/png" href="assets/img/favicon-96x96.png?v=9BBR3Ay64e" sizes="96x96">
   <link rel="icon" type="image/png" href="assets/img/favicon-16x16.png?v=9BBR3Ay64e" sizes="16x16">
   <link rel="shortcut icon" href="img/favicon.ico?v=9BBR3Ay64e">
-  <title>Survey of Current Business Digital Archives</title>
+  <title>Legacy Issues Inventory: Survey of Current Business Digital Archives</title>
   <!--Bootstrap-->
   <link rel='stylesheet' type='text/css' href="assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/custom.css" />
@@ -60,17 +59,49 @@
 <body>
   <div class="container-fluid">
     <div class="row">
-      <div class="col-md-12">
-        <h1>Survey of Current Business Archives Database</h1>
-        <p class="lead">This application centralizes information about articles and issues of the <em>Survey of Current Business</em>.</p>
-        <p class="lead">Using data from <a href="http://bea.gov/scb">BEA.GOV</a>, an inventory of SCB articles (1994-2016) was created and stored in a MySQL database. Information about each article including the author(s), description, date published, volume and issue in which it appeared, as well as any links to supplemental materials were stored in the database to create a machine-readable, canonical repository of <em>Survey</em> archives. It is our intention that this inventory will help to support future efforts to migrate the archives to a Web Content Management System.</p>
-        <ul class="list-group">
-          <li class="list-group-item"><h2><i class="fa fa-search" aria-hidden="true"></i><a href="article-inventory.php">Browse and search the inventory of articles</a> or <a href="dpages-inventory.php">D-Pages from 1994-2016</a></h2></li>
-          <li class="list-group-item"><h2><i class="fa fa-book" aria-hidden="true"></i><a href="issue-archive.php">Look up a specific issue of the <em>Survey</em> from 1994-2016</a></h2></li>
-          <li class="list-group-item"><h2><i class="fa fa-history" aria-hidden="true"></i><a href="legacy-issues.php">Look up a historical archive issue of the <em>Survey</em> from 1929-1993</a></h2></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</body>
-</html>
+    <div class="col-md-12">
+      <h1><a href="index.php">Survey of Current Business Archives Database</a></h1>
+      <h2>Legacy Issues Inventory</h2>
+        <p class="lead">This page presents a searchable inventory of <em>Survey</em> issues from 1929-1993. These issues have been digitally preserved and are presented as single PDF file per issue. Note, January 1976 was a two-part issue and is presented as two PDF files.</p>
+        <br>
+        <br>
+<?php
+          //Open a new connection to the MySQL server
+          $mysqli = new mysqli('localhost', 'gov-cat', 'govcat', 'bea_scb');
+
+          //Output any connection error
+          if ($mysqli->connect_error) {
+              die('Error : ('.$mysqli->connect_errno.') '.$mysqli->connect_error);
+          }
+
+          //MySqli Select Query
+          $results = $mysqli->query('SELECT year, month, url, note FROM legacy');
+
+          echo '<table class="table table-condensed table-striped table-bordered" id="table1">';
+          echo '<thead>';
+          echo '<th class="col-md-1">Year</th>';
+          echo '<th class="col-md-1">Month</th>';
+          echo '<th class="col-md-5">URL</th>';
+          echo '<th class="col-md-2">Notes</th>';
+          echo '</thead>';
+          while ($row = $results->fetch_assoc()) {
+              echo '<tr>';
+              echo '<td>'.$row['year'].'</td>';
+              echo '<td>'.$row['month'].'</td>';
+              echo '<td><a href="'.$row['url'].'" target="blank">'.$row['url'].'</a></td>';
+              echo '<td>'.$row['note'].'</td>';
+              echo '</tr>';
+          }
+          echo '</table>';
+
+          // Frees the memory associated with a result
+          $results->free();
+
+          // close connection
+          $mysqli->close();
+          ?>
+</div>
+</div>
+</div>
+        </body>
+        </html>

@@ -47,3 +47,10 @@ Category VARCHAR(255),
 Publication_Date VARCHAR(255),
 Modified_Date VARCHAR(255)
 );
+
+CREATE TABLE legacy (
+Year INTEGER,
+Month VARCHAR(9),
+URL TEXT,
+Note VARCHAR(255)
+);
