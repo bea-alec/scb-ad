@@ -2174,230 +2174,230 @@
 </rows>
 <?xml version="1.0" encoding="UTF-8"?>
 <rows>
-  <row>
-    <ID>SCB-82-10-D-01</ID>
-    <Volume>82</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2002</Year>
-    <Title>Selected NIPA Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2002/10October/D-Pages/1002DpgA.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2002-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-10-D-02</ID>
-    <Volume>82</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2002</Year>
-    <Title>NIPA-Related Table</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2002/10October/D-Pages/1002DpgB.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2002-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-10-D-03</ID>
-    <Volume>82</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2002</Year>
-    <Title>Historical Measures </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2002/10October/D-Pages/1002DpgC.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2002-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-10-D-04</ID>
-    <Volume>82</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2002</Year>
-    <Title>Domestic perspectives</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2002/10October/D-Pages/1002DpgD.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2002-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-10-D-05</ID>
-    <Volume>82</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2002</Year>
-    <Title>Charts </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2002/10October/D-Pages/1002DpgE.pdf</URL>
-    <Category>D-Pages, National Data</Category>
-    <Publication_Date>2002-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-10-D-06</ID>
-    <Volume>82</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2002</Year>
-    <Title>Transactions Table </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2002/10October/D-Pages/1002DpgF.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2002-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-10-D-07</ID>
-    <Volume>82</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2002</Year>
-    <Title>Investment Tables </Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2002/10October/D-Pages/1002DpgG.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2002-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-10-D-08</ID>
-    <Volume>82</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2002</Year>
-    <Title>International perspectives</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2002/10October/D-Pages/1002DpgH.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2002-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-10-D-09</ID>
-    <Volume>82</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2002</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2002/10October/D-Pages/1002DpgI.pdf</URL>
-    <Category>D-Pages, International Data</Category>
-    <Publication_Date>2002-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-10-D-10</ID>
-    <Volume>82</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2002</Year>
-    <Title>State and Regional Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2002/10October/D-Pages/1002DpgJ.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2002-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-10-D-11</ID>
-    <Volume>82</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2002</Year>
-    <Title>Local Area Tables</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2002/10October/D-Pages/1002DpgK.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2002-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-10-D-12</ID>
-    <Volume>82</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2002</Year>
-    <Title>Charts</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2002/10October/D-Pages/1002DpgL.pdf</URL>
-    <Category>D-Pages, Regional Data</Category>
-    <Publication_Date>2002-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-10-D-13</ID>
-    <Volume>82</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2002</Year>
-    <Title>Additional Information About the NIPA Estimates</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2002/10October/D-Pages/1002AppendixA.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2002-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
-  <row>
-    <ID>SCB-82-10-D-14</ID>
-    <Volume>82</Volume>
-    <Issue>10</Issue>
-    <Month>October</Month>
-    <Year>2002</Year>
-    <Title>Suggested Reading</Title>
-    <Author></Author>
-    <Description></Description>
-    <URL>http://bea.gov/scb/pdf/2002/10October/D-Pages/1002AppendixB.pdf</URL>
-    <Category>D-Pages, More Information</Category>
-    <Publication_Date>2002-11-14</Publication_Date>
-    <Modified_Date></Modified_Date>
-    <Supp1_Title></Supp1_Title>
-    <Supp1_URL></Supp1_URL>
-  </row>
+    <row>
+        <ID>SCB-82-11-D-01</ID>
+        <Volume>82</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2002</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2002/11November/1102D-Pages/1102DpgA.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2002-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-11-D-02</ID>
+        <Volume>82</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2002</Year>
+        <Title>Other NIPA and NIPA-Related Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2002/11November/1102D-Pages/1102DpgB.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2002-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-11-D-03</ID>
+        <Volume>82</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2002</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2002/11November/1102D-Pages/1102DpgC.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2002-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-11-D-04</ID>
+        <Volume>82</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2002</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2002/11November/1102D-Pages/1102DpgD.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2002-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-11-D-05</ID>
+        <Volume>82</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2002</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2002/11November/1102D-Pages/1102DpgE.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>2002-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-11-D-06</ID>
+        <Volume>82</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2002</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2002/11November/1102D-Pages/1102DpgF.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2002-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-11-D-07</ID>
+        <Volume>82</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2002</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2002/11November/1102D-Pages/1102DpgG.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2002-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-11-D-08</ID>
+        <Volume>82</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2002</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2002/11November/1102D-Pages/1102DpgH.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2002-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-11-D-09</ID>
+        <Volume>82</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2002</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2002/11November/1102D-Pages/1102DpgI.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>2002-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-11-D-10</ID>
+        <Volume>82</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2002</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2002/11November/1102D-Pages/1102DpgJ.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2002-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-11-D-11</ID>
+        <Volume>82</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2002</Year>
+        <Title>Local Area Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2002/11November/1102D-Pages/1102DpgK.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2002-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-11-D-12</ID>
+        <Volume>82</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2002</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2002/11November/1102D-Pages/1102DpgL.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>2002-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-11-D-13</ID>
+        <Volume>82</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2002</Year>
+        <Title>Additional Information About the NIPA Estimates</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2002/11November/1102D-Pages/1102AppendixA.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2002-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-82-11-D-14</ID>
+        <Volume>82</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>2002</Year>
+        <Title>Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/2002/11November/1102D-Pages/1102AppendixB.pdf</URL>
+        <Category>D-Pages, More Information</Category>
+        <Publication_Date>2002-11-14</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
 </rows>
 <?xml version="1.0" encoding="UTF-8"?>
 <rows>

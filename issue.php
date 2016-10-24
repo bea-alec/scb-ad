@@ -47,7 +47,7 @@ if ($conn->connect_error) {
     die('Connection failed: '.$conn->connect_error);
 }
 
-$sql = "SELECT title, author, url, category, publication_date, description, volume, issue, supp1_url, supp1_title, supp2_url, supp2_title, supp3_url, supp3_title, supp4_url, supp4_title, supp5_url, supp6_title, supp7_url, supp7_title, supp8_url, supp8_title FROM articles WHERE year = $year and month like '$month'";
+$sql = "SELECT title, id, author, url, category, publication_date, description, volume, issue, supp1_url, supp1_title, supp2_url, supp2_title, supp3_url, supp3_title, supp4_url, supp4_title, supp5_url, supp6_title, supp7_url, supp7_title, supp8_url, supp8_title FROM articles WHERE year = $year and month like '$month'";
 $result = $conn->query($sql);
 
 if ($result->num_rows > 0) {
@@ -55,30 +55,34 @@ if ($result->num_rows > 0) {
 // output data of each row
 while ($row = $result->fetch_assoc()) {
     echo "<div class='paper panel panel-default'>";
-    echo "<div class='panel-heading'>";
-    echo "<h2> <a href='".$row['url']."' target='blank'>".$row['title'].'</a></h2>';
-    echo '</div>';
-    echo "<div class='panel-body'>";
-    echo "<div class='col-md-7'>";
-    echo "<p class='lead'>".$row['description'].'</p>';
-    echo "<h3><small><a href='".$row['supp1_url']."' target='blank'>".$row['supp1_title'].'</a></small></h3>';
-    echo "<h3><small><a href='".$row['supp2_url']."' target='blank'>".$row['supp2_title'].'</a></small></h3>';
-    echo "<h3><small><a href='".$row['supp3_url']."' target='blank'>".$row['supp3_title'].'</a></small></h3>';
-    echo "<h3><small><a href='".$row['supp4_url']."' target='blank'>".$row['supp4_title'].'</a></small></h3>';
-    echo "<h3><small><a href='".$row['supp5_url']."' target='blank'>".$row['supp5_title'].'</a></small></h3>';
-    echo "<h3><small><a href='".$row['supp6_url']."' target='blank'>".$row['supp6_title'].'</a></small></h3>';
-    echo "<h3><small><a href='".$row['supp7_url']."' target='blank'>".$row['supp7_title'].'</a></small></h3>';
-    echo "<h3><small><a href='".$row['supp8_url']."' target='blank'>".$row['supp8_title'].'</a></small></h3>';
-    echo '</div>';
-    echo "<div class='col-md-5'>";
-    echo '<h4>Additional Information</h4>';
-    echo '<p><strong>Author</strong>:&nbsp;'.$row['author'].'</p>';
-    echo '<p><strong>Article Category</strong>:&nbsp;'.$row['category'].'</p>';
-    echo '<p><strong>Volume</strong>:&nbsp;'.$row['volume'].'&nbsp;';
-    echo '<strong>Issue</strong>:&nbsp;'.$row['issue'].'</p>';
-    echo '<p><strong>Publication Date</strong>:&nbsp;'.$row['publication_date'].'</p>';
-    echo '</div>';
-    echo '</div>';
+      echo "<div class='panel-heading'>";
+        echo "<h2> <a href='".$row['url']."' target='blank'>".$row['title'].'</a></h2>';
+      echo '</div>';
+      echo "<div class='panel-body'>";
+        echo "<div class='col-md-7'>";
+          echo "<p class='lead'>".$row['description'].'</p>';
+          echo "<h3><small><a href='".$row['supp1_url']."' target='blank'>".$row['supp1_title'].'</a></small></h3>';
+          echo "<h3><small><a href='".$row['supp2_url']."' target='blank'>".$row['supp2_title'].'</a></small></h3>';
+          echo "<h3><small><a href='".$row['supp3_url']."' target='blank'>".$row['supp3_title'].'</a></small></h3>';
+          echo "<h3><small><a href='".$row['supp4_url']."' target='blank'>".$row['supp4_title'].'</a></small></h3>';
+          echo "<h3><small><a href='".$row['supp5_url']."' target='blank'>".$row['supp5_title'].'</a></small></h3>';
+          echo "<h3><small><a href='".$row['supp6_url']."' target='blank'>".$row['supp6_title'].'</a></small></h3>';
+          echo "<h3><small><a href='".$row['supp7_url']."' target='blank'>".$row['supp7_title'].'</a></small></h3>';
+          echo "<h3><small><a href='".$row['supp8_url']."' target='blank'>".$row['supp8_title'].'</a></small></h3>';
+        echo '</div>';
+        echo "<div class='col-md-5'>";
+          echo '<h4>Additional Information</h4>';
+          echo '<p><strong>Author</strong>:&nbsp;'.$row['author'].'</p>';
+          echo '<p><strong>Article Category</strong>:&nbsp;'.$row['category'].'</p>';
+          echo '<p><strong>Volume</strong>:&nbsp;'.$row['volume'].'&nbsp;';
+          echo '<strong>Issue</strong>:&nbsp;'.$row['issue'].'</p>';
+          echo '<p><strong>Publication Date</strong>:&nbsp;'.$row['publication_date'].'</p>';
+          echo '<p><strong>ID</strong>:&nbsp;'.$row['id'].'</p>';
+        echo '</div>';
+      echo '</div>';
+      echo "<div class='panel-footer'>";
+        echo "<p> <a href='".$row['url']."' target='blank'>".$row['url'].'</a></p>';
+      echo '</div>';
     echo '</div>';
 }
 } else {
@@ -93,21 +97,26 @@ if ($conn->connect_error) {
     die('Connection failed: '.$conn->connect_error);
 }
 
-$sql = "SELECT title, url, category FROM dpages WHERE year = $year and month like '$month'";
+$sql = "SELECT id,title, url, category FROM dpages WHERE year = $year and month like '$month'";
 $result = $conn->query($sql);
 
 if ($result->num_rows > 0) {
 echo '<h3>D Pages</h3>';
 echo '<table class="table table-striped table-condensed">';
-echo '<thead>';
-echo '<th class="col-md-5">Title</th>';
-echo '<th>Category</th>';
-echo '</thead>';
+  echo '<thead>';
+    echo '<th class="col-md-2">ID</th>';
+    echo '<th class="col-md-3">Title</th>';
+    echo '<th class="col-md-2">Category</th>';
+    echo '<th class="col-md-3">URL</th>';
+  echo '</thead>';
 echo '<tbody>';
 // output data of each row
 while ($row = $result->fetch_assoc()) {
-    echo "<tr><td><a href='".$row['url']."' target='blank'>".$row['title'].'</a></td>';
-    echo "<td>".$row['category'].'</td></tr>';
+    echo "<tr><td><small>".$row['id'].'</small></td>';
+    echo "<td><small><a href='".$row['url']."' target='blank'>".$row['title'].'</a></small></td>';
+    echo "<td><small>".$row['category'].'</small></td>';
+    echo "<td><small><a href='".$row['url']."' target='blank'>".$row['url'].'</a></small></td>';
+
 }
 echo '</tbody>';
 echo '</table>';

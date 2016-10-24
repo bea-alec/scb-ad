@@ -86,13 +86,13 @@
                 <option value="March">March</option>
                 <option value="April">April</option>
                 <option value="May">May</option>
-                <option value="May">June</option>
-                <option value="May">July</option>
-                <option value="May">August</option>
-                <option value="May">September</option>
-                <option value="May">October</option>
-                <option value="May">November</option>
-                <option value="May">December</option>
+                <option value="June">June</option>
+                <option value="July">July</option>
+                <option value="August">August</option>
+                <option value="September">September</option>
+                <option value="October">October</option>
+                <option value="November">November</option>
+                <option value="December">December</option>
               </select>
             </div>
             <button type="submit" class="btn btn-primary">Submit</button>
