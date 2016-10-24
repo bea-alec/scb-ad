@@ -62,7 +62,7 @@
     <div class="col-md-12">
       <h1><a href="index.php">Survey of Current Business Archives Database</a></h1>
       <h2>D-Pages Inventory</h2>
-        <p class="lead">This page presents a searchable inventory of <em>Survey</em> D-Pages from 1996-2014. Alternatively, you can <a href="issue-archive.php">browse the archives by issue</a> or <a href="article-inventory.php">search the article inventory.</a></p>
+        <p class="lead">This page presents a searchable inventory of <em>Survey</em> D-Pages from 1994-2014. Alternatively, you can <a href="issue-archive.php">browse the archives by issue</a> or <a href="article-inventory.php">search the article inventory.</a></p>
         <br>
         <br>
 <?php

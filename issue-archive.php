@@ -46,7 +46,7 @@
     </div>
     <div class="row">
       <div class="col-md-12">
-        <p class="lead">Use this form to retrieve an issue of the <em>Survey of Current Business</em> from 1996-2016. Alternatively, you can <a href="article-inventory.php">search the article inventory.</a></p>
+        <p class="lead">Use this form to retrieve an issue of the <em>Survey of Current Business</em> from 1994-2016. Alternatively, you can <a href="article-inventory.php">search the article inventory.</a></p>
         <form class="form-horizontal" method = "get" action="issue.php">
           <div class="form-group">
             <label for "year" class="col-md-2 control-label">Year:&nbsp;</label>
@@ -73,6 +73,8 @@
                 <option value="1998">1998</option>
                 <option value="1997">1997</option>
                 <option value="1996">1996</option>
+                <option value="1995">1995</option>
+                <option value="1994">1994</option>
 
             </select>
             </div>
