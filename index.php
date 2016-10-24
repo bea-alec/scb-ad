@@ -65,11 +65,11 @@
         <p class="lead">This application centralizes information about articles and issues of the <em>Survey of Current Business</em> from 1996 to 2016.</p>
         <p class="lead">Using data from <a href="http://bea.gov/scb">BEA.GOV</a>, an inventory of SCB articles (1996-2016) was created and stored in a MySQL database. Information about each article including the author(s), description, date published, volume and issue in which it appeared, as well as any links to supplemental materials were stored in the database to create a machine-readable, canonical repository of <em>Survey</em> archives. It is our intention that this inventory will help to support future efforts to migrate the archives to a Web Content Management System.</p>
         <ul class="list-group">
-          <li class="list-group-item"><h2><i class="fa fa-search" aria-hidden="true"></i><a href="article-inventory.php">Browse and search the article inventory</a></h2></li>
+          <li class="list-group-item"><h2><i class="fa fa-search" aria-hidden="true"></i><a href="article-inventory.php">Browse and search the inventory of articles</a> or <a href="dpages-inventory.php">D-Pages</a></h2></li>
           <li class="list-group-item"><h2><i class="fa fa-book" aria-hidden="true"></i><a href="issue-archive">Look up a specific issue of the <em>Survey</em></a></h2></li>
         </ul>
-</div>
-</div>
-</div>
-        </body>
-        </html>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

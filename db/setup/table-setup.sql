@@ -1,7 +1,3 @@
-CREATE DATABASE bea_scb
-  DEFAULT CHARACTER SET utf8
-  DEFAULT COLLATE utf8_general_ci;
-
 USE bea_scb;
 
 CREATE TABLE articles (
@@ -37,4 +33,17 @@ Supp9_Title VARCHAR(255),
 Supp9_URL TEXT,
 Supp10_Title VARCHAR(255),
 Supp10_URL TEXT
+);
+
+CREATE TABLE dpages (
+ID VARCHAR(20),
+Volume INTEGER,
+Issue INTEGER,
+Month VARCHAR(9),
+Year INTEGER,
+Title VARCHAR(1024),
+URL TEXT,
+Category VARCHAR(255),
+Publication_Date VARCHAR(255),
+Modified_Date VARCHAR(255)
 );

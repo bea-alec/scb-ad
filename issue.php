@@ -126,10 +126,7 @@ echo '</table>';
 }
 $conn->close();
 ?>
-
-
-
 </div>
 </div>
-        </body>
-        </html>
+</body>
+</html>

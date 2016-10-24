@@ -10,7 +10,7 @@
   <link rel="icon" type="image/png" href="assets/img/favicon-96x96.png?v=9BBR3Ay64e" sizes="96x96">
   <link rel="icon" type="image/png" href="assets/img/favicon-16x16.png?v=9BBR3Ay64e" sizes="16x16">
   <link rel="shortcut icon" href="img/favicon.ico?v=9BBR3Ay64e">
-  <title>Article Inventory: Survey of Current Business Digital Archives</title>
+  <title>D Pages Inventory: Survey of Current Business Digital Archives</title>
   <!--Bootstrap-->
   <link rel='stylesheet' type='text/css' href="assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/custom.css" />
@@ -61,8 +61,8 @@
     <div class="row">
     <div class="col-md-12">
       <h1><a href="index.php">Survey of Current Business Archives Database</a></h1>
-      <h2>DPages Inventory</h2>
-        <p class="lead">This page presents a searchable inventory of <em>Survey</em> articles from 1996-2016. Alternatively, you can <a href="issue-archive.php">browse the archives by issue.</a></p>
+      <h2>D-Pages Inventory</h2>
+        <p class="lead">This page presents a searchable inventory of <em>Survey</em> D-Pages from 1996-2014. Alternatively, you can <a href="issue-archive.php">browse the archives by issue</a> or <a href="article-inventory.php">search the article inventory.</a></p>
         <br>
         <br>
 <?php
@@ -75,17 +75,19 @@
           }
 
           //MySqli Select Query
-          $results = $mysqli->query('SELECT id,title,category FROM dpages');
+          $results = $mysqli->query('SELECT id,title,year,url,month,category FROM dpages');
 
           echo '<table class="table table-condensed table-striped table-bordered" id="table1">';
           echo '<thead>';
-          echo '<th class="col-md-1">id</th>';
-          echo '<th class="col-md-1">title</th>';
-          echo '<th class="col-md-4">category</th>';
+          echo '<th class="col-md-1">Year</th>';
+          echo '<th class="col-md-1">Month</th>';
+          echo '<th class="col-md-4">Title</th>';
+          echo '<th class="col-md-3">Category</th>';
           echo '</thead>';
           while ($row = $results->fetch_assoc()) {
               echo '<tr>';
-              echo '<td>'.$row['id'].'</td>';
+              echo '<td>'.$row['year'].'</td>';
+              echo '<td>'.$row['month'].'</td>';
               echo '<td><a href="'.$row['url'].'" target="blank">'.$row['title'].'</a></td>';
               echo '<td>'.$row['category'].'</td>';
               echo '</tr>';

@@ -1,0 +1,2420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-78-01-D-01</ID>
+        <Volume>78</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1998</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0198dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-01-D-02</ID>
+        <Volume>78</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1998</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0198dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-01-D-03</ID>
+        <Volume>78</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1998</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0198dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-01-D-04</ID>
+        <Volume>78</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1998</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1998/0198dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-01-D-05</ID>
+        <Volume>78</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0198dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-01-D-06</ID>
+        <Volume>78</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1998</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0198dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-01-D-07</ID>
+        <Volume>78</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1998</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1998/0198dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-01-D-08</ID>
+        <Volume>78</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1998</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0198dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-01-D-09</ID>
+        <Volume>78</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0198dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-01-D-10</ID>
+        <Volume>78</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1998</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0198dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-01-D-11</ID>
+        <Volume>78</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1998</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0198dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-01-D-12</ID>
+        <Volume>78</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0198dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-01-D-13</ID>
+        <Volume>78</Volume>
+        <Issue>1</Issue>
+        <Month>January</Month>
+        <Year>1998</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/1998/0198dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1998-01-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-78-02-D-01</ID>
+        <Volume>78</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1998</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0298dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-02-D-02</ID>
+        <Volume>78</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1998</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0298dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-02-D-03</ID>
+        <Volume>78</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1998</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0298dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-02-D-04</ID>
+        <Volume>78</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1998</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1998/0298dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-02-D-05</ID>
+        <Volume>78</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0298dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-02-D-06</ID>
+        <Volume>78</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1998</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0298dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-02-D-07</ID>
+        <Volume>78</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1998</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1998/0298dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-02-D-08</ID>
+        <Volume>78</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1998</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0298dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-02-D-09</ID>
+        <Volume>78</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0298dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-02-D-10</ID>
+        <Volume>78</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1998</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0298dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-02-D-11</ID>
+        <Volume>78</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1998</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0298dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-02-D-12</ID>
+        <Volume>78</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0298dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-02-D-13</ID>
+        <Volume>78</Volume>
+        <Issue>2</Issue>
+        <Month>February</Month>
+        <Year>1998</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/1998/0298dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1998-02-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-78-03-D-01</ID>
+        <Volume>78</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1998</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0398dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-03-D-02</ID>
+        <Volume>78</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1998</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0398dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-03-D-03</ID>
+        <Volume>78</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1998</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0398dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-03-D-04</ID>
+        <Volume>78</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1998</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1998/0398dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-03-D-05</ID>
+        <Volume>78</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0398dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-03-D-06</ID>
+        <Volume>78</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1998</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0398dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-03-D-07</ID>
+        <Volume>78</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1998</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1998/0398dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-03-D-08</ID>
+        <Volume>78</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1998</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0398dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-03-D-09</ID>
+        <Volume>78</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0398dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-03-D-10</ID>
+        <Volume>78</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1998</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0398dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-03-D-11</ID>
+        <Volume>78</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1998</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0398dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-03-D-12</ID>
+        <Volume>78</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0398dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-03-D-13</ID>
+        <Volume>78</Volume>
+        <Issue>3</Issue>
+        <Month>March</Month>
+        <Year>1998</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/1998/0398dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1998-03-16</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-78-04-D-01</ID>
+        <Volume>78</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1998</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0498dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-04-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-04-D-02</ID>
+        <Volume>78</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1998</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0498dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-04-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-04-D-03</ID>
+        <Volume>78</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1998</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0498dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-04-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-04-D-04</ID>
+        <Volume>78</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1998</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1998/0498dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-04-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-04-D-05</ID>
+        <Volume>78</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0498dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-04-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-04-D-06</ID>
+        <Volume>78</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1998</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0498dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-04-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-04-D-07</ID>
+        <Volume>78</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1998</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1998/0498dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-04-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-04-D-08</ID>
+        <Volume>78</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1998</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0498dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-04-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-04-D-09</ID>
+        <Volume>78</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0498dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-04-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-04-D-10</ID>
+        <Volume>78</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1998</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0498dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-04-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-04-D-11</ID>
+        <Volume>78</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1998</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0498dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-04-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-04-D-12</ID>
+        <Volume>78</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0498dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-04-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-04-D-13</ID>
+        <Volume>78</Volume>
+        <Issue>4</Issue>
+        <Month>April</Month>
+        <Year>1998</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/1998/0498dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1998-04-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-78-05-D-01</ID>
+        <Volume>78</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1998</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0598dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-05-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-05-D-02</ID>
+        <Volume>78</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1998</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0598dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-05-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-05-D-03</ID>
+        <Volume>78</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1998</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0598dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-05-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-05-D-04</ID>
+        <Volume>78</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1998</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1998/0598dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-05-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-05-D-05</ID>
+        <Volume>78</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0598dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-05-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-05-D-06</ID>
+        <Volume>78</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1998</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0598dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-05-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-05-D-07</ID>
+        <Volume>78</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1998</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1998/0598dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-05-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-05-D-08</ID>
+        <Volume>78</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1998</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0598dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-05-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-05-D-09</ID>
+        <Volume>78</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0598dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-05-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-05-D-10</ID>
+        <Volume>78</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1998</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0598dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-05-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-05-D-11</ID>
+        <Volume>78</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1998</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0598dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-05-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-05-D-12</ID>
+        <Volume>78</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0598dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-05-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-05-D-13</ID>
+        <Volume>78</Volume>
+        <Issue>5</Issue>
+        <Month>May</Month>
+        <Year>1998</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/1998/0598dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1998-05-11</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-78-06-D-01</ID>
+        <Volume>78</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1998</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0698dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-06-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-06-D-02</ID>
+        <Volume>78</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1998</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0698dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-06-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-06-D-03</ID>
+        <Volume>78</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1998</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0698dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-06-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-06-D-04</ID>
+        <Volume>78</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1998</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1998/0698dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-06-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-06-D-05</ID>
+        <Volume>78</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0698dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-06-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-06-D-06</ID>
+        <Volume>78</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1998</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0698dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-06-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-06-D-07</ID>
+        <Volume>78</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1998</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1998/0698dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-06-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-06-D-08</ID>
+        <Volume>78</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1998</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0698dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-06-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-06-D-09</ID>
+        <Volume>78</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0698dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-06-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-06-D-10</ID>
+        <Volume>78</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1998</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0698dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-06-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-06-D-11</ID>
+        <Volume>78</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1998</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0698dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-06-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-06-D-12</ID>
+        <Volume>78</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0698dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-06-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-06-D-13</ID>
+        <Volume>78</Volume>
+        <Issue>6</Issue>
+        <Month>June</Month>
+        <Year>1998</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/1998/0698dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1998-06-10</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-78-07-D-01</ID>
+        <Volume>78</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>1998</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0798dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-07-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-07-D-02</ID>
+        <Volume>78</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>1998</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0798dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-07-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-07-D-03</ID>
+        <Volume>78</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>1998</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0798dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-07-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-07-D-04</ID>
+        <Volume>78</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>1998</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1998/0798dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-07-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-07-D-05</ID>
+        <Volume>78</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0798dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-07-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-07-D-06</ID>
+        <Volume>78</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>1998</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1998/0798dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-07-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-07-D-07</ID>
+        <Volume>78</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>1998</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0798dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-07-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-07-D-08</ID>
+        <Volume>78</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>1998</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0798dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-07-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-07-D-09</ID>
+        <Volume>78</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>1998</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0798dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-07-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-07-D-10</ID>
+        <Volume>78</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0798dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-07-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-07-D-11</ID>
+        <Volume>78</Volume>
+        <Issue>7</Issue>
+        <Month>July</Month>
+        <Year>1998</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/1998/0798dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1998-07-13</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-78-08-D-01</ID>
+        <Volume>78</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>1998</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1998/0898dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-08-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-08-D-02</ID>
+        <Volume>78</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0898dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-08-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-08-D-03</ID>
+        <Volume>78</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>1998</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0898dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-08-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-08-D-04</ID>
+        <Volume>78</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>1998</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1998/0898dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-08-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-08-D-05</ID>
+        <Volume>78</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>1998</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0898dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-08-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-08-D-06</ID>
+        <Volume>78</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0898dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-08-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-08-D-07</ID>
+        <Volume>78</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>1998</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0898dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-08-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-08-D-08</ID>
+        <Volume>78</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>1998</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0898dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-08-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-08-D-09</ID>
+        <Volume>78</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0898dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-08-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-08-D-10</ID>
+        <Volume>78</Volume>
+        <Issue>8</Issue>
+        <Month>August</Month>
+        <Year>1998</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/1998/0898dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1998-08-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-78-09-D-01</ID>
+        <Volume>78</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1998</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0998dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-09-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-09-D-02</ID>
+        <Volume>78</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1998</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0998dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-09-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-09-D-03</ID>
+        <Volume>78</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1998</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0998dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-09-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-09-D-04</ID>
+        <Volume>78</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1998</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1998/0998dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-09-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-09-D-05</ID>
+        <Volume>78</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/0998dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-09-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-09-D-06</ID>
+        <Volume>78</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1998</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0998dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-09-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-09-D-07</ID>
+        <Volume>78</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1998</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1998/0998dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-09-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-09-D-08</ID>
+        <Volume>78</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1998</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0998dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-09-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-09-D-09</ID>
+        <Volume>78</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/0998dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-09-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-09-D-10</ID>
+        <Volume>78</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1998</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0998dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-09-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-09-D-11</ID>
+        <Volume>78</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1998</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0998dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-09-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-09-D-12</ID>
+        <Volume>78</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/0998dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-09-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-09-D-13</ID>
+        <Volume>78</Volume>
+        <Issue>9</Issue>
+        <Month>September</Month>
+        <Year>1998</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/bea/Virtual/1998/0998cov3.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1998-09-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-78-10-D-01</ID>
+        <Volume>78</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1998</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/1098dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-10-08</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-10-D-02</ID>
+        <Volume>78</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1998</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/1098dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-10-08</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-10-D-03</ID>
+        <Volume>78</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1998</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/1098dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-10-08</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-10-D-04</ID>
+        <Volume>78</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1998</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1998/1098dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-10-08</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-10-D-05</ID>
+        <Volume>78</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/1098dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-10-08</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-10-D-06</ID>
+        <Volume>78</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1998</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/1098dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-10-08</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-10-D-07</ID>
+        <Volume>78</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1998</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1998/1098dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-10-08</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-10-D-08</ID>
+        <Volume>78</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1998</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/1098dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-10-08</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-10-D-09</ID>
+        <Volume>78</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/1098dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-10-08</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-10-D-10</ID>
+        <Volume>78</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1998</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/1098dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-10-08</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-10-D-11</ID>
+        <Volume>78</Volume>
+        <Issue>10</Issue>
+        <Month>October</Month>
+        <Year>1998</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/1998/1098dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1998-10-08</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-78-11-D-01</ID>
+        <Volume>78</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>1998</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/1198dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-11-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-11-D-02</ID>
+        <Volume>78</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>1998</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/1198dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-11-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-11-D-03</ID>
+        <Volume>78</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>1998</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/1198dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-11-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-11-D-04</ID>
+        <Volume>78</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>1998</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1998/1198dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-11-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-11-D-05</ID>
+        <Volume>78</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/1198dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-11-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-11-D-06</ID>
+        <Volume>78</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>1998</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/1198dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-11-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-11-D-07</ID>
+        <Volume>78</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>1998</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1998/1198dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-11-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-11-D-08</ID>
+        <Volume>78</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>1998</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/1198dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-11-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-11-D-09</ID>
+        <Volume>78</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/1198dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-11-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-11-D-10</ID>
+        <Volume>78</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>1998</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/1198dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-11-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-11-D-11</ID>
+        <Volume>78</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>1998</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/1198dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-11-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-11-D-12</ID>
+        <Volume>78</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/1198dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-11-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-11-D-13</ID>
+        <Volume>78</Volume>
+        <Issue>11</Issue>
+        <Month>November</Month>
+        <Year>1998</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/1998/1198dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1998-11-12</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <ID>SCB-78-12-D-01</ID>
+        <Volume>78</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>1998</Year>
+        <Title>Selected NIPA Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/1298dpga.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-12-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-12-D-02</ID>
+        <Volume>78</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>1998</Year>
+        <Title>NIPA-Related Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/1298dpgb.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-12-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-12-D-03</ID>
+        <Volume>78</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>1998</Year>
+        <Title>Historical Measures</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/1298dpgc.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-12-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-12-D-04</ID>
+        <Volume>78</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>1998</Year>
+        <Title>Domestic perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPAREL/1998/1298dpgd.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-12-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-12-D-05</ID>
+        <Volume>78</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/NATIONAL/NIPA/1998/1298dpge.pdf</URL>
+        <Category>D-Pages, National Data</Category>
+        <Publication_Date>1998-12-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-12-D-06</ID>
+        <Volume>78</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>1998</Year>
+        <Title>Transactions Table</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/1298dpgf.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-12-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-12-D-07</ID>
+        <Volume>78</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>1998</Year>
+        <Title>Investment Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/FDINVEST/1998/1298dpgg.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-12-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-12-D-08</ID>
+        <Volume>78</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>1998</Year>
+        <Title>International perspectives</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/1298dpgh.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-12-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-12-D-09</ID>
+        <Volume>78</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/INTERNAT/BPA/1998/1298dpgi.pdf</URL>
+        <Category>D-Pages, International Data</Category>
+        <Publication_Date>1998-12-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-12-D-10</ID>
+        <Volume>78</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>1998</Year>
+        <Title>State and Regional Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/1298dpgj.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-12-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-12-D-11</ID>
+        <Volume>78</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>1998</Year>
+        <Title>Local Area Tables</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/1298dpgk.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-12-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-12-D-12</ID>
+        <Volume>78</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>1998</Year>
+        <Title>Charts</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/REGIONAL/perinc/1998/1298dpgl.pdf</URL>
+        <Category>D-Pages, Regional Data</Category>
+        <Publication_Date>1998-12-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+    <row>
+        <ID>SCB-78-12-D-13</ID>
+        <Volume>78</Volume>
+        <Issue>12</Issue>
+        <Month>December</Month>
+        <Year>1998</Year>
+        <Title>Additional Information About the NIPA Estimates, Suggested Reading</Title>
+        <Author></Author>
+        <Description></Description>
+        <URL>http://bea.gov/scb/pdf/BEAWIDE/1998/1298dapx.pdf</URL>
+        <Category>D-Pages, Appendixes</Category>
+        <Publication_Date>1998-12-09</Publication_Date>
+        <Modified_Date></Modified_Date>
+        <Supp1_Title></Supp1_Title>
+        <Supp1_URL></Supp1_URL>
+    </row>
+</rows>
